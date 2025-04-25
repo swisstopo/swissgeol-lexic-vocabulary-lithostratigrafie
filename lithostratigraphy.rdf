@@ -29,9 +29,8 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">This upper level unit encompasses all lithostratigraphic units belonging paleogeographically to the Adriatic continental margin (i.e. previously on the southerm side of the Tethys Ocean) and that are currently found in the Austroalpine and South Alpine tectonic domains.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Adriatische Platte</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Adriatic Plate</skos:prefLabel>
@@ -2150,9 +2149,8 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlpineMagmatism">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">This upper level unit encompasses all plutonic and volcanic units formed during the Alpine orogeny.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Alpines Magmatismus</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Alpine Magmatism</skos:prefLabel>
@@ -2178,7 +2176,6 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Brand-HerrentischTuffite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Brand-Herrentisch-Tuffit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Brand-Herrentisch Tuffite</skos:prefLabel>
@@ -2191,7 +2188,6 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EichbolTuffite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Eichbol-Tuffit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Eichbol Tuffite</skos:prefLabel>
@@ -2204,7 +2200,6 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HohenolberTuffite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Hohenolber-Tuffit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Hohenolber Tuffite</skos:prefLabel>
@@ -2217,7 +2212,6 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MeliroloAugnengneis">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Melirolo-Augnengneis</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Melirolo Augnengneis</skos:prefLabel>
@@ -2230,7 +2224,6 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MonteBassettaQuartzdiorite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Monte-Bassetta-Quarzdiorit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Monte Bassetta Quartzdiorite</skos:prefLabel>
@@ -2243,7 +2236,6 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MonteRossoMicrogranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Monte-Rosso-Mikrogranit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Monte Rosso Microgranite</skos:prefLabel>
@@ -2256,7 +2248,6 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SanFedelinoGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">San-Fedelino-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">San Fedelino Granite</skos:prefLabel>
@@ -2269,7 +2260,6 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SanIorioTonalite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">San-Iorio-Tonalit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">San Iorio Tonalite</skos:prefLabel>
@@ -2282,7 +2272,6 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SeeruckenTuffite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Seerücken-Tuffit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Seerücken Tuffite</skos:prefLabel>
@@ -2295,7 +2284,6 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SoricoTonalite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Sorico-Tonalit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Sorico Tonalite</skos:prefLabel>
@@ -2308,7 +2296,6 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValMasinoGranodiorite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Val-Màsino-Granodiorit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Val Màsino Granodiorite</skos:prefLabel>
@@ -2321,7 +2308,6 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WangenTuf">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Wangen-Tuffschlott</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Wangen Tuf</skos:prefLabel>
@@ -2334,7 +2320,6 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZoccaAplite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Zocca-Aplit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Zocca Aplite</skos:prefLabel>
@@ -2347,7 +2332,6 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlpeCameraccioGranodiorite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Alpe-Cameraccio-Granodiorit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Alpe Cameraccio Granodiorite</skos:prefLabel>
@@ -2373,9 +2357,8 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">This upper level unit encompasses all lithostratigraphic units belonging paleogeographically to the Valaisan Basin (and Piemont-Liguria Ocean) and that are currently found in the Lower Penninic tectonic subdomain.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Walliser Trog</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Valaisan Basin</skos:prefLabel>
@@ -3174,9 +3157,8 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">This upper level unit encompasses all lithostratigraphic units belonging paleogeographically to the European continental margin (including its distal part) and that are currently found in the Northern Alpine Foreland, Helvetic and Lepontine tectonic domains.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Europäische Platte</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">European Plate</skos:prefLabel>
@@ -8369,9 +8351,8 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">This upper level unit encompasses all lithostratigraphic units belonging paleogeographically to the Molasse Basin and currently found in the Northern Alpine Foreland tectonic domain.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Molasse-Becken</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Molasse Basin</skos:prefLabel>
@@ -9890,9 +9871,8 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CerviniaTerrane">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">This upper level unit encompasses all lithostratigraphic units belonging paleogeographically to the Cervinia Terrane, a continental fragment derived from the Adriatic Plate, and currently represented in the Salassic tectonic domain.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Cervinia-Terrane</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Cervinia Terrane</skos:prefLabel>
@@ -10474,7 +10454,7 @@
 	<skos:prefLabel xml:lang="en">Biot Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation du Biot</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione del Biot</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PiémontOcean"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ColerinConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -10680,9 +10660,8 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">This upper level unit encompasses all lithostratigraphic units belonging paleogeographically to the Briançonnais Terran and that are currently found in the Middle Penninic tectonic subdomain.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Briançonnais-Terrane</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Briançonnais Terrane</skos:prefLabel>
@@ -12763,13 +12742,13 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CoulaytesMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Coulaytes Mélange is a tectono-sedimentary mélange situated at the top of the Préalpes Médianes Nappe. It consists of dark pelites with lenses of varying sizes and composition. These exotic blocks are mainly derived from the Préalpes Médianes Rigides (Couches Rouges in particular), but also from the Breccia Nappe and the Upper Prealpine nappes.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Coulaytes-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Coulaytes Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange des Coulaytes</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange delle Coulaytes</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BuufalConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -12777,13 +12756,14 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BuufalConglomerate">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Buufal Conglomerate designates layers of conglomerate to coarse sandstone locally developped at the base of the Coulaytes Mélange. The rounded and subangular components consist mainly of dolomite, dolomitic limestone and siliceous elements. This unit could represent a lateral equivalent of the Cuvigne-Derrey Formation.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Buufal-Konglomerat</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Buufal Conglomerate</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Conglomérat de Buufal</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato di Buufal</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CoulaytesMélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CoulaytesMelange"/>
+	<skos:related rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CuvigneDerreyFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -13946,26 +13926,25 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HabkernGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Habkern Granite is a coarse-grained granite with characteristic oil-green quartz and striking red feldspar. It occurs as exotic blocks in the Habkern Mélange, as pebbles in the basal part of the Schlieren Flysch and as further reworked material in conglomerates of the molasse.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Habkern-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Habkern Granite</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Granite de Habkern</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Granito di Habkern</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HabkernMelange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HabkernMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Habkern-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Habkern Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange de Habkern</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange di Habkern</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -14258,13 +14237,13 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HornbuelMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Hornbüel Mélange comprises a chaotic mixture of mainly Horw Sandstone (Lower Marine Molasse), as well as marl, sandstone and conglomerate of the Lower Freshwater Molasse. This heterogeneous lithostratigraphic unit constitutes the tectonically defined Hornbüel Slice Zone (Subalpine Molasse).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Hornbüel-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Hornbüel Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange de Hornbüel</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange di Hornbüel</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -14339,13 +14318,13 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/IbergMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Iberg-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Iberg Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange d'Iberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange d'Iberg</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:editorialNote xml:lang="en">Currently, the term Iberg Mélange designates both a tectonic unit and its constitutive material in a lithostratigraphic sense.</skos:editorialNote>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -14470,43 +14449,28 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/InfrapraalpineMelange">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Infrapräalpines Melange</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Infrapräalpine Mélange</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Mélange Infrapréalpin</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Mélange Infraprealpino</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BodevenaMelange"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrosPlaneMelange"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BodevenaMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Bodevenna Mélange designates the constitutive material (i.e. considered here as a lithostratigraphic unit) of the tectonically defined Infraprealpine Mélange in the region where it surrounds the Montsalvens massif.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Bodevena-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Bodevena Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange de la Bodevena</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange della Bodevena</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/InfrapräalpineMélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/InfraprealpineMelange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrosPlaneMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Gros Plané Mélange designates the constitutive material (i.e. considered here as a lithostratigraphic unit) of the tectonically defined Infraprealpine Mélange in the sector where it is framed by the Gurnigel Nappe and the Préalpes Médianes Nappe. It consists of lenses of South Helvetic and Sub-Briançonnais paleogeographic origin.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Gros-Plané-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Gros Plané Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange du Gros Plané</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange del Gros Plané</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/InfrapräalpineMélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/InfraprealpineMelange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -15210,13 +15174,13 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LochsitenLimestone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Lochsiten Limestone is a tectonic breccia (kakirite) occuring along the Glarus Thrust. This relatively thin deformation layer regionally swells up and passes laterally to a mélange zone or a slice complex.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Lochsiten-Kalk</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Lochsiten Limestone</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Calcaire de Lochsiten</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Calcare di Lochsiten</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -15514,13 +15478,13 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MartegnasMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Martegnas-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Martegnas Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange du Martegnas</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange del Martegnas</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:editorialNote xml:lang="en">Currently, the term Martegnas Mélange designates both a tectonic unit and its constitutive material in a lithostratigraphic sense.</skos:editorialNote>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -15579,26 +15543,26 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MattentalMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Mättental-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Mättental Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange du Mättental</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange del Mättental</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:editorialNote xml:lang="en">Currently, the term Mättental Mélange designates both a tectonic unit and its constitutive material in a lithostratigraphic sense.</skos:editorialNote>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MattesMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Mattes Mélange is the sommital mélange of the Breccia Nappe. It consists of dark pelites, marlstone, siltite and sandstone, with lenses of varying sizes and composition (mainly Couches Rouges and ophiolitic material).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Mattes-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Mattes Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange des Mattes</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange delle Mattes</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -16432,9 +16396,8 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">This upper level unit encompasses all lithostratigraphic units belonging paleogeographically to the Piemonte-Liguria Ocean (i.e. Alpine Tethys; also including the Briançonnais distal margins and Adriatic allochthons) and that are currently found in the Upper Penninic tectonic subdomain.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Piémont-Ozean</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Piémont Ocean</skos:prefLabel>
@@ -16652,13 +16615,13 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PierreAvoiMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Pierre Avoi Mélange consists of schists, calcschists, conglomerates and microbreccias, with blocks of polymictic breccia (Pierre Avoi Breccia) and siliceous marble (Jurassic), rauwacke, gypsum, dolostone and quartzite (Triassic), as well as black graphitic schists and metasandstones (Permo-Carboniferous). This heterogeneous lithostratigraphic unit constitutes the tectonically defined Pierre Avoi Slice (Sion-Courmayeur Nappe).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Pierre-Avoi-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Pierre Avoi Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange de la Pierre Avoi</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange della Pierre Avoi</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PierreAvoiBreccia"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -16666,13 +16629,13 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PierreAvoiBreccia">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Pierre Avoi Breccia is a massive polymictic breccia with poorly sorted angular elements (limestone, dolostone and rare quartzite) and a calcareous or dolomitic cement. It is only known as blocks within the Pierre Avoi Mélange.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Pierre-Avoi-Brekzie</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Pierre Avoi Breccia</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Brèche de la Pierre Avoi</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Breccia della Pierre Avoi</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PierreAvoiMélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PierreAvoiMelange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -16970,13 +16933,13 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RiffelbergMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Riffelberg Mélange is a chaotic mixture mainly composed of eclogitic metabasalt occuring in the Zermatt-Saas Fee Nappe</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Riffelberg-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Riffelberg Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange du Riffelberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange del Riffelberg</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -17009,55 +16972,42 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RobieiMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Robièi Mélange is a massive, irregular or chaotic flyschoid series with exotic blocks of variable size, developped at the top of the Teggiolo Zone (autochthonous sedimentary cover of the Antigorio Nappe). It consists basically of a finely bedded, monotonous sequence of siltstone, micaceous calcareous sandstone, garnet micaschist and quartzitic sandstone.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Robiei-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Robiei Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange de Robièi</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange di Robièi</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlpeTamiaCampoMelange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PizzoCastelloMelange"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TamierZottMelange"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TamierZoettMelange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlpeTamiaCampoMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Alpe Tamia-Campo Mélange represents the lower part of the Robièi Mélange, comprising exotic blocks of pure white calcite marble (Sevinèra Marble). The size of the blocks tends to increase towards the top.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Alpe-Tamia-Campo-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Alpe Tamia Campo Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange de l'Alpe Tamia-Campo</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange dell'Alpe Tamia-Campo</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RobieiMélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RobieiMelange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PizzoCastelloMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Pizzo Castello Mélange is a peculiar facies of the Robiéi Mélange in the Pizzo Castello region, with gigantic blocks (hundreds of metres, even kilometres) consisting of light grey gneiss, coarse calcareous sandstone (Sevinèra Sandstone), white to yellowish marble (Sevinèra Marble), or a combination of these three lithologies in stratigraphic succession.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Pizzo-Castello-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Pizzo Castello Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange du Pizzo Castello</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange del Pizzo Castello</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RobieiMélange"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TamierZottMelange">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Tamier-Zött-Melange</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Tamier Zött Mélange</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Mélange de Tamier-Zött</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Mélange di Tamier-Zött</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RobieiMélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RobieiMelange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -17354,13 +17304,13 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchabellMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Schabell-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Schabell Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange du Schabell</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange del Schabell</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:editorialNote xml:lang="en">Currently, the term Schabell Mélange designates both a tectonic unit and its constitutive material in a lithostratigraphic sense.</skos:editorialNote>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -17700,13 +17650,13 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SorenbergMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Sörenberg Mélange designates the heterogeneous constitutive material ("wildflysch") of the southwestern part of the Habkern Mélange Zone. It is composed of dark, schistose, more or less silty marlstone with exotic blocks derived from the underlying Helvetic nappes and overlying Penninic nappes (Schlieren Nappe, Préalpes Médianes Nappe).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Sörenberg-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Sörenberg Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange de Sörenberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange di Sörenberg</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -18284,13 +18234,13 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SubmedianeMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Submédiane Mélange (in a lithostratigraphic sense) designates the constitutive material of the tectonically defined Submédiane Zone. </skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Submédiane-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Submédiane Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange Submédian</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange Submédian</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -18427,13 +18377,13 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TissotaMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Tissota Mélange is the sommital mélange of the Simme Nappe. It consists of black and variegated claystone and marlstone with composite exotic blocks or elementary fragments of a pelagic sequence of Mesozoic age (known as the Gueyraz Complex) with Austroalpine to South Alpine affinity.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Tissota-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Tissota Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange de la Tissota</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange della Tissota</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazComplex"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -18441,13 +18391,13 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazComplex">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Gueyraz Complex is a pelagic sequence of Mesozoic age (radiolarites, micritic limestones with aptychi, marly limestones with foraminifers or) with Austroalpine to South Alpine affinity. It is found as composite exotic blocks or elementary fragments in the Tissota Mélange, at the top of the Simme Nappe.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Gueyraz-Komplex</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Gueyraz Complex</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Complexe de la Gueyraz</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Complexe della Gueyraz</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TissotaMélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TissotaMelange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -19375,13 +19325,13 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WildhausMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Wildhaus-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Wildhaus Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange de Wildhaus</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange di Wildhaus</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:editorialNote xml:lang="en">Currently, the term Wildhaus Mélange designates both a tectonic unit and its constitutive material in a lithostratigraphic sense.</skos:editorialNote>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -19555,29 +19505,14 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Zettenalp-TrochemattMelange">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Zettenalp-Trochematt-Melange</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Zettenalp-Trochematt Mélange</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Mélange de la Zettenalp-Trochematt</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Mélange della Zettenalp-Trochematt</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LaubersmadFlysch"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LaubersmadFlysch">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Laubersmad-Flysch</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Laubersmad Flysch</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Flysch du Laubersmad</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Flysch del Laubersmad</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Zettenalp-TrochemattMélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZettenalpTrochemattMelange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -20054,26 +19989,26 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AreuaBruschghornMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Areua-Bruschghorn-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Areua Bruschghorn Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange d'Areua-Bruschghorn</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange d'Areua-Bruschghorn</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:editorialNote xml:lang="en">Currently, the term Areua-Bruschghorn Mélange designates both a tectonic unit and its constitutive material in a lithostratigraphic sense.</skos:editorialNote>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ArosaMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Arosa Mélange consists of a shaly matrix with slivers of ophiolites (e.g. Totalp Ophiolite Complex), pelagic sediments and flysch sequences, as well as crystalline basement and Triassic sediments with Austroalpine affinity. This heterogeneous lithostratigraphic unit constitutes the tectonically defined Arosa Zone (Upper Penninic).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Arosa-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Arosa Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange d'Arosa</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange di Arosa</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Mélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BargellaBreccia"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BettlerjochBreccia"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
@@ -20082,26 +20017,26 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BargellaBreccia">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Bargella Breccia is a coarse dolomitic breccia with rare radiolaritic components in a light grey to red, partly micritic groundmass. It occurs locally within the Arosa Mélange at the tectonic base of the Arosa Zone.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Bargella-Brekzie</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Bargella Breccia</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Brèche de Bargella</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Breccia di Bargella</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ArosaMélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ArosaMelange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BettlerjochBreccia">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">The Bettlerjoch Breccia is a monomictic to polymictic breccia with silico-calcareous concretions occuring locally within the Arosa Mélange.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Bettlerjoch-Brekzie</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Bettlerjoch Breccia</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Brèche du Bettlerjoch</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Breccia del Bettlerjoch</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ArosaMélange"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ArosaMelange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -21347,9 +21282,8 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:definition xml:lang="en">This upper level unit encompasses all Mélanges, be they of sedimentary and/or tectonic origin.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Mélange</skos:prefLabel>
@@ -21360,7 +21294,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HabkernMelange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HornbuelMelange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/IbergMelange"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/InfrapraalpineMelange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LochsitenLimestone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MartegnasMelange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MattentalMelange"/>
@@ -21373,9 +21306,10 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SubmedianeMelange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TissotaMelange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WildhausMelange"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Zettenalp-TrochemattMelange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AreuaBruschghornMelange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ArosaMelange"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/InfraprealpineMelange"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZettenalpTrochemattMelange"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Supergroup</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -21442,6 +21376,48 @@
 	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce del Sagentobel</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TösswaldBeds"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/InfraprealpineMelange">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Infrapräalpines Melange</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Mélange Infrapréalpin</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Mélange Infraprealpino</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Infraprealpine Mélange</skos:prefLabel>
+	<skos:editorialNote xml:lang="en">Currently, the term Prealpine Mélange designates both a tectonic unit and its constitutive material in a lithostratigraphic sense.</skos:editorialNote>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BodevenaMelange"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrosPlaneMelange"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZettenalpTrochemattMelange">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Zettenalp-Trochematt Mélange consists of a turbiditic sequence (schistose marlstone, sandstone and bioclastic breccia), with blocks of Laubersmad Flysch.</skos:definition>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Zettenalp-Trochematt-Melange</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Zettenalp-Trochematt Mélange</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Mélange de la Zettenalp-Trochematt</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Mélange della Zettenalp-Trochematt</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LaubersmadFlysch"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TamierZoettMelange">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Tamier-Zött Mélange represents the upper part of the Robièi Mélange, comprising exotic blocks of gneiss of varying nature, sometimes migmatitic and frequently containing basic veins. The size of the blocks increases towards the top.</skos:definition>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Tamier-Zött-Melange</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Tamier Zött Mélange</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Mélange de Tamier-Zött</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Mélange di Tamier-Zött</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RobieiMelange"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
