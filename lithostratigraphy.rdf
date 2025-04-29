@@ -2146,6 +2146,14 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StChristopheFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PlanknerbrueckeFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BaerenhornFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NiesenFlysch"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VoironsFlysch"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GurnigelFlysch"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchlierenFlysch"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WaegitalFlysch"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LiechstensteinFlysch"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PraettigauSchist"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StaetzerhornGroup"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Supergroup</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -2280,6 +2288,7 @@
 	<skos:prefLabel xml:lang="fr">Formation de Frutigen</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Frutigen</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NiesenFlysch"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FrutigenConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -2592,6 +2601,7 @@
 	<skos:prefLabel xml:lang="fr">Formation de Seron</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Seron</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NiesenFlysch"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SeronConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -17389,7 +17399,6 @@
 	<skos:prefLabel xml:lang="fr">Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange</skos:prefLabel>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CoulaytesMelange"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HabkernGranite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HabkernMelange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HornbuelMelange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/IbergMelange"/>
@@ -17711,6 +17720,11 @@
 	<skos:prefLabel xml:lang="de">Niesen-Flysch</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Flysch del Niesen</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ChesselbachFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FrutigenFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NiesenkulmFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SeronFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AigremontBreccia"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VoironsFlysch">
@@ -17721,6 +17735,10 @@
 	<skos:prefLabel xml:lang="de">Voirons-Flysch</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Falda dei Voirons</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BoegeMarl"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BruantSandstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VoironsSandstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VouanConglomerate"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GurnigelFlysch">
@@ -17731,6 +17749,11 @@
 	<skos:prefLabel xml:lang="it">Flysch del Gurnigel</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Gurnigel-Flysch</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GurnigelFlysch2"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GurnigelFlysch3"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GurnigelFlysch4"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GurnigelFlysch5"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HellstaettFormation"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HellstaettFormation">
@@ -17750,6 +17773,9 @@
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="en">Schlieren Flysch</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GuberSandstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchlierenSandstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchoniSandstone"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WaegitalFlysch">
@@ -17771,6 +17797,8 @@
 	<skos:prefLabel xml:lang="fr">Flysch du Liechtenstein</skos:prefLabel>
 	<skos:altLabel xml:lang="de">Liechtensteiner Flysch</skos:altLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TriesenFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VaduzFlysch"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VaduzFlysch">
@@ -17782,6 +17810,9 @@
 	<skos:prefLabel xml:lang="it">Flysch di Vaduz</skos:prefLabel>
 	<skos:altLabel xml:lang="de">Vaduzer Flysch</skos:altLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LiechstensteinFlysch"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EichholztobelFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GaschloFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchlossFormation"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PraettigauSchist">
@@ -17792,6 +17823,15 @@
 	<skos:prefLabel xml:lang="fr">Schistes du Prättigau</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Scisti del Prättigau</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EggbergFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FaduraFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GyrenspitzFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RuchbergFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SassaunaFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValzeinaFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KlusFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OberaelpliFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfaevigratFormation"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfaevigratFormation">
@@ -17816,6 +17856,10 @@
 	<skos:prefLabel xml:lang="it">Gruppo del Stätzerhorn</skos:prefLabel>
 	<skos:altLabel xml:lang="de">Tomül-Flysch</skos:altLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ParneglFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DanisFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RaschilFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BleisPintgasFormation"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfulweBasalt">
