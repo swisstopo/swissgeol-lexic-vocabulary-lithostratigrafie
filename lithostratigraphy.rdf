@@ -2188,6 +2188,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ChesselbachFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Chesselbach Formation is the stratigraphically uppermost unit of the Niesen Flysch. It consists of thinly bedded turbiditic alternation of sandstones and schistose pelites.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Chesselbach-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Chesselbach Formation</skos:prefLabel>
@@ -2272,6 +2273,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FrutigenFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Frutigen Formation is the lowermost part of the Niesen Flysch consisting of sandy-shaly, sandy-calcareous and conglomeratic (especially in the roof and locally at the base) beds intercalated within dark and shiny argilaceous schists. The upper limit is defined by the onset of light-coloured micritic limestone, characteristic of the overlying Niesenkulm Formation. The lower boundary between the flysch sequence and the equally calcareous, sandy and shaly Grande-Eau Formation has not yet been uniformly revised.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Frutigen-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Frutigen Formation</skos:prefLabel>
@@ -2362,6 +2364,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NiesenkulmFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Niesenkulm Formation represents the lower part of the Niesen Flysch, with characteristic white micritic limestones and limestone breccias («Niesenbreccie» auct.). The heterogeneous, tightly bedded lithologies of the Niesenkulm Formation are framed by two prominent conglomeratic layers (the «Conglomérat intermédiaire» of the underlying Frutigen Formation and the «Conglomérat moyen» of the overlying Seron Formation).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Niesenkulm-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Niesenkulm Formation</skos:prefLabel>
@@ -2582,6 +2585,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SeronFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Seron Formation represents a relatively massive succession in the upper part of the Niesen Flysch. It consists of thick beds of polymictic conglomerate topped by bioclastic sandy limestone. It overlies the Niesenkulm Formation (which is characterised by the presence of light-coloured micritic limestones and the absence of conglomerates). The Seron Formation is stratigraphically overlain by the Chesselbach Formation, which is found exclusively west of the Simme. Elsewhere, it is in tectonic contact with the Submédiane Zone.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Seron-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Seron Formation</skos:prefLabel>
@@ -2658,6 +2662,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AigremontBreccia">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Aigremont Breccia is a thickly bedded (mega)breccia occuring locally at the base of the Niesen Flysch (and hence considered as part of the Frutigen Formation or as a lateral equivalent of this unit). The components are of various sizes, poorly sorted and heterogeneous in nature (granites, gneisses, chlorite schists, sandstones and limestones). They are embedded in a black clayey matrix.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Aigremont-Brekzie</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Aigremont Breccia</skos:prefLabel>
@@ -6855,9 +6860,7 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BlauenGranite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BoisDeRaubeFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BrendenbachMarl"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Cret-Du-LocleFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CyathulaBed"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Cyrenenmergel"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DaubreeConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DegersheimConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DiegtenLimestone"/>
@@ -6865,7 +6868,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Fischschiefer"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Foraminiferenmergel"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FormationOfTheGraniticMolasse"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GabrisConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GerignozFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GitzischopfConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GolatLimestone"/>
@@ -6876,21 +6878,14 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrindeleggFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrisigenMarl"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GuggershornFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GummenenFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HaldenhofMarl"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Heuboden-AschitannenConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HilfernFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HohronenConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HombergFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoneggMarl"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HornliFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HorwSandstone"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HullisteinConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/JensbergBeds"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/JordisbodenMarl"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KalchstattenFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KalterWangenFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KapfnachFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KirchbergFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KronbergConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LaCharrueLimestone"/>
@@ -6909,17 +6904,12 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseACharbon"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseGriseDeLausanne"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MontPelerinConglomerate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MumliswilLimestone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NapfFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NiedermattFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OberdorfLimestone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ObereBunteMolasse"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OhningenFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OligrabenFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OltingueCalcarenite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OrbeLimestone"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PeryGerollsande"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfanderBeds"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfannenstielBeds"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PorrentruyConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RandenLimestone"/>
@@ -6927,27 +6917,42 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RigiFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RigiScheideggConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RossemaisonFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchupfereggConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SenseFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Septarienton"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SommersbergConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SpeerFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/St-GallenFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StudweidFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TannenbergBeds"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ThunFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TroisRodsLimestone"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TullingenLimestone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UerscheliFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UetlibergBeds"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VaulruzFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VermesLimestone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WeggisFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZurichBeds"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AargauerJuranagelfluh"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AbtwilConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AjoieGompholite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlsaceMolasse"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CretDuLocleFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CyrenenMarlstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GaebrisConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GuemmenenFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HeubodenAeschitannenConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoehronenConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoernliFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HuellisteinConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KalchstaettenFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KaepfnachFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MuemliswilLimestone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OehningenFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OeligrabenFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PeryGeroellsande"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfaenderBeds"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchuepfereggConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StGallenFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TuellingenLimestone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UeetlibergBeds"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZuerichBeds"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Supergroup</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -6974,10 +6979,10 @@
 	<skos:prefLabel xml:lang="fr">Formation du Belpberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione del Belpberg</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ButschelbachConglomerate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SadelConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UlmizConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UtzigenSandstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BuetschelbachConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SaedelConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -7024,19 +7029,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Cret-Du-LocleFormation">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Crêt-du-Locle-Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Crêt-du-Locle Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Formation du Crêt-du-Locle</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Formazione del Crêt-du-Locle</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CyathulaBed">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -7045,19 +7037,6 @@
 	<skos:prefLabel xml:lang="en">Cyathula Bed</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Banc à Cyathula</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Strato a Cyathula</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Cyrenenmergel">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Cyrenenmergel</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Cyrenenmergel</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Marne à Cyrènes</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Marna a Cyrènes</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -7153,25 +7132,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HombachMember"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MarbachMember"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OberaquitaneMergelzone"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GabrisConglomerate">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Gäbris-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Gäbris Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue du Gäbris</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato del Gäbris</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EggenMember"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GstaldenbachMember"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HeidenMember"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KlusbachMember"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SulzbachConglomerate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SulzbachMember"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -7307,19 +7267,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GummenenFormation">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Gümmenen-Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Gümmenen Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Formation de Gümmenen</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Formazione di Gümmenen</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HaldenhofMarl">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -7328,19 +7275,6 @@
 	<skos:prefLabel xml:lang="en">Haldenhof Marl</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Marne de Haldenhof</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Marna di Haldenhof</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Heuboden-AschitannenConglomerate">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Heuboden-Äschitannen-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Heuboden-Äschitannen Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue de Heuboden-Äschitannen</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato di Heuboden-Äschitannen</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -7355,21 +7289,8 @@
 	<skos:prefLabel xml:lang="fr">Formation de la Hilfern</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione della Hilfern</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FluhliConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UnterLochsitliConglomerate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HohronenConglomerate">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Höhronen-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Höhronen Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue des Höhronen</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato dei Höhronen</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FluehliConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -7383,7 +7304,7 @@
 	<skos:prefLabel xml:lang="fr">Formation de Homberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formation di Homberg</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchwandibachConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchwaendibachConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -7402,23 +7323,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HornliFormation">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Hörnli-Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Hörnli Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Formation du Hörnli</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Formazione del Hörnli</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HornligipfelConglomerate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HornligubelMarl"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KrinauBeds"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TosswaldBeds"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HorwSandstone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -7427,19 +7331,6 @@
 	<skos:prefLabel xml:lang="en">Horw Sandstone</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Grès d'Horw</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Arenaria d'Horw</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HullisteinConglomerate">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Hüllistein-Konglomerat</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Hüllistein Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Conglomérat d'Hüllistein</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato d'Hüllistein</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -7472,20 +7363,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KalchstattenFormation">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Kalchstätten-Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Kalchstätten Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Formation de Kalchstätten</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Formazione di Kalchstätten</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfadflueConglomerate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KalterWangenFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -7495,20 +7372,6 @@
 	<skos:prefLabel xml:lang="fr">Formation du Kalter Wangen</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione del Kalter Wangen</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KapfnachFormation">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Käpfnach-Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Käpfnach Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Formation de Käpfnach</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Formazione di Käpfnach</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Horgen-KapfnachLimestone"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -7535,11 +7398,11 @@
 	<skos:prefLabel xml:lang="fr">Poudingue du Kronberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato del Kronberg</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EnnetbuhlMember"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HochalpMember"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HochflaschliMember"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KrummenauMember"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfingstbodenMember"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EnnetbuehlMember"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HochflaeschliMember"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -7710,9 +7573,9 @@
 	<skos:prefLabel xml:lang="it">Strati di Meilen</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HombrechtikonLimestone"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KusnachtBentonite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LangnauLimestone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UrdorfBentonite"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KuesnachtBentonite"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -7771,19 +7634,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MumliswilLimestone">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Mümliswil-Süsswasserkalk</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Mümliswil Freshwater Limestone</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce de Mümliswil</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce di Mümliswil</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NapfFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -7793,8 +7643,8 @@
 	<skos:prefLabel xml:lang="fr">Formation du Napf</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione del Napf</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EimatteliMember"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WolhusenBentonite"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EimaetteliMember"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -7838,35 +7688,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OhningenFormation">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Öhningen-Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Öhningen Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Formation d'Öhningen</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Formazione d'Öhningen</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BischofszellBentonite"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OhningenLimestone"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RamschwagConglomerate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OligrabenFormation">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Öligraben-Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Öligraben Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Formation de l'Öligraben</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Formazione dell'Öligraben</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OltingueCalcarenite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -7893,35 +7714,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PeryGerollsande">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Péry-Geröllsande</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Péry Geröllsande</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Sable à galets de Péry</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Sable à galets de Péry</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfanderBeds">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Pfänder-Schichten</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Pfänder Beds</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Couches du Pfänder</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Strati del Pfänder</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GebhardsbergConglomerate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KanzelfelsenConglomerate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WirtatobelCoalHorizon"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfannenstielBeds">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -7931,7 +7723,7 @@
 	<skos:prefLabel xml:lang="fr">Couches du Pfannenstiel</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Strati del Pfannenstiel</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FalatschenMarl"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FalaetschenMarlstone"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -7984,8 +7776,8 @@
 	<skos:prefLabel xml:lang="fr">Formation du Rigi</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione del Rigi</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BunteRigi-Nagelfluh"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RadiolaritreicheNagelfluh"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BunteRigiConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -8013,22 +7805,6 @@
 	<skos:prefLabel xml:lang="it">Formazione di Rossemaison</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CourcelonLimestone"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchupfereggConglomerate">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Schüpferegg-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Schüpferegg Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue de la Schüpferegg</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato della Schüpferegg</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GabelspitzBeds"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchallenbergMarl"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SeliConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -8090,24 +7866,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/St-GallenFormation">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">St-Gallen-Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">St-Gallen Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Formation de St-Gall</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Formazione di St-Gall</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DreilindenConglomerate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FreudenbergConglomerate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GitzgrabeSandstone"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ObereGrenznagelfluh"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StaffelbachSandstone"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StudweidFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -8144,7 +7902,7 @@
 	<skos:prefLabel xml:lang="it">Formazione di Thoune</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GuntenConglomerate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HunibachConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HuenibachConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -8162,19 +7920,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TullingenLimestone">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Tüllingen-Süsswasserkalk</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Tüllingen Freshwater Limestone</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce de Tüllingen</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce di Tüllingen</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UerscheliFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -8184,23 +7929,6 @@
 	<skos:prefLabel xml:lang="fr">Formation d'Uerscheli</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione d'Uerscheli</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UetlibergBeds">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Üetliberg-Schichten</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Üetliberg Beds</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Couches de l'Üetliberg</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Strati del Üetliberg</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LoorenkopfConglomerate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UetlibergConglomerate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UetlibergMarl"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UetliberggipfelConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -8240,26 +7968,6 @@
 	<skos:prefLabel xml:lang="fr">Formation de Weggis</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Weggis</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZurichBeds">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Zürich-Schichten</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Zürich Beds</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Couches de Zürich</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Strati di Zürich</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AeugstertalBentonite"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AntlisbergLimestone"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FellitobelLimestone"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LeimbachBentonite"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RutschlibachLimestone"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WehrenbachLimestone"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WinterthurBentonite"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -8475,6 +8183,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GneissMinuti">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Gneiss Minuti Unit of the Sesia Nappe consists mainly of orthogneisses, derived from granitoid of probable Permian age and interbedded with more mafic layers. High-pressure metamorphism of this unit was largely obliterated by the later greenschist-facies metamorphism.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">«Gneiss minuti»</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">«Gneiss minuti»</skos:prefLabel>
@@ -8559,6 +8268,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MicascistiEclogitici">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Eclogitic Micaschist Unit of the Sesia Nappe comprises mostly paragneisses with minor mafic rocks, orthogneisses and calcitic marbles. Eclogitic mineral assemblages are well preserved, rarely overprinted by the subsequent greenschist-facies metamorphism.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">«Micascisti eclogitici»</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">«Micascisti eclogitici»</skos:prefLabel>
@@ -8722,32 +8432,6 @@
 	<skos:prefLabel xml:lang="it">Ortogneiss di Arolla</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CerviniaTerrane"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ButschelbachConglomerate">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Bütschelbach-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Bütschelbach Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue du Bütschelbach</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato del Bütschelbach</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BelpbergFormation"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SadelConglomerate">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Sädel-Kalknagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Sädel Calcareous Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue calcaire de Sädel</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato Calcare di Sädel</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BelpbergFormation"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
@@ -11382,7 +11066,7 @@
 	<skos:prefLabel xml:lang="en">Eggen Member</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Membre de l'Eggen</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro dell'Eggen</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GäbrisConglomerate"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GaebrisConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -11395,7 +11079,7 @@
 	<skos:prefLabel xml:lang="en">Gstaldenbach Member</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Membre du Gstaldenbach</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro del Gstaldenbach</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GäbrisConglomerate"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GaebrisConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -11408,7 +11092,7 @@
 	<skos:prefLabel xml:lang="en">Heiden Member</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Membre de Heiden</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro di Heiden</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GäbrisConglomerate"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GaebrisConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -11421,7 +11105,7 @@
 	<skos:prefLabel xml:lang="en">Klusbach Member</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Membre du Klusbach</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro del Klusbach</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GäbrisConglomerate"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GaebrisConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -11434,7 +11118,7 @@
 	<skos:prefLabel xml:lang="en">Sulzbach Conglomerate</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Poudingue de Sulzbach</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato di Sulzbach</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GäbrisConglomerate"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SulzbachMember"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -11447,7 +11131,7 @@
 	<skos:prefLabel xml:lang="en">Sulzbach Member</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Membre de Sulzbach</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro di Sulzbach</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GäbrisConglomerate"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GaebrisConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -11758,7 +11442,7 @@
 	<skos:prefLabel xml:lang="en">Tillerée Beds</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Couches de Tillerée</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Strati di Tillerée</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrèsetMarnesGrisàGypse"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GresEtMarnesGrisAGypse"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -11969,19 +11653,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FluhliConglomerate">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Flühli-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Flühli Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue de Flühli</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato di Flühli</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HilfernFormation"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UnterLochsitliConglomerate">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -12019,19 +11690,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchwandibachConglomerate">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Schwändibach-Nagallfuh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Schwändibach Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue de Schwändibach</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato di Schwändibach</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HombergFormation"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KaltbachConglomerate">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -12058,33 +11716,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HornligipfelConglomerate">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Hörnligipfel-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Hörnligipfel Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue du Hörnligipfel</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato del Hörnligipfel</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HörnliFormation"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HornligubelMarl">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Hörnligubel-Mergel</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Hörnligubel Marl</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Marne du Hörnligubel</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Marna del Hörnligubel</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HörnliFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HocheggBreccia"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KrinauBeds">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -12093,22 +11724,8 @@
 	<skos:prefLabel xml:lang="en">Krinau Beds</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Couches de Krinau</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Strati di Krinau</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HörnliFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RumikonLimestone"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TosswaldBeds">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Tösswald-Schichten</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Tösswald Beds</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Couches du Tösswald</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Strati del Tösswald</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HörnliFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SagentobelLimestone"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoernliFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RuemikonLimestone"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -12323,32 +11940,6 @@
 	<skos:prefLabel xml:lang="it">Wellendolomit</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KaiseraugstFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfadflueConglomerate">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Pfadflüe-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Pfadflüe Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue de la Pfadflüe</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato della Pfadflüe</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KalchstättenFormation"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Horgen-KapfnachLimestone">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Horgen-Käpfnach-Süsswasserkalk</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Horgen-Käpfnach Freshwater Limestone</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce de Horgen-Käpfnach</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce di Horgen-Käpfnach</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KäpfnachFormation"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
@@ -12573,19 +12164,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EnnetbuhlMember">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Ennetbühl-Member</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Ennetbühl Member</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Membre d'Ennetbühl</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Membro d'Ennetbühl</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KronbergConglomerate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HochalpMember">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -12594,19 +12172,6 @@
 	<skos:prefLabel xml:lang="en">Hochalp Member</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Membre de la Hochalp</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro della Hochalp</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KronbergConglomerate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HochflaschliMember">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Hochfläschli-Member</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Hochfläschli Member</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Membre de la Hochfläschli</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Membro della Hochfläschli</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KronbergConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -13206,19 +12771,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KusnachtBentonite">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Küsnacht-Bentonit</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Küsnacht Bentonite</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Bentonite de Küsnacht</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Bentonite di Küsnacht</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MeilenBeds"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LangnauLimestone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -13359,7 +12911,7 @@
 	<skos:prefLabel xml:lang="en">Bois Genoud Bentonite</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Bentonite de Bois-Genoud</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Bentonite di Bois-Genoud</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseGrisedeLausanne"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseGriseDeLausanne"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -13372,7 +12924,7 @@
 	<skos:prefLabel xml:lang="en">Cuarny Sandstone</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Grès de Cuarny</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Arenaria di Cuarny</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseGrisedeLausanne"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseGriseDeLausanne"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -13543,20 +13095,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EimatteliMember">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Eimätteli-Member</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Eimätteli Member</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Membre d'Eimätteli</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Membro di Eimätteli</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NapfFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BlapbachCoalHorizon"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WolhusenBentonite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -13617,20 +13155,7 @@
 	<skos:prefLabel xml:lang="en">Bischofszell Bentonite</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Bentonite de Bischofszell</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Bentonite di Bischofszell</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ÖhningenFormation"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OhningenLimestone">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Öhningen-Süsswasserkalk</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Öhningen Freshwater Limestone</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce d'Öhningen</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce d'Öhningen</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ÖhningenFormation"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OehningenFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -13643,7 +13168,7 @@
 	<skos:prefLabel xml:lang="en">Ramschwag Conglomerate</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Poudingue de la Ramschwag</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato della Ramschwag</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ÖhningenFormation"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OehningenFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -13893,7 +13418,7 @@
 	<skos:prefLabel xml:lang="en">Gebhardsberg Conglomerate</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Poudingue du Gebhardsberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato del Gebhardsberg</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfänderBeds"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfaenderBeds"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -13906,7 +13431,7 @@
 	<skos:prefLabel xml:lang="en">Kanzelfelsen Conglomerate</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Poudingue de Kanzelfelsen</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato di Kanzelfelsen</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfänderBeds"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfaenderBeds"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -13919,21 +13444,8 @@
 	<skos:prefLabel xml:lang="en">Wirtatobel Coal Horizon</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Horizon charbonneux du Wirtatobel</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Orizzonte del Wirtatobel</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfänderBeds"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfaenderBeds"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FalatschenMarl">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Falätschen-Mergel</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Falätschen Marl</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Marne de la Falätschen</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Marna della Falätschen</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfannenstielBeds"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
@@ -14435,19 +13947,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BunteRigi-Nagelfluh">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Bunte Rigi-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Bunte Rigi-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Bunte Rigi-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Bunte Rigi-Nagelfluh</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RigiFormation"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RadiolaritreicheNagelfluh">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -14924,7 +14423,7 @@
 	<skos:prefLabel xml:lang="en">Gabelspitz Beds</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Couches de la Gabelspitz</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Strati della Gabelspitz</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchüpfereggConglomerate"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchuepfereggConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -14937,7 +14436,7 @@
 	<skos:prefLabel xml:lang="en">Schallenberg Marl</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Marne du Schallenberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Marna del Schallenberg</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchüpfereggConglomerate"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchuepfereggConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -14950,7 +14449,7 @@
 	<skos:prefLabel xml:lang="en">Seli Conglomerate</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Poudingue de Seli</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato di Seli</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchüpfereggConglomerate"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchuepfereggConglomerate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -15386,7 +14885,7 @@
 	<skos:prefLabel xml:lang="en">Dreilinden Conglomerate</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Poudingue de Dreilinden</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato di Dreilinden</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/St-GallenFormation"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StGallenFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -15399,7 +14898,7 @@
 	<skos:prefLabel xml:lang="en">Freudenberg Conglomerate</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Poudingue du Freudenberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato del Freudenberg</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/St-GallenFormation"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StGallenFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -15412,7 +14911,7 @@
 	<skos:prefLabel xml:lang="en">Gitzgrabe Coarse Sandstone</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Grès grossier du Gitzgrabe</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Arenaria grossolana del Gitzgrabe</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/St-GallenFormation"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StGallenFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -15425,7 +14924,7 @@
 	<skos:prefLabel xml:lang="en">Obere Grenznagelfluh</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Obere Grenznagelfluh</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Obere Grenznagelfluh</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/St-GallenFormation"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StGallenFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GoldbrunnenBeds"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -15439,7 +14938,7 @@
 	<skos:prefLabel xml:lang="en">Staffelbach Coarse Sandstone</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Grès grossier de Staffelbach</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Arenaria grossier di Staffelbach</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/St-GallenFormation"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StGallenFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -15602,19 +15101,6 @@
 	<skos:prefLabel xml:lang="en">Gunten Quartzitic Conglomerate</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Poudingue quartzitique de Gunten</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato quarzitico di Gunten</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ThunFormation"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HunibachConglomerate">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Hünibach-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Hünibach Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue de Hünibach</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato di Hünibach</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ThunFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -15827,46 +15313,7 @@
 	<skos:prefLabel xml:lang="en">Loorenkopf Conglomerate</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Poudingue du Loorenkopf</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato del Loorenkopf</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ÜetlibergBeds"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UetlibergConglomerate">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Üetliberg-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Üetliberg Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue de l'Üetliberg</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato del Üetliberg</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ÜetlibergBeds"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UetlibergMarl">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Üetliberg-Mergel</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Üetliberg Marl</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Marne de l'Üetliberg</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Marna del Üetliberg</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ÜetlibergBeds"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UetliberggipfelConglomerate">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Üetliberggipfel-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Üetliberggipfel Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue de l'Üetliberggipfel</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato del Üetliberggipfel</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ÜetlibergBeds"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UeetlibergBeds"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -16535,20 +15982,7 @@
 	<skos:prefLabel xml:lang="en">Aeugstertal Bentonite</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Bentonite de l'Aeugstertal</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Bentonite dell'Aeugstertal</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZürichBeds"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AntlisbergLimestone">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Äntlisberg-Süsswasserkalk</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Äntlisberg Freshwater Limestone</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce de l'Äntlisberg</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce dell'Äntlisberg</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZürichBeds"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZuerichBeds"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -16561,7 +15995,7 @@
 	<skos:prefLabel xml:lang="en">Fellitobel Freshwater Limestone</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce du Fellitobel</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce del Fellitobel</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZürichBeds"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZuerichBeds"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -16574,20 +16008,7 @@
 	<skos:prefLabel xml:lang="en">Leimbach Bentonite</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Bentonite de Leimbach</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Bentonite di Leimbach</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZürichBeds"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RutschlibachLimestone">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Rütschlibach-Süsswasserkalk</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Rütschlibach Freshwater Limestone</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce du Rütschlibach</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce del Rütschlibach</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZürichBeds"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZuerichBeds"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -16600,7 +16021,7 @@
 	<skos:prefLabel xml:lang="en">Wehrenbach Freshwater Limestone</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce du Wehrenbach</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce del Wehrenbach</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZürichBeds"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZuerichBeds"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -16613,7 +16034,7 @@
 	<skos:prefLabel xml:lang="en">Winterthur Bentonite</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Bentonite de Winterthur</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Bentonite di Winterthur</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZürichBeds"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZuerichBeds"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -16783,6 +16204,7 @@
 	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce de Delémont</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce di Delémont</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlsaceMolasse"/>
+	<skos:related rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TuellingenLimestone"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -17871,32 +17293,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HocheggBreccia">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Höchegg-Brekzie</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Höchegg Breccia</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Brèche de la Höchegg</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Breccia della Höchegg</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HörnligubelMarl"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RumikonLimestone">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Rümikon-Süsswasserkalk</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Rümikon Freshwater Limestone</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce de Rümikon</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce di Rümikon</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KrinauBeds"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LaPrestaClaystone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
@@ -18063,19 +17459,6 @@
 	<skos:prefLabel xml:lang="fr">Horizon du Wildenberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Orizzonte del Wildenberg</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RubliMember"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SagentobelLimestone">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Sagentobel-Süsswasserkalk</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Sagentobel Freshwater Limestone</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce du Sagentobel</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce del Sagentobel</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TösswaldBeds"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -18321,6 +17704,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NiesenFlysch">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The informal generic term Niesen Flysch (also known as «Flysch des Mosses», «Flysch du Chaussy» or «Tauben-Flysch») designates the often coarse-grained flysch sequence building up the Niesen Nappe. Although tectonically bounded, it consists of a succession of 4 lithostratigraphic formations, strongly folded and sliced.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="en">Niesen Flysch</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Flysch du Niesen</skos:prefLabel>
@@ -18508,6 +17892,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SecondaZonaDioritico-Kinzigitica">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Second Dioritic-Kinzigitic Zone (2DK) of the Sesia Nappe consists of kilometer-scale slices of micaschists, characterized by well-preserved pre-Alpine amphibolite to granulite-facies mineral assemblages as well as minor amphibolites and marbles, locally overprinted by the early Alpine high-pressure metamorphism.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">«Seconda Zona Dioritico-Kinzigitica»</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">«Seconda Zona Dioritico-Kinzigitica»</skos:prefLabel>
@@ -20586,6 +19971,662 @@
 	<skos:prefLabel xml:lang="fr">Salzlager</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Salzlager</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZeglingenFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BuetschelbachConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Bütschelbach-Nagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Bütschelbach Conglomerate</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Poudingue du Bütschelbach</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Conglomerato del Bütschelbach</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BelpbergFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SaedelConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Sädel-Kalknagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Sädel Calcareous Conglomerate</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Poudingue calcaire de Sädel</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Conglomerato Calcare di Sädel</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BelpbergFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CretDuLocleFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Crêt-du-Locle-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Crêt-du-Locle Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation du Crêt-du-Locle</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione del Crêt-du-Locle</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CyrenenMarlstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Cyrenenmergel</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Cyrenenmergel</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Marne à Cyrènes</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Marna a Cyrènes</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GaebrisConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Gäbris-Nagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Gäbris Conglomerate</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Poudingue du Gäbris</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Conglomerato del Gäbris</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EggenMember"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GstaldenbachMember"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HeidenMember"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KlusbachMember"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SulzbachConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SulzbachMember"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GuemmenenFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Gümmenen-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Gümmenen Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation de Gümmenen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione di Gümmenen</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HeubodenAeschitannenConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Heuboden-Äschitannen-Nagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Heuboden-Äschitannen Conglomerate</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Poudingue de Heuboden-Äschitannen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Conglomerato di Heuboden-Äschitannen</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FluehliConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Flühli-Nagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Flühli Conglomerate</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Poudingue de Flühli</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Conglomerato di Flühli</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HilfernFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoehronenConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Höhronen-Nagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Höhronen Conglomerate</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Poudingue des Höhronen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Conglomerato dei Höhronen</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchwaendibachConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Schwändibach-Nagallfuh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Schwändibach Conglomerate</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Poudingue de Schwändibach</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Conglomerato di Schwändibach</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HombergFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoernliFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Hörnli-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Hörnli Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation du Hörnli</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione del Hörnli</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KrinauBeds"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoernligipfelConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoernligubelMarlstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ToesswaldBeds"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoernligipfelConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Hörnligipfel-Nagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Hörnligipfel Conglomerate</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Poudingue du Hörnligipfel</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Conglomerato del Hörnligipfel</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoernliFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoernligubelMarlstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Hörnligubel-Mergel</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Hörnligubel Marl</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Marne du Hörnligubel</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Marna del Hörnligubel</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoernliFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoecheggBreccia"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoecheggBreccia">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Höchegg-Brekzie</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Höchegg Breccia</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Brèche de la Höchegg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Breccia della Höchegg</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoernligubelMarlstone"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RuemikonLimestone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Rümikon-Süsswasserkalk</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Rümikon Freshwater Limestone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce de Rümikon</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce di Rümikon</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KrinauBeds"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ToesswaldBeds">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Tösswald-Schichten</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Tösswald Beds</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Couches du Tösswald</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Strati del Tösswald</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoernliFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SaegentobelLimestone"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SaegentobelLimestone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Sagentobel-Süsswasserkalk</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Sagentobel Freshwater Limestone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce du Sagentobel</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce del Sagentobel</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ToesswaldBeds"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HuellisteinConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Hüllistein-Konglomerat</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Hüllistein Conglomerate</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Conglomérat d'Hüllistein</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Conglomerato d'Hüllistein</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KalchstaettenFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Kalchstätten-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Kalchstätten Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation de Kalchstätten</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione di Kalchstätten</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfadflueeConglomerate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfadflueeConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Pfadflüe-Nagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Pfadflüe Conglomerate</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Poudingue de la Pfadflüe</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Conglomerato della Pfadflüe</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KalchstaettenFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KaepfnachFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Käpfnach-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Käpfnach Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation de Käpfnach</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione di Käpfnach</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HorgenKaepfnachLimestone"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HorgenKaepfnachLimestone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Horgen-Käpfnach-Süsswasserkalk</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Horgen-Käpfnach Freshwater Limestone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce de Horgen-Käpfnach</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce di Horgen-Käpfnach</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KaepfnachFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EnnetbuehlMember">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Ennetbühl-Member</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Ennetbühl Member</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Membre d'Ennetbühl</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Membro d'Ennetbühl</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KronbergConglomerate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HochflaeschliMember">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Hochfläschli-Member</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Hochfläschli Member</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Membre de la Hochfläschli</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Membro della Hochfläschli</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KronbergConglomerate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KuesnachtBentonite">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Küsnacht-Bentonit</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Küsnacht Bentonite</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Bentonite de Küsnacht</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Bentonite di Küsnacht</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MeilenBeds"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MuemliswilLimestone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Mümliswil-Süsswasserkalk</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Mümliswil Freshwater Limestone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce de Mümliswil</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce di Mümliswil</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EimaetteliMember">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Eimätteli-Member</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Eimätteli Member</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Membre d'Eimätteli</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Membro di Eimätteli</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NapfFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BlapbachCoalHorizon"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OehningenFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Öhningen-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Öhningen Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation d'Öhningen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione d'Öhningen</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BischofszellBentonite"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RamschwagConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OehningenLimestone"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OehningenLimestone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Öhningen-Süsswasserkalk</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Öhningen Freshwater Limestone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce d'Öhningen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce d'Öhningen</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OehningenFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OeligrabenFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Öligraben-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Öligraben Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation de l'Öligraben</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione dell'Öligraben</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PeryGeroellsande">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Péry-Geröllsande</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Péry Geröllsande</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Sable à galets de Péry</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sable à galets de Péry</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfaenderBeds">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Pfänder-Schichten</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Pfänder Beds</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Couches du Pfänder</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Strati del Pfänder</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GebhardsbergConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KanzelfelsenConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WirtatobelCoalHorizon"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FalaetschenMarlstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Falätschen-Mergel</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Falätschen Marl</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Marne de la Falätschen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Marna della Falätschen</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfannenstielBeds"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BunteRigiConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Bunte Rigi-Nagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Bunte Rigi-Nagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Bunte Rigi-Nagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Bunte Rigi-Nagelfluh</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RigiFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchuepfereggConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Schüpferegg-Nagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Schüpferegg Conglomerate</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Poudingue de la Schüpferegg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Conglomerato della Schüpferegg</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GabelspitzBeds"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchallenbergMarl"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SeliConglomerate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StGallenFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">St-Gallen-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">St-Gallen Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation de St-Gall</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione di St-Gall</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DreilindenConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FreudenbergConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GitzgrabeSandstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ObereGrenznagelfluh"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StaffelbachSandstone"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HuenibachConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Hünibach-Nagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Hünibach Conglomerate</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Poudingue de Hünibach</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Conglomerato di Hünibach</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ThunFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TuellingenLimestone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Tüllingen-Süsswasserkalk</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Tüllingen Freshwater Limestone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce de Tüllingen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce di Tüllingen</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:related rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DelemontLimestone"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UeetlibergBeds">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Üetliberg-Schichten</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Üetliberg Beds</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Couches de l'Üetliberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Strati del Üetliberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LoorenkopfConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UeetlibergConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UeetliberggipfelConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UeetlibergMarlstone"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UeetlibergConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Üetliberg-Nagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Üetliberg Conglomerate</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Poudingue de l'Üetliberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Conglomerato del Üetliberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UeetlibergBeds"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UeetliberggipfelConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Üetliberggipfel-Nagelfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Üetliberggipfel Conglomerate</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Poudingue de l'Üetliberggipfel</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Conglomerato del Üetliberggipfel</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UeetlibergBeds"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UeetlibergMarlstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Üetliberg-Mergel</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Üetliberg Marl</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Marne de l'Üetliberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Marna del Üetliberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UeetlibergBeds"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZuerichBeds">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Zürich-Schichten</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Zürich Beds</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Couches de Zürich</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Strati di Zürich</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AeugstertalBentonite"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FellitobelLimestone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LeimbachBentonite"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WehrenbachLimestone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WinterthurBentonite"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AentlisbergLimestone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RuetschlibachLimestone"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AentlisbergLimestone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Äntlisberg-Süsswasserkalk</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Äntlisberg Freshwater Limestone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce de l'Äntlisberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce dell'Äntlisberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZuerichBeds"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RuetschlibachLimestone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Rütschlibach-Süsswasserkalk</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Rütschlibach Freshwater Limestone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Calcaire d'eau douce du Rütschlibach</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce del Rütschlibach</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZuerichBeds"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SeronConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The «Conglomérat Moyen» is a coarse-grained interval characterising the lower part of the Seron Formation. It consists of thick beds of polymictic conglomerate with poorly sorted, rounded or angular elements (blue-grey limestone, Aptychus limestone, white limestone).</skos:definition>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="en">«Conglomérat Moyen»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Conglomérat Moyen»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Conglomérat Moyen»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Conglomérat Moyen»</skos:prefLabel>
+	<skos:altLabel xml:lang="en">«Middle Conglomerate»</skos:altLabel>
+	<skos:altLabel xml:lang="de">«Mittleres Konglomerat»</skos:altLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SeronFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FrutigenConglomerate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The «Conglomérat Intermédiaire» is a coarse-grained interval characterising the upper part of the Frutigen Formation. It consists of thick beds of sandstone and polymictic conglomerate, comprising fragments of green or grey granite, gabbro, chlorite gneiss, mica schist, dolomitic limestone, as well as debris of sea urchins, bryozoans and foraminifera.</skos:definition>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="en">«Conglomérat Intermédiaire»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Conglomérat Intermédiaire»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Conglomérat Intermédiaire»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Conglomérat Intermédiaire»</skos:prefLabel>
+	<skos:altLabel xml:lang="en">«Intermediäres Konglomerat»</skos:altLabel>
+	<skos:altLabel xml:lang="en">«Intermediate Conglomerate»</skos:altLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FrutigenFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
