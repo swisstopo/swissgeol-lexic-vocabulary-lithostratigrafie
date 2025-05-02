@@ -59,8 +59,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FanezFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FineroPeridotite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FornaleGabbro"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ForunAugengneiss"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FrauenkirchAugengneis"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FuorclaGneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FuornFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GaroneFormation"/>
@@ -70,12 +68,10 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HaupterBreccia"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/IvreaMaficComplex"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/JulierGranodiorite"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KeschAugengneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LechFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LosoneSchist"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LucinoConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MacchiaVecchia"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MacunAugengneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MaiolicoLombarda"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MannoFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MerideFormation"/>
@@ -94,7 +90,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PizLinardAmphibolite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PizzellaMarl"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PizzoLeoneGneiss"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PlasseggenAugengneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PonteganaConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PontidaFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PrellaConglomerate"/>
@@ -121,7 +116,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ScagliaVariegataLombarda"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SelciferoLombardo"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Servino"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SesvennaAugengneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SironeFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SovagliaPorphyrite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StabbielloGneiss"/>
@@ -131,8 +125,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TremonaFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TristelFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TschimaDaFlixGranitporphyry"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TschuggenAugengneiss"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UrezzasAugengneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValGardenaSandstone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValGondasQuarzdiorite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValRudeOrthogneiss"/>
@@ -152,20 +144,29 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ArlbergFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AllgaeuFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BroccatelloDArzo"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FlueelaAugengneis"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GuestiziaGneis"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HeinischStafelFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KoessenFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LaRoesaOrthogneiss"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MoenchalpAugengneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MueschaunsDolomite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PizTrovatRhyolite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PraebichlFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RadoentAugengneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RotbueelGranite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SCharlFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SassQuederRhyolite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VauegliaGranodiorite"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FlueelaGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ForunGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FrauenkirchGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GuestiziaGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KeschGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MacunGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MoenchalpGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PlasseggenGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RadoentGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SesvennaGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TschuggenGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UrezzasGneiss"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/tectonicunit/373"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Supergroup</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -667,32 +668,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ForunAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Forun-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Forun Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Forun</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Forun</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FrauenkirchAugengneis">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Frauenkirch-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Frauenkirch Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Frauenkirch</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Frauenkirch</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FuorclaGneiss">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -769,6 +744,7 @@
 	<skos:prefLabel xml:lang="fr">Formation de Gutenstein</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Gutenstein</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<skos:exactMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/569"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -812,19 +788,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KeschAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Kesch-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Kesch Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Piz Kesch</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Piz Kesch</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LechFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -834,6 +797,7 @@
 	<skos:prefLabel xml:lang="fr">Formation de Lech</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Lech</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/674"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -876,19 +840,6 @@
 	<skos:prefLabel xml:lang="en">Macchia Vecchia</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Macchia Vecchia</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Macchia Vecchia</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MacunAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Macun-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Macun Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Macun</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Macun</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -1148,19 +1099,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PlasseggenAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Plasseggen-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Plasseggen Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Plasseggen</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Plasseggen</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PonteganaConglomerate">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -1250,6 +1188,7 @@
 	<skos:prefLabel xml:lang="fr">Formation de Reichenhall</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Reichenhall</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/792"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -1263,6 +1202,7 @@
 	<skos:prefLabel xml:lang="fr">Formation de Reiflingen</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Reiflingen</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/793"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -1316,6 +1256,7 @@
 	<skos:prefLabel xml:lang="fr">Formation de Ruhpolding</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Ruhpolding</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/810"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -1508,19 +1449,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SesvennaAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Sesvenna-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Sesvenna Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé de la Sesvenna</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino della Sesvenna</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SironeFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -1634,6 +1562,7 @@
 	<skos:prefLabel xml:lang="it">Formazione di Tristel</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MinschunBreccia"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/892"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -1646,32 +1575,6 @@
 	<skos:prefLabel xml:lang="en">Tschima da Flix Granitporphyry</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Granitporphyre de la Tschima da Flix</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Granitporfiro della Tschima da Flix</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TschuggenAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Tschuggen-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Tschuggen Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Tschuggen</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Tschuggen</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UrezzasAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Urezzas-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Urezzas Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé de l'Urezzas</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Urezzas</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -1887,6 +1790,7 @@
 	<skos:prefLabel xml:lang="fr">Formation d'Ammergau</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Ammergau</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<skos:exactMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/437"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -1900,6 +1804,7 @@
 	<skos:prefLabel xml:lang="fr">Formation de l'Arlberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione dell'Arlberg</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/384"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -1916,7 +1821,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Brand-HerrentischTuffite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EichbolTuffite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HohenolberTuffite"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MeliroloAugnengneis"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MonteBassettaQuartzdiorite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MonteRossoMicrogranite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SanFedelinoGranite"/>
@@ -1927,6 +1831,7 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZoccaAplite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlpeCameraccioGranodiorite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WangenTuffite"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MeliroloGneiss"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Supergroup</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -1965,19 +1870,6 @@
 	<skos:prefLabel xml:lang="en">Hohenolber Tuffite</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Tuffite du Hohenolber</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Tuffite del Hohenolber</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlpineMagmatism"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MeliroloAugnengneis">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:definition xml:lang="en">The Melirolo Augengneiss is a porphyric metagranodiorite with hornblende and plagioclase phenocrists. It occurs at the southern edge of the Iorio Tonalite.</skos:definition>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Melirolo-Augnengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Melirolo Augnengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Melirolo</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Melirolo</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlpineMagmatism"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -2466,6 +2358,7 @@
 	<skos:prefLabel xml:lang="it">Formazione del Reiselsberg</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchwabbruennenMember"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/796"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -2779,7 +2672,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GamsbodenGranite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GannaGneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GanterGneiss"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GarenstockAugengneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GarschellaFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GarzelliGranite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GarzottBreccia"/>
@@ -2834,7 +2726,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LindauGranite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LodanoGneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LognanOrthogneiss"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LucomagnoAugengneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LuisinOrthogneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LunschaniaQuartzite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LuzzoneGneiss"/>
@@ -3057,6 +2948,9 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UeblitalFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WiesenWehratalComplex"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WindgaellenFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GarenstockGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LucomagnoGneiss"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/tectonicunit/372"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Supergroup</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -3405,6 +3299,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ChambotteFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Chambotte Formation is a lithostratigraphic unit of Early Cretaceous age found in the southwestern part of the Jura Mountains. It consists of whitish bioclastic to biomicritic limestone («pseudoolitic limestone») in decimetre- to metre-thick beds.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Chambotte-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Chambotte Formation</skos:prefLabel>
@@ -3586,7 +3481,7 @@
 	<skos:prefLabel xml:lang="it">Formazione del Diechtergletscher</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GarwiidiDiorite"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MaasplanggstockMetaandesite"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MaasplanggstockAndesite"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -3616,6 +3511,7 @@
 	<skos:prefLabel xml:lang="it">Calcare a Diphyoides</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WildguntenBed"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/483"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -3869,18 +3765,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GarenstockAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Garenstock-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Garenstock Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Garenstock</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Garenstock</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GarschellaFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
@@ -3895,6 +3779,7 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HochkugelBeds"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RankweilMember"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GruentenMember"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/531"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -3973,6 +3858,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GoldbergFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Goldberg Formation is the lowermost lithostratigraphic unit of Early Cretaceous age found in the southwestern part of the Jura Mountains. It is predominanty marly but comprises a wide variety of multicoloured lithologies (oolitic, bioclastic, oncolitic or peloid limestones, green marlstones, polymictic breccias with «black pebbles», evaporites) and characteristic freshwater to brackish water fossils.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Goldberg-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Goldberg Formation</skos:prefLabel>
@@ -4010,6 +3896,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrandEssertFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Grand Essert Formation is a lithostratigraphic unit of Early Cretaceous age found in the southwestern part of the Jura Mountains. It consists of a predominantly marly lower part (Hauterive Member), overlain an upper mostly made up of yellow limestones (Neuchâtel Member).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Grand-Essert-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Grand Essert Formation</skos:prefLabel>
@@ -4522,6 +4409,7 @@
 	<skos:prefLabel xml:lang="fr">Couches de la Leimern</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Strati della Leimern</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/676"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -4591,18 +4479,6 @@
 	<skos:prefLabel xml:lang="en">Lognan Orthogneiss</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Orthogneiss de Lognan</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Ortogneiss di Lognan</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LucomagnoAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Lukmanier-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Lucomagno Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Lucomagno</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Lucomagno</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -4970,6 +4846,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NarlayFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Narlay Formation is a lithostratigraphic unit of Late Cretaceous age found in the southwestern part of the Jura Mountains. It consists of well-bedded whitish to yellowish chalky limestones, rich in planktonic foraminifera and other microfossils, sometimes with chert. It also includes cephalopod-bearing marly limestones.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Narlay-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Narlay Formation</skos:prefLabel>
@@ -5055,7 +4932,7 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OberstafelGneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SoresciaGneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValCamadraMigmatite"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValGrondaAugengneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValGrondaGneiss"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -5107,6 +4984,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PerteDuRhoneFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Perte-du-Rhône Formation is a lithostratigraphic unit of Early Cretaceous age found in the southwestern part of the Jura Mountains. It consists of greenish glauconitic sandstones with phosphate levels, as well as intercalations of marly limestone and sandy claystone («Grès verts», resp. «Gault» of previous authors).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Perte-du-Rhône-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Perte du Rhône Formation</skos:prefLabel>
@@ -5146,6 +5024,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PierreChatelFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Pierre-Châtel Formation is a lithostratigraphic unit of Early Cretaceous age found in the southwestern part of the Jura Mountains. It consists of white to reddish micritic, bioclastic or oolitic limestone, with cross-bedding and charophyte-bearing marlstone intercalations in its lower part («Lower Oolitic Unit»or «Mergel- und Kalkzone»), whereas more massive miciritc limestone predominates towards the top («Middle Limestone Unit», still with oolitic and bioclastic intercalations).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Pierre-Châtel-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Pierre Châtel Formation</skos:prefLabel>
@@ -5377,6 +5256,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RocherDesHirondellesFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Rocher des Hirondelles Formation is a lithostratigraphic unit of Early Cretaceous age found in the southwestern part of the Jura Mountains. It consists of massive beds of white rudist-bearing bioclastic limestone (grainstone, packstone, wackestone).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Rocher-des-Hirondelles-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Rocher des Hirondelles Formation</skos:prefLabel>
@@ -5638,6 +5518,7 @@
 	<skos:prefLabel xml:lang="it">Formazione del Schrattenkalk</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RawilMember"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/833"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -5651,6 +5532,7 @@
 	<skos:prefLabel xml:lang="it">Formazione di Seewen</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CholtalMember"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/843"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -5872,9 +5754,9 @@
 	<skos:prefLabel xml:lang="fr">Complexe du Streifengneiss</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Complesso del Streifengneiss</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SassinaAugengneiss"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlpRamosaOrthogneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HueenerstockGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlpRamosaGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SassinaGneiss"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -6430,6 +6312,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VionsFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Vions Formation is a lithostratigraphic unit of Early Cretaceous age found in the southwestern part of the Jura Mountains. It consists of dark-coloured, sometimes reddish (iron oxides), more or less clayey/marly micritic or calcarenitic limestone, always finely quartziferous and generally forming decimetre-thick beds. The unit contains traces of charcoal and numerous bioturbations (tracks and burrows).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Vions-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Vions Formation</skos:prefLabel>
@@ -6478,6 +6361,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VuacheFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Vuache Formation is a lithostratigraphic unit of Early Cretaceous age found in the southwestern part of the Jura Mountains. It consists of brownish-red spaty and oolitic platty limestone with marlstone interlayers. Echinodermic limestone become more frequent towards the top.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Vuache-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Vuache Formation</skos:prefLabel>
@@ -6501,6 +6385,7 @@
 	<skos:prefLabel xml:lang="it">Formazione di Wang</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WangBreccia"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/919"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -6652,6 +6537,7 @@
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GassenLimestone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GraspassMember"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/947"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -7142,6 +7028,7 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HombachMember"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MarbachMember"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OberaquitaneMergelzone"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/556"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -8736,7 +8623,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/JouxVerteFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KalkbergSeries"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LirecFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MacugnagaAugengneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MetaillerFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MezzalamaGranite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolesonFormation"/>
@@ -8757,13 +8643,11 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PrejaFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PrintseFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/QuarzsandsteinFlysch"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RandaAugengneis"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RoffnaGneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RossiniereFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RotePlatteFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RottalMigmatite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RuitorGneissComplex"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SaasFeeAugengneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SanaladaFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SapeyGneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SassenerieBreccia"/>
@@ -8794,7 +8678,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlmagelhornMigmatite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ArvelFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdlerflueeFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BoeshornGneis"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BraendjispitzGabbro"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DorfflueeFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FuorclaDAlpFormation"/>
@@ -8804,6 +8687,10 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SciernesDAlbeuveFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StTriphonFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ThyonGranophyre"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BoeshornGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MacugnagaGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RandaGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SaasFeeGneiss"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Supergroup</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -9089,6 +8976,7 @@
 	<skos:prefLabel xml:lang="fr">Brèche du Falknis</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Breccia del Falknis</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BriançonnaisTerrane"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/509"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -9102,6 +8990,7 @@
 	<skos:prefLabel xml:lang="fr">Fleckenkalk-Flysch</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Fleckenkalk-Flysch</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BriançonnaisTerrane"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/713"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -9295,19 +9184,6 @@
 	<skos:prefLabel xml:lang="en">Lirec Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation de Lirec</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Lirec</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BriançonnaisTerrane"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MacugnagaAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Macugnaga-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Macugnaga Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Macugnaga</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Macugnaga</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BriançonnaisTerrane"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -9577,19 +9453,7 @@
 	<skos:prefLabel xml:lang="fr">Quarzsandstein-Flysch</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Quarzsandstein-Flysch</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BriançonnaisTerrane"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RandaAugengneis">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Randa-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Randa Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Randa</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Randa</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BriançonnaisTerrane"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/532"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -9661,21 +9525,8 @@
 	<skos:prefLabel xml:lang="fr">Complexe gneissique du Ruitor</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Complesso gneissico del Ruitor</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BriançonnaisTerrane"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LacerandesAugengneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MontMortMetapelite"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SaasFeeAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Saas-Fee-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Saas Fee Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Saas Fee</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Saas Fee</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BriançonnaisTerrane"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LacerandesGneiss"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -9856,6 +9707,7 @@
 	<skos:prefLabel xml:lang="fr">Calcaire de la Sulzfluh</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Calcare della Sulzfluh</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BriançonnaisTerrane"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/873"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -10640,18 +10492,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MaasplanggstockMetaandesite">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Maasplanggstock-Metaandesit</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Maasplanggstock Metaandesite</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Méta-andésite du Maasplanggstock</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Meta-andesite del Maasplanggstock</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DiechtergletscherFormation"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Plattensandstein">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
@@ -11201,6 +11041,7 @@
 	<skos:prefLabel xml:lang="fr">Membre du Freschen</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro del Freschen</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GarschellaFormation"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/525"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -11213,6 +11054,7 @@
 	<skos:prefLabel xml:lang="fr">Membre du Hochkugel</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro del Hochkugel</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GarschellaFormation"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/590"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -11225,30 +11067,6 @@
 	<skos:prefLabel xml:lang="fr">Membre de Rankweil</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro di Rankweil</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GarschellaFormation"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BitschjiAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Bitschji-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Bitschji Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Bitschji</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Bitschji</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GaersthornGneissComplex"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GeimenAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Geimen-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Geimen Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Geimen</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Geimen</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GaersthornGneissComplex"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -13191,6 +13009,7 @@
 	<skos:prefLabel xml:lang="fr">Formation à Palombini</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione a Palombini</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/753"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -13250,18 +13069,6 @@
 	<skos:prefLabel xml:lang="en">Val Camadra Migmatite</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Migmatite du Val Camadra</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Migmatite del Val Camadra</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ParadisGneissComplex"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValGrondaAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Val-Gronda-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Val Gronda Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Val Gronda</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Val Gronda</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ParadisGneissComplex"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -13429,6 +13236,7 @@
 	<skos:prefLabel xml:lang="fr">Poudingue du Gebhardsberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato del Gebhardsberg</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfaenderBeds"/>
+	<skos:exactMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/534"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Bed</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -13590,6 +13398,7 @@
 	<skos:prefLabel xml:lang="fr">Formation de la Verspala</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione della Verspala</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/911"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -13614,6 +13423,7 @@
 	<skos:prefLabel xml:lang="fr">Schiste de l'Alpbach</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Scisto dell'Alpbach</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean"/>
+	<skos:exactMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/426"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -14189,19 +13999,6 @@
 	<skos:prefLabel xml:lang="fr">Membre du Sandhubel</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro del Sandhubel</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RuinaFormation"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LacerandesAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Lacerandes-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Lacerandes Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé des Lacerandes</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino delle Lacerandes</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RuitorGneissComplex"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -14953,18 +14750,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SassinaAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Sassina-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Sassina Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Sassina</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Sassina</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StreifengneisComplex"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AndoncesMember">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -15148,6 +14933,7 @@
 	<skos:prefLabel xml:lang="fr">Membre du Drusberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro del Drusberg</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TierwisFormation"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/491"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -17725,6 +17511,8 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NiesenkulmFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SeronFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AigremontBreccia"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Group</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VoironsFlysch">
@@ -17739,6 +17527,8 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BruantSandstone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VoironsSandstone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VouanConglomerate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Group</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GurnigelFlysch">
@@ -17754,6 +17544,8 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GurnigelFlysch4"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GurnigelFlysch5"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HellstaettFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Group</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HellstaettFormation">
@@ -17776,6 +17568,8 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GuberSandstone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchlierenSandstone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchoniSandstone"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Group</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WaegitalFlysch">
@@ -17786,6 +17580,8 @@
 	<skos:prefLabel xml:lang="fr">Flysch du Wägital</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Flysch del Wägital</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Group</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LiechstensteinFlysch">
@@ -17799,6 +17595,8 @@
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TriesenFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VaduzFlysch"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Group</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VaduzFlysch">
@@ -17813,6 +17611,8 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EichholztobelFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GaschloFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchlossFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Subgroup</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PraettigauSchist">
@@ -17832,6 +17632,8 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KlusFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OberaelpliFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfaevigratFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Group</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfaevigratFormation">
@@ -17860,6 +17662,8 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DanisFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RaschilFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BleisPintgasFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Group</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfulweBasalt">
@@ -17964,6 +17768,7 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SpadlatschaLimestone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StidierLimestone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TrupchunMember"/>
+	<skos:exactMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/425"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -18028,30 +17833,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FlueelaAugengneis">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Flüela-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Flüela Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé de la Flüela</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino della Flüela</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GuestiziaGneis">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Güstizia-Gneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Güstizia Gneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss de la Güstizia</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss della Güstizia</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HeinischStafelFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
@@ -18078,6 +17859,7 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RamozMember"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchesaplanaMember"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZirmenkopfLimestone"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/655"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -18118,18 +17900,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MoenchalpAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Mönchalp-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Mönchalp Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé de la Mönchalp</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino della Mönchalp</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MueschaunsDolomite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
@@ -18163,18 +17933,7 @@
 	<skos:prefLabel xml:lang="fr">Formation de Präbichl</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Präbichl</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RadoentAugengneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Radönt-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Radönt Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Radönt</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Radönt</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/780"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -18240,18 +17999,6 @@
 	<skos:prefLabel xml:lang="it">Formazione dell'Adlerflüe</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MinugratEclogite"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BoeshornGneis">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Böshorn-Gneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Böshorn Gneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss du Böshorn</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss del Böshorn</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -18329,6 +18076,7 @@
 	<skos:prefLabel xml:lang="fr">Formation de la Fuorcla d'Alp</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione della Fuorcla d'Alp</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
+	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/526"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -18532,6 +18280,7 @@
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LeibodenMarlstone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LeistMarlstone"/>
+	<skos:exactMatch rdf:resource="http://resource.geolba.ac.at/GeologicUnit/435"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -18917,8 +18666,8 @@
 	<skos:prefLabel xml:lang="fr">Complexe gneissique du Gärsthorn</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Complesso gneissico del Gärsthorn</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BitschjiAugengneiss"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GeimenAugengneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BitschjiGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GeimenGneiss"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -18937,6 +18686,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GorgesDeLOrbeFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Gorges de l'Orbe Formation is a lithostratigraphic unit of Early Cretaceous age found in the southwestern part of the Jura Mountains. It consists of limestone with a beige-yellow patina (grey-blue when broken), often lumpy or pseudo-nodular and rich in oolites, sometimes bioclastic («Lower Urgonian» or «Urgonien Jaune» of previous authors). Fossiliferous marly and marly-calcareous intercalations  («Russille Marls» auct.) occur in its upper part.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Gorges-de-l'Orbe-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Gorges de l'Orbe Formation</skos:prefLabel>
@@ -19675,18 +19425,6 @@
 	<skos:prefLabel xml:lang="it">Complesso gneissico del Straligenstöckli</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlpRamosaOrthogneiss">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Alp-Ramosa-Granitgneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Alp Ramosa Granitic Gneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss granitique de l'Alp Ramosa</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss granitico dell'Alp Ramosa</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StreifengneisComplex"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
@@ -20671,6 +20409,331 @@
 	<skos:altLabel xml:lang="en">«Intermediäres Konglomerat»</skos:altLabel>
 	<skos:altLabel xml:lang="en">«Intermediate Conglomerate»</skos:altLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FrutigenFormation"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BoeshornGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Böshorn-Gneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Böshorn Gneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss du Böshorn</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss del Böshorn</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FlueelaGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Flüela-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Flüela Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé de la Flüela</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino della Flüela</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BitschjiGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Bitschji-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Bitschji Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Bitschji</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Bitschji</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GaersthornGneissComplex"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ForunGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Forun-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Forun Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Forun</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Forun</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlpRamosaGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Alp-Ramosa-Granitgneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Alp Ramosa Granitic Gneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss granitique de l'Alp Ramosa</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss granitico dell'Alp Ramosa</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StreifengneisComplex"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FrauenkirchGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Frauenkirch-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Frauenkirch Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Frauenkirch</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Frauenkirch</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GarenstockGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Garenstock-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Garenstock Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Garenstock</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Garenstock</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GeimenGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Geimen-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Geimen Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Geimen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Geimen</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GaersthornGneissComplex"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GuestiziaGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Güstizia-Gneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Güstizia Gneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss de la Güstizia</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss della Güstizia</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KeschGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Kesch-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Kesch Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Piz Kesch</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Piz Kesch</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LacerandesGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Lacerandes-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Lacerandes Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé des Lacerandes</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino delle Lacerandes</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RuitorGneissComplex"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LucomagnoGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Lukmanier-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Lucomagno Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Lucomagno</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Lucomagno</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MacugnagaGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Macugnaga-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Macugnaga Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Macugnaga</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Macugnaga</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BriançonnaisTerrane"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MacunGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Macun-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Macun Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Macun</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Macun</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MeliroloGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Melirolo Augengneiss is a porphyric metagranodiorite with hornblende and plagioclase phenocrists. It occurs at the southern edge of the Iorio Tonalite.</skos:definition>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Melirolo-Augnengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Melirolo Augnengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Melirolo</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Melirolo</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlpineMagmatism"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MoenchalpGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Mönchalp-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Mönchalp Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé de la Mönchalp</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino della Mönchalp</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PlasseggenGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Plasseggen-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Plasseggen Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Plasseggen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Plasseggen</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RadoentGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Radönt-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Radönt Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Radönt</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Radönt</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RandaGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Randa-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Randa Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Randa</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Randa</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BriançonnaisTerrane"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SaasFeeGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Saas-Fee-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Saas Fee Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Saas Fee</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Saas Fee</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BriançonnaisTerrane"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SassinaGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Sassina-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Sassina Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Sassina</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Sassina</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StreifengneisComplex"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SesvennaGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Sesvenna-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Sesvenna Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé de la Sesvenna</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino della Sesvenna</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TschuggenGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Tschuggen-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Tschuggen Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Tschuggen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Tschuggen</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UrezzasGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Urezzas-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Urezzas Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé de l'Urezzas</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Urezzas</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValGrondaGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Val-Gronda-Augengneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Val Gronda Augengneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Val Gronda</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Val Gronda</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ParadisGneissComplex"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MaasplanggstockAndesite">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Maasplanggstock-Metaandesit</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Maasplanggstock Metaandesite</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Méta-andésite du Maasplanggstock</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Meta-andesite del Maasplanggstock</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DiechtergletscherFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
