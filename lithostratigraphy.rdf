@@ -174,6 +174,9 @@
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
 	<skos:prefLabel xml:lang="en">Lithostratigraphy</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Lithostratigraphie</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Litostratigrafia</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Lithostratigraphie</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AugstenBreccia">
@@ -2826,7 +2829,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StockbergQuartzporphyry"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StreifengneisComplex"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StremGranite"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/St-UrsanneFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SurbrunnenFlysch"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TaminaGneissComplex"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TaveyannazFormation"/>
@@ -2950,6 +2952,7 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WindgaellenFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GarenstockGneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LucomagnoGneiss"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StUrsanneFormation"/>
 	<skos:closeMatch rdf:resource="http://resource.geolba.ac.at/tectonicunit/372"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Supergroup</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -2993,6 +2996,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BalsthalFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Balsthal Formation is a lithostratigraphic unit of the Malm of the Jura Mountains. It mainly consists of oolitic to oncolitic limestone, with subordinated micritic limestone and rare local small coral bioherms. It is well-bedded in its lower part, more massive and often chalky in its upper part.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Balsthal-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Balsthal Formation</skos:prefLabel>
@@ -3114,9 +3118,9 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Bosco-Gneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Bosco Gneis</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Gneiss de Bosco</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Gneiss di Bosco</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Bosco Gneiss</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BatnallGneiss"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
@@ -3210,6 +3214,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BurghornFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Burghorn Formation is a lithostratigraphic unit of the Malm of the north-eastern part of the Jura Mountains. It consists of marlstone and marly limestone in its lower part (Baden Member), followed by dark yellowish-grey thickly bedded limestone and light-coloured massive limestone with siliceous concretions in its upper part (Wettingen Member).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Burghorn-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Burghorn Formation</skos:prefLabel>
@@ -3399,6 +3404,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CourgenayFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Courgenay Formation is a lithostratigraphic unit of the Malm of the Ajoie region. It consists of well-bedded micritic limestone (La May Member), overlain by pure white, more massive, more or less chalky micritic limestone (Porrentruy Member, representing a lateral equivalent of the Verena Member at the top of the Balsthal Formation).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Courgenay-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Courgenay Formation</skos:prefLabel>
@@ -3488,6 +3494,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DinkelbergFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Dinkelberg Formation is a lithostratigraphic unit encompassing the whole of the Buntsandstein (basal detrital Mesozoic transgressive episode) of the Jura Mountains. It only crops out in northern Switzerland, where it mainly consists of red or variegated, coarse-grained quartz sandstone, with subordinate conglomerate, siltstone and claystone.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Dinkelberg-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Dinkelberg Formation</skos:prefLabel>
@@ -3604,6 +3611,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EtiolletsFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Etiollets Formation is a lithostratigraphic unit of the Malm of the southern part of the Jura Mountains. It is characterised by a «reefal complex» (micritic limestone and calcarenite with isolated coral build-ups) overlying a more marly lower member.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Etiollets-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Etiollets Formation</skos:prefLabel>
@@ -4008,6 +4016,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HauensteinGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Hauenstein Granite is an early Variscan granite intruded in the crystalline basement of southern Germany (Schwarzwald). It is a synkinematic, fine to medium-grained granite (S-type), with widespread cataclastic overprint.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Hauenstein-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Hauenstein Granite</skos:prefLabel>
@@ -4020,6 +4029,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Hauptrogenstein">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Hauptrogenstein is a lithostratigraphic formation of the Dogger of the Jura Mountains. It mainly consists of oolitic, partly bioclastic, limestone and marly intercalations.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Hauptrogenstein</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Hauptrogenstein</skos:prefLabel>
@@ -4121,6 +4131,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/IfenthalFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Ifenthal Formation is the uppermost lithostratigraphic unit of the Dogger of the Jura Mountains. It consists of an alternation of partly marly, mostly iron-rich limestone and locally fossil-rich marlstone. Echinoderm limestone occur towards the top and the roof of the unit is generally represented by a fossil-rich iron oolite horizon.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Ifenthal-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Ifenthal Formation</skos:prefLabel>
@@ -4205,6 +4216,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KaiseraugstFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Kaiseraugst Formation represents the lower lithostratigraphic subdivision of the Muschelkalk of the Jura Mountains, formerly known as «Wellengebirge» due to the frequent wave-like ripples, channels and ridges observed on bed surfaces. It only crops out in northern Switzerland, where it consists of a fossiliferous, partly bituminous alternation of light yellow dolomite, marly limestone and greenish, mica-bearing marlstone.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Kaiseraugst-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Kaiseraugst Formation</skos:prefLabel>
@@ -4245,6 +4257,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KlemmbachGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Klemmbach Granite is an early Variscan granite intruded in the crystalline basement of southern Germany (Schwarzwald). It is a white to reddish fine to medium-grained two-mica (meta)granite, locally displaying a schistosity.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Klemmbach-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Klemmbach Granite</skos:prefLabel>
@@ -4257,6 +4270,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KlettgauFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Klettgau Formation represents the upper lithostratigraphic subdivision of the Keuper of the Jura Mountains. It only crops out in northern Switzerland, where it consists of a heterogeneous succession of variegated marlstone, sandstone and dolomite.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Klettgau-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Klettgau Formation</skos:prefLabel>
@@ -4290,6 +4304,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KlingnauFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Klingnau Formation is a lithostratigraphic unit of the Dogger of the Jura Mountains, representing a distal lateral equivalent of the Hauptrogenstein. It consists of an alternation of marlstone to claystone and bioclastic limestone.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Klingnau-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Klingnau Formation</skos:prefLabel>
@@ -4307,6 +4322,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KreuzlingenGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Kreuzlingen Granite is an early Variscan granite intruded in the crystalline basement of the Northalpine Foreland (Kreuzlingen borehole, Mazurek &amp; Peters 1992). It is a dark, inhomogeneous, medium-grained equigranular cordierite-bearing (rust-red spots due to hydrothermal alteration) biotite granite with a low degree of differentiation, rich in metapelitic xenoliths.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Kreuzlingen-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Kreuzlingen Granite</skos:prefLabel>
@@ -4450,6 +4466,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LindauGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Lindau Granite is an early Variscan granite intruded in the crystalline basement of the Northalpine Foreland (Lindau borehole, Mazurek &amp; Peters 1992). It is a dark, inhomogeneous cordierite-bearing biotite granite with a low degree of differentiation, rich in metapelitic xenoliths.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Lindau-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Lindau Granite</skos:prefLabel>
@@ -4522,6 +4539,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MalsburgGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Malsburg Granite is an early Variscan granite intruded in the crystalline basement of southern Germany (Schwarzwald). It is a white-grey to slightly reddish, predominantly medium-grained biotite granite, developping locally a fine-grained muscovite aplite facies.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Malsburg-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Malsburg Granite</skos:prefLabel>
@@ -4534,6 +4552,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MambachGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Mambach Granite is an early Variscan granite intruded in the crystalline basement of southern Germany (Schwarzwald). It is a strongly deformed, heterogeneous  (meta)granite with gneiss (anatexite) and granodiorite (syntexite) inclusions.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Mambach-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Mambach Granite</skos:prefLabel>
@@ -4951,6 +4970,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PasswangFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Passwang Formation is a lithostratigraphic unit of the lower part of the Dogger of the Jura Mountains. It consists of a repetitive succession of claystone, marlstone, sandy and bioclastic limestone, as well as iron oolitic levels.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Passwang-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Passwang Formation</skos:prefLabel>
@@ -5000,6 +5020,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfaffnauGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Pfaffnau Granite is a late to post-Variscan granite intruded in the crystalline basement of the North Alpine Foreland (Pfaffna borehole, Mazurek &amp; Peters 1992). It is a fine to medium-grained K-rich biotite granite (I-type), with associated basic rocks (diorite, monzonite, syenite). The unit was subsequently cataclastically deformed and hydrothermally altered (rust-red haematite impregnation).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Pfaffnau-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Pfaffnau Granite</skos:prefLabel>
@@ -5012,6 +5033,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PichouxFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Pichoux Formation is a lithostratigraphic unit of the Malm of the Jura Mountains, transitional between the St-Ursanne Formation (reefal facies) and the Birmenstorf Member (bassinal facies). It consists of a well-bedded alternation of light grey to beige bioclastic micritic limestone and laminated marlstone. White limestone with reef debris occur locally at the top, whereas sponges can be frequent towards the base.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Pichoux-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Pichoux Formation</skos:prefLabel>
@@ -5176,6 +5198,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Randgranit">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The «Randgranit» is an early Variscan granite intruded in the crystalline basement of southern Germany (Schwarzwald). It is an heterogeneous, medium-grained porphyric two-mica granite, frequently with metablastic to cataclastic overprint.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Randgranit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Randgranit</skos:prefLabel>
@@ -5228,6 +5251,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ReuchenetteFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Reuchenette Formation is a lithostratigraphic unit of the Malm of the Jura Mountains. It consists of light-coloured, often thickly bedded and massive micritic limestone with more marly intercalations. Stromatolitic and dolomitic beds, as well as nerineid limestones also occur at several levels.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Reuchenette-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Reuchenette Formation</skos:prefLabel>
@@ -5443,6 +5467,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchafisheimSyenite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Schafisheim Syenite is a late to post-Variscan syenite intruded in the crystalline basement of the North Alpine Foreland (Schafisheim borehole, Mazurek &amp; Peters 1992). It is a K-rich syenite (I-type), with associated rocks (diorite, monzonite, granite).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Schafisheim-Syenit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Schafisheim Syenite</skos:prefLabel>
@@ -5482,6 +5507,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchinznachFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Schinznach Formation represents the upper lithostratigraphic subdivision of the Muschelkalk of the Jura Mountains. It only crops out in northern Switzerland, where it consists of grey dolomite, bioclastic and/or oolitic limestone (partly dolomitised) and marlstone intercalations. The frequent occurence of bivalve, crinoid and brachiopod fragments in this unit defines the typical «Muschelkalk» facies.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Schinznach-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Schinznach Formation</skos:prefLabel>
@@ -5499,6 +5525,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchluchseeGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Schluchsee Granite is a late to post-Variscan granite intruded in the crystalline basement of southern Germany north of the St. Blasien Granite (Schwarzwald). It is a highly differentiated light grey medium to coarse-grained two-mica granite.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Schluchsee-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Schluchsee Granite</skos:prefLabel>
@@ -5599,6 +5626,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SiblingenGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Siblingen Granite is a late to post-Variscan granite intruded in the crystalline basement of northern Switzerland (Siblingen borehole, Mazurek &amp; Peters 1992). It is a highly differentiated andalusite- and cordierite-bearing two-mica granite.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Siblingen-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Siblingen Granite</skos:prefLabel>
@@ -5689,6 +5717,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StaffeleggFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Staffelegg Formation is a lithostratigraphic unit encompassing the whole Liassic succession of the Jura Mountains. It consists of a heterogeneous succession of marlstone, silty to sandy, spaty limestone and marly limestone with lateral variation in facies and thickness.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Staffelegg-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Staffelegg Formation</skos:prefLabel>
@@ -5736,6 +5765,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StockbergQuartzporphyry">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Stockberg Quartzporphyry is a late to post-Variscan rhyolite emplaced in a small graben in the crystalline basement of southern Germany (Schwarzwald).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Stockberg-Quarzporphyr</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Stockberg Quartzporphyry</skos:prefLabel>
@@ -5769,22 +5799,6 @@
 	<skos:prefLabel xml:lang="fr">Granite du Strem</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Granito del Strem</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/St-UrsanneFormation">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">St-Ursanne-Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">St-Ursanne Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Formation de St-Ursanne</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Formazione di St-Ursanne</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BuixMember"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ChestelMember"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrellingenMember"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TiergartenMember"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -6006,6 +6020,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TwannbachFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Twannbach Formation is the uppermost lithostratigraphic unit of the Malm of the Jura Mountains. It consists of light-coloured, thinly bedded, micritic limestones and dolomites with frequent patchy bioturbation (Thalassinoides). Oolitic and bioclastic intercalations occur locally, as well as evaporite pseudomorphs and stromatolitic layers.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Twannbach-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Twannbach Formation</skos:prefLabel>
@@ -6159,9 +6174,9 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Valgrande-Paragneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Valgrande Paragneis</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Paragneiss de Valgrande</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Paragneiss di Valgrande</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Valgrande Paragneiss</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -6194,6 +6209,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VelleratFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Vellerat Formation is a lithostratigraphic unit of the Malm of the Jura Mountains. It consists of a quite heterogeneous succession dominated by marly intervals with several calcareous marker beds: well-bedded beige micritic limestone with bioclasts and terrigenous debris at the base (Vorburg Member), hard oncolitic beds (in particular the «Hauptmumienbank» in the middle part of the formation), as well as  varying oolitic, bioclastic, spaty and/or micritic limestones (locally coral-bearing or quartz-rich).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Vellerat-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Vellerat Formation</skos:prefLabel>
@@ -6292,6 +6308,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VilligenFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Villigen Formation is a lithostratigraphic unit of the Malm of the Jura Mountains, characterised by a more basinal facies. It consists of well-bedded fossiliferous (ammonites, bivalves, sponges), partly nodular and glauconitic, micritic limestone and marly intercalations. </skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Villigen-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Villigen Formation</skos:prefLabel>
@@ -6404,6 +6421,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WeiachFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Weiach Formation is a lithostratigraphic unit found within Permo-Carboniferous troughs in the basement of the Jura Mountains. It is only known from boreholes and consists of grey to grey-violet arkose, conglomerate and breccia alternating with grey to blackish, partly coal-bearing siltstone. Thin tuff and tuffite intercalations occur locally.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Weiach-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Weiach Formation</skos:prefLabel>
@@ -6433,6 +6451,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WeitenauFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Weitenau Formation («Rotliegendes» auct.) is a lithostratigraphic unit found within Permo-Carboniferous troughs in the basement of the  Jura Mountains. It is only known from a few outcrops in northern Switzerland and from boreholes, where it consists of two reddish brown (locally with green or pale discolouration spots) debris fan sequences (arkose, fanglomerate) intercalated by finer-grained playa deposits.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Weitenau-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Weitenau Formation</skos:prefLabel>
@@ -6460,6 +6479,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WiesentalFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Wiesental Formation («Zechstein» auct.) is a discontinuously preserved lithostratigraphic unit of Permian age in the Jura Mountains. It is only known from Southern Germany.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Wiesental-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Wiesental Formation</skos:prefLabel>
@@ -6472,6 +6492,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WildeggFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Wildegg Formation is a lithostratigraphic unit of the Malm of the Jura Mountains. It is dominated by a thick succession of fossil-poor grey marlstone and calcareous marlstone in its upper part (Effingen Member), overlying a thinly bedded glauconitic limestone rich in fossil siliceous sponges and ammonites (Birmenstorf Member).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Wildegg-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Wildegg Formation</skos:prefLabel>
@@ -6513,6 +6534,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZeglingenFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Zeglingen Formation represents the middle lithostratigraphic subdivision of the Muschelkalk of the Jura Mountains, characterised by an evaporitic succession («Anhydritgruppe»). It only crops out in northern Switzerland, where it consists of a repetitive, though heterogeneous, succession of rock salt, massive and marly anhydrite rock and dolomite.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Zeglingen-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Zeglingen Formation</skos:prefLabel>
@@ -6544,6 +6566,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZurzachGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Zurzach Granite is a late to post-Variscan granite intruded in the crystalline basement of northern Switzerland (Bad Zurzach borehole, Mazurek &amp; Peters 1992). It is a highly differentiated andalusite- and cordierite-bearing two-mica granite.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Zurzach-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Zurzach Granite</skos:prefLabel>
@@ -6556,6 +6579,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlbtalGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Albtal Granite is an early Variscan granite intruded in the crystalline basement of southern Germany (Schwarzwald). It is a grey, medium to coarse-grained porphyric biotite granite (S-type), with characteristic large calcite phenocrysts, dark inclusions and a well developped filonian association.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Albtal-Granit</skos:prefLabel>
@@ -6688,6 +6712,7 @@
 	<skos:prefLabel xml:lang="fr">Membre de Ste-Vérène</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro di Sta-Verena</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BalsthalFormation"/>
+	<skos:related rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PorrentruyMember"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -6753,7 +6778,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BaslerJuranagelfluh"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BeichlenFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BelpbergFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BlauenGranite"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BoisDeRaubeFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BrendenbachMarl"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CyathulaBed"/>
@@ -6772,15 +6796,11 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrillyLimestone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrimmelfingenFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrindeleggFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrisigenMarl"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GuggershornFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HaldenhofMarl"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HilfernFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HombergFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoneggMarl"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HorwSandstone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/JensbergBeds"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/JordisbodenMarl"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KalterWangenFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KirchbergFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KronbergConglomerate"/>
@@ -6849,6 +6869,10 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TuellingenLimestone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UeetlibergBeds"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ZuerichBeds"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrisigenMarlstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HaldenhofMarlstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoneggMarlstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/JordisbodenMarlstone"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Supergroup</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -6885,13 +6909,14 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BlauenGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Blauen Granite is an early Variscan granite intruded in the crystalline basement of southern Germany (Schwarzwald). It is a medium to coarse-grained biotite (meta)granite, with widespread metablastic (locally cataclastic) overprint.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Blauen-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Blauen Granite</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Granite du Blauen</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Granito del Blauen</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -6940,6 +6965,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DaubreeConglomerate">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Daubrée Conglomerate is a lithostratigraphic unit of regional occurence in the Jura Mountains. It consists of a so-called «gompholite», a conglomerate with generally rounded calcareous components of local origin, varying greatly in size and nature (max. 30 cm, mainly from Malm units), bound together by a ferrugineous and calcareous (sometimes also siliceous) cement and containing numerous iron pisoids.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Daubrée-Konglomerat</skos:prefLabel>
@@ -6966,6 +6992,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DiegtenLimestone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Diegten Freshwater Limestone is a local lithostratigraphic bed found within the Siderolithic around Diegten. It consists of limestone rich in organic matter and freshwater gastropods (Limnaeus longiscatus Brogn., Limnaeus fusiformis Sow., Planorbis pseudodoammonius Schloth.).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Diegten-Süsswasserkalk</skos:prefLabel>
@@ -6979,6 +7006,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ErzmattLimestone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Erzmatt Freshwater Limestone is a local lithostratigraphic bed found within the Siderolithic around Balsthal. It consists of pedogenic limestone (calcrete) with large embedded limonite concretions.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Erzmatt-Krustenkalk</skos:prefLabel>
@@ -7138,19 +7166,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrisigenMarl">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Grisigen-Mergel</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Grisigen Marl</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Marne de Grisigen</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Marna di Grisigen</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GuggershornFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -7159,19 +7174,6 @@
 	<skos:prefLabel xml:lang="en">Guggershorn Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation du Guggershorn</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione del Guggershorn</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HaldenhofMarl">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Haldenhof-Mergel</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Haldenhof Marl</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Marne de Haldenhof</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Marna di Haldenhof</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -7206,20 +7208,6 @@
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoneggMarl">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Honegg-Mergel</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Honegg Marl</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Marne de la Honegg</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Marna della Honegg</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KaltbachConglomerate"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HorwSandstone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
@@ -7243,19 +7231,6 @@
 	<skos:prefLabel xml:lang="it">Strati del Jensberg</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RebhubelBeds"/>
-	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
-	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/JordisbodenMarl">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
-	<skos:prefLabel xml:lang="de">Jordisboden-Mergel</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Jordisboden Marl</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Marne du Jordisboden</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Marna del Jordisboden</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -7306,6 +7281,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LaCharrueLimestone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The La Charrue Freshwater Limestone is a local lithostratigraphic bed found within the Siderolithic north of Moutier (and hence sometimes collectively termed «Moutier Freshwater Limestone»). It consists of white to beige, thinly bedded micritic limestone.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">La-Charrue-Süsswasserkalk</skos:prefLabel>
@@ -7332,6 +7308,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LaVerrerieLimestone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The La Verrerie Freshwater Limestone is a local lithostratigraphic bed found within the Siderolithic south of Moutier (and hence sometimes collectively termed «Moutier Freshwater Limestone»). It consists of porous and friable limestone with marly intercalations.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">La-Verrerie-Süsswasserkalk</skos:prefLabel>
@@ -7561,6 +7538,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OberdorfLimestone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Oberdorf Freshwater Limestone is a local lithostratigraphic bed found within the Siderolithic on the southern side of the Weissenstein. It consists of yellow, porous, saccharoidal limestone with thin marly intercalations and freshwater fossils (Limnea, Characeae).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Oberdorf-Süsswasserkalk</skos:prefLabel>
@@ -7694,6 +7672,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RossemaisonFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Rossemaison Formation is a lithostratigraphic unit of Paleogene age, restricted to the Delémont Basin. It consists of yellow to reddish, more or less sandy marlstone («Terre Jaune»), with reworked siderolithic components. Evaporites, lacustrine limestone («raitsche») or conglomerates are present locally.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Rossemaison-Formation</skos:prefLabel>
@@ -8528,9 +8507,9 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Batnall-Gneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Batnall Gneis</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Gneiss du Batnall</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Gneiss del Batnall</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Batnall Gneiss</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BoscoGneiss"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -9866,9 +9845,9 @@
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Weissmies-Paragneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Weissmies Paragneis</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Paragneiss du Weissmies</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Paragneiss del Weissmies</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Weissmies Paragneiss</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BriançonnaisTerrane"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -10464,6 +10443,7 @@
 	<skos:prefLabel xml:lang="fr">Membre de Porrentruy</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro di Porrentruy</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CourgenayFormation"/>
+	<skos:related rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VerenaMember"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -11526,7 +11506,7 @@
 	<skos:prefLabel xml:lang="en">Kaltbach Conglomerate</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Poudingue du Kaltbach</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato del Kaltbach</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoneggMarl"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoneggMarlstone"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -13875,6 +13855,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CourcelonLimestone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Courcelon Freshwater Limestone is a lithostratigraphic bed representing the uppermost freshwater limestone level within the Rossemaison Formation (Paleogene of the Delémont Basin).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Courcelon-Süsswasserkalk</skos:prefLabel>
@@ -14797,7 +14778,7 @@
 	<skos:prefLabel xml:lang="en">Buix Member</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Membre de Buix</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro di Buix</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/St-UrsanneFormation"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StUrsanneFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -14809,7 +14790,7 @@
 	<skos:prefLabel xml:lang="en">Chestel Member</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Membre du Chestel</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro del Chestel</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/St-UrsanneFormation"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StUrsanneFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CaquerellePisolite"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -14822,7 +14803,7 @@
 	<skos:prefLabel xml:lang="en">Grellingen Member</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Membre de Grellingen</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro di Grellingen</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/St-UrsanneFormation"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StUrsanneFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -14834,7 +14815,7 @@
 	<skos:prefLabel xml:lang="en">Tiergarten Member</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Membre du Tiergarten</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro del Tiergarten</skos:prefLabel>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/St-UrsanneFormation"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StUrsanneFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
@@ -18348,6 +18329,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BaenkerjochFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Bänkerjoch Formation represents the lower lithostratigraphic subdivision of the Keuper of the Jura Mountains, characterised by its evaporitic succession («Gipskeuper»). It only crops out in northern Switzerland, where it comprises rock salt and various pink-coloured sulphate rocks mixed with clayey and dolomitic material.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Bänkerjoch-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Bänkerjoch Formation</skos:prefLabel>
@@ -18373,6 +18355,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BaerhaldeGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Bärhalde Granite is a late to post-Variscan granite intruded in the crystalline basement of southern Germany north of the St. Blasien Granite (Schwarzwald). It is a highly differentiated predominantly coarse-grained, reddish leucocratic two-mica granite, with aplitic-pegmatic streaks and druses.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Bärhalde-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Bärhalde Granite</skos:prefLabel>
@@ -18385,6 +18368,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BaerschwilFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Bärschwil Formation is the lowermost lithostratigraphic unit of the Malm of the Jura Mountains, regionally absent or reduced to a thin condensation horizon. It consists of grey, marly claystone with pyritised ammonites at the base (Renggeri Member), with layers of calcareous concretions increasing towards the top (Sornetan Member). The upper part of the formation is composed of poorly bedded, nodular limestone with silicified corals (Liesberg Member, transitional to and sometimes considered as part of the overlying St-Ursanne Formation).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Bärschwil-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Bärschwil Formation</skos:prefLabel>
@@ -18474,6 +18458,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BoettsteinGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Böttstein Granite is an early Variscan granite intruded in the crystalline basement of northern Switzerland (Böttstein borehole, Peters et al. 1986). It is a coarse-grained porphyric biotite granite (S-type) with large crystals of K-feldspar and numerous thin aplitic to pegmatitic veins.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Böttstein-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Böttstein Granite</skos:prefLabel>
@@ -18714,6 +18699,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GuensbergFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Günsberg Formation is a lithostratigraphic unit of the Malm of the Jura Mountains with rather limited lateral extension, characterized by the presence of coral bioherms (especially at the base). It consists of a heterogeneous, poorly bedded brownish succession with cross-bedded oolitic limestone and marlstone, as well as coal layers and echinoderm debris.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Günsberg-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Günsberg Formation</skos:prefLabel>
@@ -18934,6 +18920,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LenzkirchSteinaGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Lenzkirch-Steina Granite is an early Variscan granite intruded in the crystalline basement of southern Germany (Schwarzwald). It is a predominantly medium-grained biotite granite, partly cataclastic. A coarse porphyric facies occurs locally (Wellendingen Granite).</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Lenzkirch-Steina-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Lenzkirch-Steina Granite</skos:prefLabel>
@@ -18984,6 +18971,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MuensterhaldenGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Münsterhalden Granite is an early Variscan granite intruded in the crystalline basement of southern Germany (Schwarzwald). It is a light grey medium-grained granite, with local metablastic overprint.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Münsterhalden-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Münsterhalden Granite</skos:prefLabel>
@@ -19032,6 +19020,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/OpalinusClaystone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Opalinus Clay is the lowermost lithostratigraphic formation of the Dogger of the Jura Mountains. It mainly consists of dark grey, micaceous claystone and silty marlstone with carbonate and sandy lenses, which become more frequent towards the top of the unit.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Opalinus-Ton</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Opalinus Clay</skos:prefLabel>
@@ -19177,6 +19166,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SaeckingenGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Säckingen Granite is a late to post-Variscan granite intruded in the crystalline basement of southern Germany (Schwarzwald). It is a highly differentiated and clearly peraluminous fine to medium-grained andalusite-bearing two-mica granite.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Säckingen-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Säckingen Granite</skos:prefLabel>
@@ -19250,6 +19240,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchlaechtenhausGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Schlächtenhaus Granite is an early Variscan granite intruded in the crystalline basement of southern Germany (Schwarzwald). It is a white to reddish fine to medium-grained two-mica (meta)granite, locally displaying a strong schistosity.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Schlächtenhaus-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Schlächtenhaus Granite</skos:prefLabel>
@@ -19346,6 +19337,7 @@
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StBlasienGranite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The St. Blasien Granite is an early Variscan granite intruded in the crystalline basement of southern Germany (Schwarzwald). It is a light grey, heterogeneous, medium-grained equigranular biotite granite (S-type), with inclusions of various sizes. Its border  facies comprises widespread gneiss and amphibolite xenoliths.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">St.-Blasien-Granit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">St.-Blasien Granite</skos:prefLabel>
@@ -20417,9 +20409,9 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Böshorn-Gneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Böshorn Gneis</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Gneiss du Böshorn</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Gneiss del Böshorn</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Böshorn Gneiss</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -20429,9 +20421,9 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Flüela-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Flüela Augengneis</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Gneiss oeillé de la Flüela</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Gneiss occhiadino della Flüela</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Flüela Augengneiss</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -20479,9 +20471,9 @@
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Frauenkirch-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Frauenkirch Augengneis</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Frauenkirch</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Frauenkirch</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Frauenkirch Augengneiss</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -20515,9 +20507,9 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Güstizia-Gneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Güstizia Gneis</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Gneiss de la Güstizia</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Gneiss della Güstizia</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Güstizia Gneiss</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -20592,9 +20584,9 @@
 	<skos:definition xml:lang="en">The Melirolo Augengneiss is a porphyric metagranodiorite with hornblende and plagioclase phenocrists. It occurs at the southern edge of the Iorio Tonalite.</skos:definition>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
 	<skos:prefLabel xml:lang="de">Melirolo-Augnengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Melirolo Augnengneis</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Gneiss oeillé de Melirolo</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Gneiss occhiadino di Melirolo</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Melirolo Augnengneiss</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AlpineMagmatism"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
@@ -20735,6 +20727,76 @@
 	<skos:prefLabel xml:lang="it">Meta-andesite del Maasplanggstock</skos:prefLabel>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DiechtergletscherFormation"/>
 	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Member</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StUrsanneFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The St-Ursanne Formation is a lithostratigraphic unit of the Malm of the Jura Mountains, characterized by reefal facies. It consists of a succession of white, sometimes chalky and/or oolitic, reef limestone, as well as micritic levels.</skos:definition>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">St-Ursanne-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">St-Ursanne Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation de St-Ursanne</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione di St-Ursanne</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BuixMember"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ChestelMember"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrellingenMember"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TiergartenMember"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrisigenMarlstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Grisigen-Mergel</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Grisigen Marl</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Marne de Grisigen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Marna di Grisigen</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HaldenhofMarlstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Haldenhof-Mergel</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Haldenhof Marl</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Marne de Haldenhof</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Marna di Haldenhof</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HoneggMarlstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Honegg-Mergel</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Honegg Marl</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Marne de la Honegg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Marna della Honegg</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KaltbachConglomerate"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
+	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/JordisbodenMarlstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/LithostratigraphicUnits"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/conceptScheme_94170c53"/>
+	<skos:prefLabel xml:lang="de">Jordisboden-Mergel</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Jordisboden Marl</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Marne du Jordisboden</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Marna del Jordisboden</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<stratigraphicrankrank xmlns="https://cgi.vocabs.ga.gov.au/object?uri=http%3A//resource.geosciml.org/classifier/cgi/" xml:lang="en">Formation</stratigraphicrankrank>
 	<admsstatus xmlns="http://www.w3.org/ns/" xml:lang="en">active</admsstatus>
 </rdf:Description>
 
