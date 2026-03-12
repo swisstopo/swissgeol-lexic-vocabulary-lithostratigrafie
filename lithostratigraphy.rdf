@@ -610,6 +610,7 @@
 	<skos:notation>15257055</skos:notation>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PuntLaDrossaMember"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FuornPflanzenquarzit"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -758,6 +759,8 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CavaInferiore"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/CavaSuperiore"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SceltrichBeds"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MerideDolomitband"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MerideKalkschieferzone"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -1745,6 +1748,7 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BleisPintgasFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BaerenhornFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HellstaettFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WaegitalFlysch"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfaevigratFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SulzgrabeFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BretayeFormation"/>
@@ -2707,6 +2711,7 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AntigorioGneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VerampioGneiss"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LaietsGneissComplex"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MontheyFormation"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -3762,6 +3767,7 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WittnauLimestone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FurcilMarlstone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HomomyaMarlstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HauptrogensteinSpatkalk"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -4895,6 +4901,9 @@
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GonzenHorizon"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TrosLimestone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ObererQuintnerKalk"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UntererQuintnerKalk"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/QuintenMergelband"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -5257,6 +5266,8 @@
 	<skos:notation>15253091</skos:notation>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RawilMember"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ObererSchrattenkalk"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UntererSchrattenkalk"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -6463,6 +6474,7 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HilfernFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HombergFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HorwSandstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KalterWangenFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KirchbergFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KronbergConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LaCharrueLimestone"/>
@@ -6535,7 +6547,6 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GraniticMolasseFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HornbueelMelange"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/JensbergFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KalterwangenFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LausanneFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MeilenFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PerySandstone"/>
@@ -6546,6 +6557,11 @@
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GoumoensSandstone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BaltersweilConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NetzbachtalConglomerate"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BonnevilleSandstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MontaubanMarlstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VeveyFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MontheyFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UntereBunteMolasse"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -8711,7 +8727,7 @@
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BalmiMember"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ErpillesMember"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ObereRauhwacke"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PraletRauhwacke"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -10355,6 +10371,8 @@
 	<skos:notation>15251037</skos:notation>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GrandEssertFormation"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UttinsMarlstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PierreJauneSuperieure"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PierreJauneInferieure"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 	<stratigraphicrank xmlns="http://resource.geosciml.org/classifierscheme/cgi/2016.01/#">member</stratigraphicrank>
 </rdf:Description>
@@ -12598,18 +12616,6 @@
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ObereRauhwacke">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">«Obere Rauhwacke»</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">«Obere Rauhwacke»</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">«Cornieule Supérieure»</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">«Cornieule Supérieure»</skos:prefLabel>
-	<skos:notation>15255167</skos:notation>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PraletFormation"/>
-	<status xmlns="http://www.w3.org/ns/adms#">active</status>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SaixMember">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
@@ -13378,6 +13384,7 @@
 	<skos:prefLabel xml:lang="it">Arenaria d'Ebnat</skos:prefLabel>
 	<skos:notation>15252195</skos:notation>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SpeerFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RuetibergSandstone"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -13686,18 +13693,6 @@
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GitzgrabeSandstone">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Gitzgrabe-Grobsandstein</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Gitzgrabe Coarse Sandstone</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Grès grossier du Gitzgrabe</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Arenaria grossolana del Gitzgrabe</skos:prefLabel>
-	<skos:notation>15252088</skos:notation>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StGallenFormation"/>
-	<status xmlns="http://www.w3.org/ns/adms#">active</status>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ObereGrenznagelfluh">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
@@ -13732,6 +13727,8 @@
 	<skos:prefLabel xml:lang="it">Membro delle Andonces</skos:prefLabel>
 	<skos:notation>15255174</skos:notation>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StTriphonFormation"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AndoncesRauhwacke"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AndoncesSilexniveau"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -13744,7 +13741,7 @@
 	<skos:prefLabel xml:lang="it">Membro di Dorchaux</skos:prefLabel>
 	<skos:notation>15255178</skos:notation>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StTriphonFormation"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UntereRauhwacke"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DorchauxRauhwacke"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -13948,6 +13945,11 @@
 	<skos:prefLabel xml:lang="it">Complexe della Gueyraz</skos:prefLabel>
 	<skos:notation>15255295</skos:notation>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/TissotaMelange"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazForaminiferenschichten"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazAptychenkalk"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazRadiolarit"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazFilamentkalk"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazSpatkalk"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -15742,18 +15744,6 @@
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UntereRauhwacke">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">«Untere Rauhwacke»</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">«Untere Rauhwacke»</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">«Cornieule Inférieure»</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">«Cornieule Inférieure»</skos:prefLabel>
-	<skos:notation>15255179</skos:notation>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DorchauxMember"/>
-	<status xmlns="http://www.w3.org/ns/adms#">active</status>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DorenazConglomerate">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
@@ -15803,6 +15793,19 @@
 	<skos:prefLabel xml:lang="it">Strato a Pecten</skos:prefLabel>
 	<skos:notation>15251137</skos:notation>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EffingenMember"/>
+	<status xmlns="http://www.w3.org/ns/adms#">active</status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/KaistenBed">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">Muschelkalk of the Swiss Jura Mountains.</skos:definition>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="de">Kaisten-Bank</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Kaisten Bed</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Banc de Kaisten</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Strato di Kaisten</skos:prefLabel>
+	<skos:notation>15251249</skos:notation>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StambergMember"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -16324,6 +16327,16 @@
 	<skos:notation>15255033</skos:notation>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/WaegitalFlysch">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Wägital Flysch</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wägital-Flysch</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Flysch du Wägital</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Flysch del Wägital</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PfaevigratFormation">
@@ -18592,9 +18605,9 @@
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DreilindenConglomerate"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FreudenbergConglomerate"/>
-	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GitzgrabeSandstone"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ObereGrenznagelfluh"/>
 	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StaffelbachSandstone"/>
+	<skos:narrower rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GitzigrabeSandstone"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -19214,19 +19227,6 @@
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
 	<skos:prefLabel xml:lang="en">Lithostratigraphic Units</skos:prefLabel>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Kaistenbed">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:definition xml:lang="en">Muschelkalk of the Swiss Jura Mountains.</skos:definition>
-	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Kaisten-Bank</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Kaisten Bed</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Banc de Kaisten</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Strato di Kaisten</skos:prefLabel>
-	<skos:notation>15251249</skos:notation>
-	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StambergMember"/>
-	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Knollenbank">
@@ -21391,6 +21391,284 @@
 	<skos:notation>15253380</skos:notation>
 	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MeilleretFormation"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PierreJauneSuperieure">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Pierre Jaune Supérieure»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Pierre Jaune Supérieure»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Pierre Jaune Supérieure»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Pierre Jaune Supérieure»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NeuchatelMember"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PierreJauneInferieure">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Pierre Jaune Inférieure»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Pierre Jaune Inférieure»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Pierre Jaune Inférieure»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Pierre Jaune Inférieure»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/NeuchatelMember"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GitzigrabeSandstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="de">Gitzigrabe-Grobsandstein</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Gitzigrabe Coarse Sandstone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Grès grossier du Gitzigrabe</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Arenaria grossolana del Gitzigrabe</skos:prefLabel>
+	<skos:notation>15252088</skos:notation>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/StGallenFormation"/>
+	<status xmlns="http://www.w3.org/ns/adms#">active</status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/RuetibergSandstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="de">Rütiberg-Kalksandstein</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Rütiberg Calcareous Sandstone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Grès calcaire de Rütiberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Arenaria calcarea di Rütiberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EbnatSandstone"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ObererSchrattenkalk">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Oberer Schrattenkalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Oberer Schrattenkalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Oberer Schrattenkalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Oberer Schrattenkalk»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchrattenkalkFormation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UntererSchrattenkalk">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Unterer Schrattenkalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Unterer Schrattenkalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Unterer Schrattenkalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Unterer Schrattenkalk»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/SchrattenkalkFormation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/ObererQuintnerKalk">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Oberer Quintner Kalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Oberer Quintner Kalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Oberer Quintner Kalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Oberer Quintner Kalk»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/QuintenFormation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UntererQuintnerKalk">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Unterer Quintner Kalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Unterer Quintner Kalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Unterer Quintner Kalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Unterer Quintner Kalk»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/QuintenFormation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazForaminiferenschichten">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Foraminiferenschichten»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Foraminiferenschichten»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Foraminiferenschichten»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Foraminiferenschichten»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazComplex"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazAptychenkalk">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Aptychenkalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Aptychenkalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Aptychenkalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Aptychenkalk»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazComplex"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazRadiolarit">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Radiolarite»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Radiolarit»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Radiolarite»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Radiolarite»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazComplex"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazFilamentkalk">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Filamentkalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Filamentkalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Calcaire à filaments»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Filamentkalk»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazComplex"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazSpatkalk">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Spatkalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Spatkalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Spatkalk»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Spatkalk»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/GueyrazComplex"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MerideDolomitband">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Dolomitband»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Dolomitband»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Dolomitband»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Dolomitband»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MerideFormation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MerideKalkschieferzone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Kalkschieferzone»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Kalkschieferzone»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Kalkschieferzone»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Kalkschieferzone»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MerideFormation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/QuintenMergelband">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Mergelband»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Mergelband»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Mergelband»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Mergelband»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/QuintenFormation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DorchauxRauhwacke">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="de">«Untere Rauhwacke»</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">«Untere Rauhwacke»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Cornieule Inférieure»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Cornieule Inférieure»</skos:prefLabel>
+	<skos:notation>15255179</skos:notation>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/DorchauxMember"/>
+	<status xmlns="http://www.w3.org/ns/adms#">active</status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AndoncesRauhwacke">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Mittlere Rauhwacke»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Mittlere Rauhwacke»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Mittlere Rauhwacke»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Mittlere Rauhwacke»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AndoncesMember"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AndoncesSilexniveau">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="fr">«Niveau à Silex»</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">«Chert Level»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Silex-Niveau»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Livello a Selcifero»</skos:prefLabel>
+	<skos:altLabel xml:lang="en">«Silex-Niveau»</skos:altLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/AndoncesMember"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PraletRauhwacke">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="de">«Obere Rauhwacke»</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">«Obere Rauhwacke»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Cornieule Supérieure»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Cornieule Supérieure»</skos:prefLabel>
+	<skos:notation>15255167</skos:notation>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/PraletFormation"/>
+	<status xmlns="http://www.w3.org/ns/adms#">active</status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FuornPflanzenquarzit">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Pflanzenquarzit»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Pflanzenquarzit»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Pflanzenquarzit»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Pflanzenquarzit»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/FuornFormation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/BonnevilleSandstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Bonneville Sandstone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Bonneville-Sandstein</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Grès de Bonneville</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Arenaria di Bonneville</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MontaubanMarlstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Montauban Marlstone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Montauban-Mergel</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Marne de Montauban</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Marna di Montauban</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/VeveyFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Molasse Rouge de Vevey»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Molasse Rouge de Vevey»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Molasse Rouge de Vevey»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Molasse Rouge de Vevey»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MontheyFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Molasse Rouge de Monthey»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Molasse Rouge de Monthey»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Molasse Rouge de Monthey»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Molasse Rouge de Monthey»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/UntereBunteMolasse">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Untere Bunte Molasse»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Untere Bunte Molasse»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Untere Bunte Molasse»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Untere Bunte Molasse»</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://dev-lexic.swissgeol.ch/Lithostratigraphy/HauptrogensteinSpatkalk">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Spatkalk» (Hauptrogenstein)</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Spatkalk» (Hauptrogenstein)</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Spatkalk» (Hauptrogenstein)</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Spatkalk» (Hauptrogenstein)</skos:prefLabel>
+	<skos:broader rdf:resource="https://dev-lexic.swissgeol.ch/Lithostratigraphy/Hauptrogenstein"/>
 </rdf:Description>
 
 </rdf:RDF>
