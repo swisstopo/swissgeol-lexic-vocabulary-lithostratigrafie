@@ -1,19 +1,29 @@
-name: Publish the new Lithostratigraphy RDF to GraphDB/Public
+name: Publish the new Lithostratigraphy RDF to GraphDB-DEV public project
 
 on:
   pull_request:
     types:
       - closed
+  workflow_dispatch:
 
 jobs:
   publish_gps:
     runs-on: ubuntu-latest
 
-    if: "github.event.pull_request.merged == true && github.event.pull_request.base.ref == 'main'"
+    if: >
+      (github.event_name == 'pull_request' &&
+      github.event.pull_request.merged == true &&
+      github.event.pull_request.base.ref == 'main')
+      || github.event_name == 'workflow_dispatch'
 
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v3
+
+      - name: Replace baseurl in RDF file to address DEV environment
+        run: |
+          FILE_PATH="./lithostratigraphy.rdf"
+          sed -i 's/lexic.swissgeol.ch/dev-lexic.swissgeol.ch/g' "$FILE_PATH"
 
       - name: Upload file via PUT to graphdb-gps
         env:
