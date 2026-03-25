@@ -19860,10 +19860,10 @@
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/UrBreccia">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="en">Rossi Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Ur-Brekzie</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Brèche du Passo d'Ur</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Breccia del Passo d'Ur</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Ur Breccia</skos:prefLabel>
 	<skos:notation>15255328</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
