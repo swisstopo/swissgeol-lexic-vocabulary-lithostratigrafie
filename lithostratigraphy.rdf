@@ -16,6 +16,7 @@
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The lithostratigraphic units originally belonging to the Adriatic Plate are nowadays mainly occuring in the Austroalpine and South Alpine tectonic domains.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Adriatische Platte</skos:prefLabel>
@@ -2032,6 +2033,7 @@
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The lithostratigraphic units originally belonging to the Briançonnais Terrane are nowadays mainly occuring in the Middle Penninic tectonic subdomain.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Briançonnais-Terrane</skos:prefLabel>
@@ -2311,6 +2313,7 @@
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/CerviniaTerrane">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The lithostratigraphic units originally belonging to the Cervinia Terrane are nowadays mainly occuring in the Salassic tectonic domain.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Cervinia-Terrane</skos:prefLabel>
@@ -2591,6 +2594,8 @@
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">
+The lithostratigraphic units originally belonging to the European Plate are nowadays mainly occuring in the North Alpine Foreland, Helvetic and Lepontic tectonic domains.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Europäische Platte</skos:prefLabel>
@@ -3066,6 +3071,7 @@
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/AlpineMagmatism">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">Magmatism of Cenozoic age occurred at the periphery of and within the Alpine Chain, forming both intrusive bodies and (sub)volcanic provinces.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Alpines Magmatismus</skos:prefLabel>
@@ -3328,6 +3334,7 @@
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The lithostratigraphic units originally belonging to the Valaisan Basin are nowadays mainly occuring in the Lower Penninic tectonic subdomain.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Walliser Trog</skos:prefLabel>
@@ -9501,7 +9508,7 @@
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:definition xml:lang="en">The Diegten Limestone is a locally occurring organic rich freshwater limestone containing limnean and planorban gastropods.</skos:definition>
+	<skos:definition xml:lang="en">The Cenozoic Molasse Basin formed in the foredeep of the North Alpine Foreland.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Molasse-Becken</skos:prefLabel>
@@ -13061,6 +13068,7 @@
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/DiegtenLimestone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Diegten Limestone is a locally occurring organic rich freshwater limestone containing limnean and planorban gastropods.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Diegten-Süsswasserkalk</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Diegten Freshwater Limestone</skos:prefLabel>
@@ -15393,6 +15401,7 @@
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The lithostratigraphic units originally belonging to the Piémont Ocean are nowadays mainly occuring in the Upper Penninic tectonic subdomain.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Piémont-Ozean</skos:prefLabel>
@@ -18006,6 +18015,7 @@
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/Melange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">«A mélange is a mappable chaotic body of mixed rocks with a block-in-matrix fabric whose internal structure and evolution are intimately linked to the structural, sedimentary, magmatic, and metamorphic processes attending its origin.» (Festa et al. 2010, Int. Geol. Review 52/10-12, 1040-1105)</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Melange</skos:prefLabel>
@@ -21706,6 +21716,17 @@
 	<skos:prefLabel xml:lang="it">Ortogness del Piz Grav</skos:prefLabel>
 	<skos:notation>15254063</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/PlioQuaternaryLithostratigraphy">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">For younger deposits (Pliocene to Holocene), the lithostratigraphic procedure should be used only for accumulations whose formation is completed. Active landforms, such as alluvial cones, modern fluvial deposits or landslides are not subject of a stratigraphic denomination.</skos:definition>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="de">Pliozäne und Quartäre Lithostratigraphie</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Pliocene and Quaternary Lithostratigraphy</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Lithostratigraphie du Pliocène et du Quaternaire</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Litostratigrafia del Pliocene e del Quaternario</skos:prefLabel>
 </rdf:Description>
 
 </rdf:RDF>
