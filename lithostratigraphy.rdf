@@ -2968,6 +2968,19 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LaietsGneissComplex"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MontheyFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PizGravGneiss"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/OrnatentonFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/UntereFelsenkalkeFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/GosheimFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/HamitentonFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/OberjuraMassenkalkFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ZementmergelFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/c_aafed0a4"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LacunosamergelFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/WohlgeschichteteKalkeFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/AchdorfFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ObereFelsenkalkeFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/DentalientonFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/WedelsandsteinFormation"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -9628,6 +9641,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/VeveyFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/UntereBunteMolasse"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MassongexSandstone"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/Albstein"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -18043,6 +18057,8 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/WildhausMelange"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ZettenalpTrochemattMelange"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/AreuaBruschghornMelange"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/KientalMelange"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PlaineMorteMelange"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -21727,6 +21743,177 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="en">Pliocene and Quaternary Lithostratigraphy</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Lithostratigraphie du Pliocène et du Quaternaire</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Litostratigrafia del Pliocene e del Quaternario</skos:prefLabel>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/TannenwaldGravel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/KientalMelange">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Kiental Mélange</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Kiental-Melange</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Mélange du Kiental</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Mélange del Kiental</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/PlaineMorteMelange">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Plaine Morte Mélange</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Plaine-Morte-Mélange</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Mélange de la Plaine Morte</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Mélange della Plaine Morte</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/Albstein">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Albstein</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Albstein</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Albstein</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Albstein</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/TannenwaldGravel">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Tannenwald Gravel</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gravier du Tannenwald</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Tannenwald-Schotter</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Ghiaio del Tannenwald</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PlioQuaternaryLithostratigraphy"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/OrnatentonFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Ornatenton-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Ornatenton-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Ornatenton-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Ornatenton-Formation</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/UntereFelsenkalkeFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Untere Felsenkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Untere Felsenkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Untere Felsenkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Untere Felsenkalke-Formation</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/GosheimFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Gosheim Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Gosheim-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation de Gosheim</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione di Gosheim</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/HamitentonFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Hamitenton-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Hamitenton-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Hamitenton-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Hamitenton-Formation</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/OberjuraMassenkalkFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Oberjura-Massenkalk-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Oberjura-Massenkalk-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Oberjura-Massenkalk-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Oberjura-Massenkalk-Formation</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ZementmergelFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Zementmergel-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Zementmergel-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Zementmergel-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Zementmergel-Formation</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/c_aafed0a4">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Liegende-Bankkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Liegende-Bankkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Liegende-Bankkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Liegende-Bankkalke-Formation</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/LacunosamergelFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Lacunosamergel-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Lacunosamergel-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Lacunosamergel-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Lacunosamergel-Formation</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/WohlgeschichteteKalkeFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Wohlgeschichtete-Kalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wohlgeschichtete-Kalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Wohlgeschichtete-Kalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Wohlgeschichtete-Kalke-Formation</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/AchdorfFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Achdorf Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Achdorf-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation d'Achdorf</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione di Achdorf</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ObereFelsenkalkeFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Obere-Felsenkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Obere-Felsenkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Obere-Felsenkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Obere-Felsenkalke-Formation</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/DentalientonFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Dentalienton-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Dentalienton-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Dentalienton-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Dentalienton-Formation</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/WedelsandsteinFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Wedelsandstein-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wedelsandstein-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Wedelsandstein-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Wedelsandstein-Formation</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 </rdf:Description>
 
 </rdf:RDF>
