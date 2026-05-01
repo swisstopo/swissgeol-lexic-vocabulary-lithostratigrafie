@@ -2166,6 +2166,7 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/VignunGneiss"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/GloborotaliaBeds"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
+	<status xmlns="http://www.w3.org/ns/adms#" rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/collMiddlePrealps"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/BrachiopodenkalkMember">
@@ -2974,13 +2975,13 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/HamitentonFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/OberjuraMassenkalkFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ZementmergelFormation"/>
-	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/c_aafed0a4"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LacunosamergelFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/WohlgeschichteteKalkeFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/AchdorfFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ObereFelsenkalkeFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/DentalientonFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/WedelsandsteinFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LiegendeBankkalkeFormation"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -15522,6 +15523,14 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/BonaveFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">«Lower Cretaceous» of the Breccia Nappe, consisting of Fine-grained limestones, rich in chert nodules or silicified beds. The lower part of the unit consists of chert-rich calcilutites, whilst the calcarenites and fine-grained breccias of the upper part contain fewer chert nodules.</skos:definition>
+	<skos:definition xml:lang="fr">Torrent de Bonave (FR-74): 2536675 / 1111850</skos:definition>
+	<skos:definition xml:lang="fr">Dall'Agnolo (2000): p.158: Les calcaires fins, riches en rognons ou lits silicifiés, qui s'intercalent dans le haut de la série de la Brèche supérieure sont appelés «Calcaires à Silexites» depuis Schroeder (1939). Ces Calcaires à Silexites sont considérés comme un membre de la Brèche supérieure (Chessex 1959. Steffen et al. 1993). bien que Schroeder (1939, p. 36) ait proposé: «...Nous la faisons (la Brèche supérieure) se terminer avec le début des calcaires à Silexites...». et que Haas (1964) en ait parlé informellement comme d'une véritable formation.
+
+L'étude de la Nappe de la Brèche en Chablais a révélé que les «Calcaires à Silexites» offraient suffisamment de différences lithologiques par rapport à la Brèche supérieure pour permettre de définir une formation. En conséquence, la Formation de Bonave proposée ici correspond aux «Calcaires à Silexites» selon Schroeder (1939).</skos:definition>
+	<skos:scopeNote xml:lang="fr">60-70 m en moyenne, réduite dans la partie radicale de la nappe (Dall'Agnolo 2000).</skos:scopeNote>
+	<skos:scopeNote xml:lang="fr">Formation bien développée et complète dans les Préalpes du Chablais. Seuls quelques petits affleurements sont connus dans les Préalpes Romandes.</skos:scopeNote>
+	<skos:example xml:lang="en">Calcaires à Silexites (Schroeder 1939, Chessex 1959, Steffen et al. 1993), Bonave-Formation (Dall'Agnolo 1997), Formation de Bonave (Dapples 1998, Dall'Agnolo 2000)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Bonave-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Bonave Formation</skos:prefLabel>
@@ -15668,12 +15677,22 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ChumiFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:definition xml:lang="en">Flysch of the Breccia Nappe.</skos:definition>
+	<skos:definition xml:lang="en">Flysch of the Breccia Nappe, consisting of a thin series of dark beige-grey calcareous marlstone, thick-bedded sandstone and intercalated breccia layers.</skos:definition>
+	<skos:definition xml:lang="de">Vorder Chumi (CH-BE): 2598710 / 1157575</skos:definition>
+	<skos:definition xml:lang="fr">Braillard (2015): p.51: DALL’AGNOLO (1997) présente l’historique de la découverte du flysch attribué à la nappe de la Brèche (Formation de Chumi), ainsi que ses caractéristiques notamment sur la base de la coupe clé de Seefluh (aujourd’hui Geisshöri, coord. 2600.10/1158.60). A cet endroit, le flysch en lui-même est constitué de calcaires gréseux gris, laminés et micacés, de siltites carbonatées grises et de schistes verdâtres qui totalisent 5m de puissance seulement. Localement, des niveaux bréchiques polygéniques à base érosive peuvent apparaître, comme c’est le cas par exemple dans le couloir de Chumi (coord. 2598.710/1157.575, feuille 1246 Zweisimmen, localité-type) où affleure la variante grossière de la Formation de
+Chumi.
+La Formation de Chumi repose généralement sur les Couches Rouges, comme c’est le cas au Geisshöri, où le passage progressif est marqué par l’apparition de siltites sombres et de grès gris. Dans quelques cas, la Formation de Chumi recouvre par l’intermédiaire d’un contact abrupt directement la Brèche supérieure (par exemple au nord de Geisshöri, coord. 2600.20/1159.05, non dessiné sur la carte), voire même la Brèche inférieure (sur le territoire de la feuille 1246 Zweisimmen).
+Vers le haut, le contact avec le Mélange des Mattes est généralement net. La coupe de Geisshöri constitue une exception: à cet endroit, la Formation de Chumi passe graduellement au Mélange des Mattes par l’enrichissement progressif en lentilles diverses (calcaires micritiques, calcaires siliceux, grès) emballées dans des schistes marneux gris.
+La Formation de Chumi est datée de l’Eocène précoce sur la base de foraminifères planctoniques et benthiques.</skos:definition>
+	<skos:scopeNote xml:lang="en">Max. 10 m (Dall'Agnolo 1997)</skos:scopeNote>
+	<skos:scopeNote xml:lang="fr">Unité présente uniquement dans les Préalpes Romandes: Vordere Chumi, Seefluh, Moosbach, Laubegg, Rote Härd, Col de Videman.</skos:scopeNote>
+	<skos:example xml:lang="en">Flysch (de la Nappe de la Brèche) (Schroeder 1939), Breccien-Decken-Flysch (Wegmüller 1953), Flysch de base = Flysch inférieur (Chessex 1959), Brekzienflysch (Dall'Agnolo 1997), Formation de Chumi (Plancherel et al. 2012, Plancherel et al. 2020), Chumi-Formation (Braillard 2015), Vorderi-Chumi-Formation</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Chumi-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Chumi Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation de la Chumi</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione della Chumi</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Vorderi-Chumi-Formation</skos:altLabel>
 	<skos:notation>15255198</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
@@ -15945,6 +15964,11 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/JouxVerteFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">«Middle Cretaceous» of the Breccia Nappe, consisting of an alternation of dark-coloured, laminated marlstone and siliceous limestone, rich in glauconite and pyrite. This unit differs from the Bonave Formation in that it lacks quartzites. Three successive cycles are recognisable, each beginning with black shales and ending with siliceous limestone.</skos:definition>
+	<skos:definition xml:lang="fr">Col de la Joux Verte (FR-74): 2547520 / 1116750</skos:definition>
+	<skos:definition xml:lang="fr">Dall'Agnolo (2000): p.164: Depuis la première découverte de terrains du Crétacé moyen dans la nappe de la Brèche par Gagnebin (1932). cette succession a connu bien des appellations («Gault» Gagnebin 1932; «Mésocrétacé» Schroeder 1939; «Formation à Quartzites» Bernheim 1962; «Série à Quartzites» Caron &amp; Weidmann 1967). Aucune n'est en accord avec les exigences des guides stratigraphiques (Holland et al. 1978. Hedberg 1979) et surtout toutes donnent une fausse idée de la lithologie de cette Formation: en fait, il ne s'agit ni de «Gault» ni de «quartzites». Je propose donc de définir ici la Formation de la Joux Verte dont le nom devrait remplacer ceux évoqués ci-dessus.</skos:definition>
+	<skos:scopeNote xml:lang="fr">Unité présente uniquement dans les Préalpes du Chablais.</skos:scopeNote>
+	<skos:scopeNote xml:lang="fr">Max. 70 m au Torrent des Masses (coupe-type), tronquée dans la zone radicale de la nappe (Dall'Agnolo 200).</skos:scopeNote>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Joux-Verte-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Joux Verte Formation</skos:prefLabel>
@@ -16569,11 +16593,26 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/MattesMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">Mélange developped at the top of the Breccia Nappe, consisting of dark pelitic rocks (marlstone, siltstone), grey sandstone and lenses of Couches Rouges and ophiolithic material.</skos:definition>
+	<skos:definition xml:lang="fr">Braillard (2015): p.51: Le Mélange des Mattes est constitué de pélites sombres, de siltites et grès gris, qui contiennent des lentilles diverses (calcaires micritiques, calcaires siliceux, grès). Sur la carte, les lentilles de grès ( =Formation de Chumi), souvent assez grandes, ont été distinguées dans le Mélange des Mattes. Il s’agit d’un grès moyen quartzitique très dur, légèrement carbonaté, contenant des fragments dolomitiques et des foraminifères benthiques éocènes.
+Le Mélange des Mattes repose soit sur la Formation de Chumi (Flysch de la nappe de la Brèche), soit sur les Couches Rouges, soit sur la Brèche supérieure, voire sur la Brèche inférieure, par l’intermédiaire d’un contact généralement net. A la coupe de Geisshöri, le contact entre la Formation de Chumi et le Mélange des Mattes est toutefois progressif (voir ci-dessus). Le contact supérieur avec les unités des Préalpes supérieures est toujours tectonique.
+L’âge estimé du Mélange des Mattes, donné notamment par les plus jeunes lentilles datées, est éocène moyen (à tardif?).</skos:definition>
+	<skos:definition xml:lang="fr">Les Mattes (FR-74): 2550600 / 1123440</skos:definition>
+	<skos:example xml:lang="fr">Flysch à lentilles de Couches Rouges p.p. (Badoux 1960, Badoux 1962)</skos:example>
+	<skos:example xml:lang="fr">Flysch gréso-calcaire plaqueté (Chessex 1959)</skos:example>
+	<skos:example xml:lang="fr">Flysch crétacé? (Bl. Monthey)</skos:example>
+	<skos:example xml:lang="fr">Wildflysch (Steeb 1987)</skos:example>
+	<skos:example xml:lang="de">Suprabrekzienmelange (Dall'Agnolo 1997)</skos:example>
+	<skos:example xml:lang="fr">Complexe chaotique = Mélange supérieur (Plancherel 1998)</skos:example>
+	<skos:example xml:lang="fr">Mélange des Mattes (Plancherel et al. 2012, Plancherel et al. 2020)</skos:example>
+	<skos:example xml:lang="de">Mattes-Melange (Braillard 2015)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Mattes-Melange</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Mattes Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange des Mattes</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange delle Mattes</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Suprabrekzien-Melange</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Mélange Supra-Brèche</skos:altLabel>
 	<skos:notation>15255197</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
@@ -21846,16 +21885,6 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/c_aafed0a4">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="en">Liegende-Bankkalke-Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="de">Liegende-Bankkalke-Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Liegende-Bankkalke-Formation</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Liegende-Bankkalke-Formation</skos:prefLabel>
-	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/LacunosamergelFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
@@ -21914,6 +21943,88 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="fr">Wedelsandstein-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Wedelsandstein-Formation</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/LiegendeBankkalkeFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Liegende-Bankkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Liegende-Bankkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Liegende-Bankkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Liegende-Bankkalke-Formation</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1jlk6catfx99">
+	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/collBrecciaNappe"/>
+	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/collMiddlePrealps">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#OrderedCollection"/>
+	<skos:prefLabel xml:lang="en">Prealps</skos:prefLabel>
+	<skos:memberList rdf:nodeID="node1jlk6catfx99"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/collBrecciaNappe">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#OrderedCollection"/>
+	<skos:prefLabel xml:lang="en">Breccia Nappe</skos:prefLabel>
+	<skos:memberList rdf:nodeID="node1jlk6catfx103"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1jlk6catfx101">
+	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BonaveFormation"/>
+	<rdf:rest rdf:nodeID="node1jlk6catfx105"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1jlk6catfx102">
+	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ChumiFormation"/>
+	<rdf:rest rdf:nodeID="node1jlk6catfx104"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1jlk6catfx103">
+	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MattesMelange"/>
+	<rdf:rest rdf:nodeID="node1jlk6catfx102"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1jlk6catfx104">
+	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/JouxVerteFormation"/>
+	<rdf:rest rdf:nodeID="node1jlk6catfx101"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1jlk6catfx105">
+	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ObereBrekzie"/>
+	<rdf:rest rdf:nodeID="node1jlk6catfx106"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1jlk6catfx106">
+	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ObereSchiefer"/>
+	<rdf:rest rdf:nodeID="node1jlk6catfx107"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1jlk6catfx107">
+	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/UntereBrekzie"/>
+	<rdf:rest rdf:nodeID="node1jlk6catfx108"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1jlk6catfx108">
+	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/UntereSchiefer"/>
+	<rdf:rest rdf:nodeID="node1jlk6catfx109"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1jlk6catfx109">
+	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ChaluneFormation"/>
+	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
 
 </rdf:RDF>
