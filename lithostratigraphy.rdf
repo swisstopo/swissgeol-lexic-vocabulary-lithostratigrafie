@@ -6273,6 +6273,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 	<stratigraphicrank xmlns="http://resource.geosciml.org/classifierscheme/cgi/2016.01/#">formation</stratigraphicrank>
+	<dct:Replaces rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/OyeLimestone"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/NiederhornFormation">
@@ -7706,6 +7707,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 	<stratigraphicrank xmlns="http://resource.geosciml.org/classifierscheme/cgi/2016.01/#">formation</stratigraphicrank>
+	<dct:Replaces rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/CorraterieBeds"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/VogornoGneiss">
@@ -10016,6 +10018,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PierreJauneInferieure"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 	<stratigraphicrank xmlns="http://resource.geosciml.org/classifierscheme/cgi/2016.01/#">member</stratigraphicrank>
+	<dct:Replaces rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/HauteriveLimestone"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/GrandeBonavauFormation">
@@ -12233,6 +12236,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="en">Vouglans Member</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Membre de Vouglans</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro di Vouglans</skos:prefLabel>
+	<skos:altLabel xml:lang="fr">Tidalites de Vouglans</skos:altLabel>
 	<skos:notation>15251060</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/TwannbachFormation"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
@@ -12623,6 +12627,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/VuacheFormation"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 	<stratigraphicrank xmlns="http://resource.geosciml.org/classifierscheme/cgi/2016.01/#">member</stratigraphicrank>
+	<dct:Replaces rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BallaiguesMarlstone"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/CalcaireRoux">
@@ -15523,19 +15528,21 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/BonaveFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:definition xml:lang="en">«Lower Cretaceous» of the Breccia Nappe, consisting of Fine-grained limestones, rich in chert nodules or silicified beds. The lower part of the unit consists of chert-rich calcilutites, whilst the calcarenites and fine-grained breccias of the upper part contain fewer chert nodules.</skos:definition>
-	<skos:definition xml:lang="fr">Torrent de Bonave (FR-74): 2536675 / 1111850</skos:definition>
-	<skos:definition xml:lang="fr">Dall'Agnolo (2000): p.158: Les calcaires fins, riches en rognons ou lits silicifiés, qui s'intercalent dans le haut de la série de la Brèche supérieure sont appelés «Calcaires à Silexites» depuis Schroeder (1939). Ces Calcaires à Silexites sont considérés comme un membre de la Brèche supérieure (Chessex 1959. Steffen et al. 1993). bien que Schroeder (1939, p. 36) ait proposé: «...Nous la faisons (la Brèche supérieure) se terminer avec le début des calcaires à Silexites...». et que Haas (1964) en ait parlé informellement comme d'une véritable formation.
-
-L'étude de la Nappe de la Brèche en Chablais a révélé que les «Calcaires à Silexites» offraient suffisamment de différences lithologiques par rapport à la Brèche supérieure pour permettre de définir une formation. En conséquence, la Formation de Bonave proposée ici correspond aux «Calcaires à Silexites» selon Schroeder (1939).</skos:definition>
+	<skos:definition xml:lang="en">The Bonave Formation («Lower Cretaceous» of the Breccia Nappe) consists of fine-grained limestones, rich in chert nodules or silicified beds. The lower part of the unit consists of chert-rich calcilutites, whilst the calcarenites and fine-grained breccias of the upper part contain fewer chert nodules.</skos:definition>
 	<skos:scopeNote xml:lang="fr">60-70 m en moyenne, réduite dans la partie radicale de la nappe (Dall'Agnolo 2000).</skos:scopeNote>
 	<skos:scopeNote xml:lang="fr">Formation bien développée et complète dans les Préalpes du Chablais. Seuls quelques petits affleurements sont connus dans les Préalpes Romandes.</skos:scopeNote>
-	<skos:example xml:lang="en">Calcaires à Silexites (Schroeder 1939, Chessex 1959, Steffen et al. 1993), Bonave-Formation (Dall'Agnolo 1997), Formation de Bonave (Dapples 1998, Dall'Agnolo 2000)</skos:example>
+	<skos:example xml:lang="de">1997 - Dall'Agnolo: Bonave-Formation</skos:example>
+	<skos:example xml:lang="fr">1939 - Schroeder: Calcaires à Silexites</skos:example>
+	<skos:example xml:lang="fr">1959 - Chessex: Calcaires à Silexites</skos:example>
+	<skos:example xml:lang="fr">1993 - Steffen et al.: Calcaires à Silexites</skos:example>
+	<skos:example xml:lang="fr">1998 - Dapples: Formation de Bonave</skos:example>
+	<skos:example xml:lang="fr">2000 - Dall'Agnolo: Formation de Bonave</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Bonave-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Bonave Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation de Bonave</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Bonave</skos:prefLabel>
+	<skos:altLabel xml:lang="fr">Calcaires à Silexites</skos:altLabel>
 	<skos:notation>15255200</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
@@ -15628,6 +15635,7 @@ L'étude de la Nappe de la Brèche en Chablais a révélé que les «Calcaires �
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ChaluneFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Chalune Formation (Triassic of the Breccia Nappe) consists of an alternation of massive saccharoidal dolomite, finely laminated dolomite and dolomitic breccia.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Chalune-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Chalune Formation</skos:prefLabel>
@@ -15677,22 +15685,22 @@ L'étude de la Nappe de la Brèche en Chablais a révélé que les «Calcaires �
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ChumiFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:definition xml:lang="en">Flysch of the Breccia Nappe, consisting of a thin series of dark beige-grey calcareous marlstone, thick-bedded sandstone and intercalated breccia layers.</skos:definition>
-	<skos:definition xml:lang="de">Vorder Chumi (CH-BE): 2598710 / 1157575</skos:definition>
-	<skos:definition xml:lang="fr">Braillard (2015): p.51: DALL’AGNOLO (1997) présente l’historique de la découverte du flysch attribué à la nappe de la Brèche (Formation de Chumi), ainsi que ses caractéristiques notamment sur la base de la coupe clé de Seefluh (aujourd’hui Geisshöri, coord. 2600.10/1158.60). A cet endroit, le flysch en lui-même est constitué de calcaires gréseux gris, laminés et micacés, de siltites carbonatées grises et de schistes verdâtres qui totalisent 5m de puissance seulement. Localement, des niveaux bréchiques polygéniques à base érosive peuvent apparaître, comme c’est le cas par exemple dans le couloir de Chumi (coord. 2598.710/1157.575, feuille 1246 Zweisimmen, localité-type) où affleure la variante grossière de la Formation de
-Chumi.
-La Formation de Chumi repose généralement sur les Couches Rouges, comme c’est le cas au Geisshöri, où le passage progressif est marqué par l’apparition de siltites sombres et de grès gris. Dans quelques cas, la Formation de Chumi recouvre par l’intermédiaire d’un contact abrupt directement la Brèche supérieure (par exemple au nord de Geisshöri, coord. 2600.20/1159.05, non dessiné sur la carte), voire même la Brèche inférieure (sur le territoire de la feuille 1246 Zweisimmen).
-Vers le haut, le contact avec le Mélange des Mattes est généralement net. La coupe de Geisshöri constitue une exception: à cet endroit, la Formation de Chumi passe graduellement au Mélange des Mattes par l’enrichissement progressif en lentilles diverses (calcaires micritiques, calcaires siliceux, grès) emballées dans des schistes marneux gris.
-La Formation de Chumi est datée de l’Eocène précoce sur la base de foraminifères planctoniques et benthiques.</skos:definition>
-	<skos:scopeNote xml:lang="en">Max. 10 m (Dall'Agnolo 1997)</skos:scopeNote>
-	<skos:scopeNote xml:lang="fr">Unité présente uniquement dans les Préalpes Romandes: Vordere Chumi, Seefluh, Moosbach, Laubegg, Rote Härd, Col de Videman.</skos:scopeNote>
-	<skos:example xml:lang="en">Flysch (de la Nappe de la Brèche) (Schroeder 1939), Breccien-Decken-Flysch (Wegmüller 1953), Flysch de base = Flysch inférieur (Chessex 1959), Brekzienflysch (Dall'Agnolo 1997), Formation de Chumi (Plancherel et al. 2012, Plancherel et al. 2020), Chumi-Formation (Braillard 2015), Vorderi-Chumi-Formation</skos:example>
+	<skos:definition xml:lang="en">The Chumi Formation (Flysch of the Breccia Nappe) consists of a thin series of dark beige-grey calcareous marlstone, thick-bedded sandstone and intercalated breccia layers.</skos:definition>
+	<skos:scopeNote xml:lang="fr">Unité présente uniquement dans les Préalpes Romandes (Vordere Chumi, Seefluh, Moosbach, Laubegg, Rote Härd, Col de Videman).</skos:scopeNote>
+	<skos:example xml:lang="fr">Flysch de la Nappe de la Brèche (Schroeder 1939)</skos:example>
+	<skos:example xml:lang="de">Breccien-Decken-Flysch (Wegmüller 1953)</skos:example>
+	<skos:example xml:lang="fr">Flysch de base = Flysch inférieur (Chessex 1959)</skos:example>
+	<skos:example xml:lang="de">Brekzienflysch (Dall'Agnolo 1997)</skos:example>
+	<skos:example xml:lang="fr">Formation de Chumi (Plancherel et al. 2012, Plancherel et al. 2020)</skos:example>
+	<skos:example xml:lang="de">Chumi-Formation (Braillard 2015)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Chumi-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Chumi Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation de la Chumi</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione della Chumi</skos:prefLabel>
 	<skos:altLabel xml:lang="de">Vorderi-Chumi-Formation</skos:altLabel>
+	<skos:altLabel xml:lang="de">«Brekzienflysch»</skos:altLabel>
+	<skos:altLabel xml:lang="fr">«Flysch de la Brèche»</skos:altLabel>
 	<skos:notation>15255198</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
@@ -15964,16 +15972,23 @@ La Formation de Chumi est datée de l’Eocène précoce sur la base de foramini
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/JouxVerteFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:definition xml:lang="en">«Middle Cretaceous» of the Breccia Nappe, consisting of an alternation of dark-coloured, laminated marlstone and siliceous limestone, rich in glauconite and pyrite. This unit differs from the Bonave Formation in that it lacks quartzites. Three successive cycles are recognisable, each beginning with black shales and ending with siliceous limestone.</skos:definition>
-	<skos:definition xml:lang="fr">Col de la Joux Verte (FR-74): 2547520 / 1116750</skos:definition>
-	<skos:definition xml:lang="fr">Dall'Agnolo (2000): p.164: Depuis la première découverte de terrains du Crétacé moyen dans la nappe de la Brèche par Gagnebin (1932). cette succession a connu bien des appellations («Gault» Gagnebin 1932; «Mésocrétacé» Schroeder 1939; «Formation à Quartzites» Bernheim 1962; «Série à Quartzites» Caron &amp; Weidmann 1967). Aucune n'est en accord avec les exigences des guides stratigraphiques (Holland et al. 1978. Hedberg 1979) et surtout toutes donnent une fausse idée de la lithologie de cette Formation: en fait, il ne s'agit ni de «Gault» ni de «quartzites». Je propose donc de définir ici la Formation de la Joux Verte dont le nom devrait remplacer ceux évoqués ci-dessus.</skos:definition>
+	<skos:definition xml:lang="en">The Joux Verte Formation («Middle Cretaceous» of the Breccia Nappe) consists of an alternation of dark-coloured, laminated marlstone and siliceous limestone, rich in glauconite and pyrite. This unit differs from the Bonave Formation in that the latter lacks quartzites. Three successive cycles are recognisable, each beginning with black shales and ending with siliceous limestone.</skos:definition>
 	<skos:scopeNote xml:lang="fr">Unité présente uniquement dans les Préalpes du Chablais.</skos:scopeNote>
 	<skos:scopeNote xml:lang="fr">Max. 70 m au Torrent des Masses (coupe-type), tronquée dans la zone radicale de la nappe (Dall'Agnolo 200).</skos:scopeNote>
+	<skos:example xml:lang="de">Mittlerer Kreide = Gault (Gagnebin 1932)</skos:example>
+	<skos:example xml:lang="fr">Mésocrétacé (Schroeder 1939)</skos:example>
+	<skos:example xml:lang="fr">Formation à Quartzites (Bernheim 1962)</skos:example>
+	<skos:example xml:lang="fr">Série à Quartzites (Caron &amp; Weidmann 1967)</skos:example>
+	<skos:example xml:lang="de">Joux Verte-Formation (Dall'Agnolo 1997)</skos:example>
+	<skos:example xml:lang="fr">mésocrétacé de la nappe de la Brèche = Formation à Quartzites = Série à Quartzites = Formation de la Joux Verte (Dapples 1998)</skos:example>
+	<skos:example xml:lang="fr">Formation de la Joux Verte (Dall'Agnolo 2000)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Joux-Verte-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Joux Verte Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation de la Joux Verte</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione della Joux Verte</skos:prefLabel>
+	<skos:altLabel xml:lang="fr">«Formation à Quartzites»</skos:altLabel>
+	<skos:altLabel xml:lang="fr">«Série à Quartzites»</skos:altLabel>
 	<skos:notation>15255199</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
@@ -16065,11 +16080,12 @@ La Formation de Chumi est datée de l’Eocène précoce sur la base de foramini
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ObereBrekzie">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The «Upper Breccia» (Upper Malm of the Breccia Nappe) consists of finely bedded limestones with intercalations of generally fine-grained calcareous breccia (lacking oolites). Quartzites and crystalline components are also present. The «Upper Breccia» differs from the «Lower Breccia» by its lighter colour and finer bedding, as well as in its stratigraphic position above the «Upper Schists».</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Obere Brekzie</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Obere Brekzie</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Brèche Supérieure</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Brèche Supérieure</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Obere Brekzie» (der Brekzien-Decke)</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">«Upper Breccia» (of the Breccia Nappe)</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Brèche Supérieure» (de la Nappe de la Brèche)</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Breccia Superiore» (della Falda della Breccia)</skos:prefLabel>
 	<skos:notation>15255201</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
@@ -16077,11 +16093,14 @@ La Formation de Chumi est datée de l’Eocène précoce sur la base de foramini
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ObereSchiefer">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The «Upper Schists» (Lower Malm of the Breccia Nappe) consists of non-carbonate siliceous shales, dark grey in colour or occasionally red and green (particularly in a layer near the top of the unit). Calcarenite, breccia and radiolarite are locally intercalated.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Obere Schiefer</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Obere Schiefer</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Schistes Ardoisiers</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Schistes Ardoisiers</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Obere Schiefer» (der Brekzien-Decke)</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">«Upper Schists» (of the Breccia Nappe)</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Schistes Supérieurs» (de la Nappe de la Brèche)</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Scisti Superiori» (della Falda della Breccia)</skos:prefLabel>
+	<skos:altLabel xml:lang="fr">«Schistes Ardoisiers» (de la Nappe de la Brèche)</skos:altLabel>
+	<skos:altLabel xml:lang="fr">«Callovo-Oxfordien» (de la Nappe de la Brèche)</skos:altLabel>
 	<skos:notation>15255202</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
@@ -16478,11 +16497,12 @@ La Formation de Chumi est datée de l’Eocène précoce sur la base de foramini
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/UntereBrekzie">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The «Lower Breccia» builds up the largest and most typical part of the Breccia Nappe. It consists of a coarse polymictic breccia containing dolomitic (Triassic) and calcareous (Liassic) components, with almost no matrix. In the frontal part of the nappe (Saint-Jean-d'Aulps, Chalune, etc.), the Lower Breccia is almost monomictic, locally containing very large blocks.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Untere Brekzie</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Untere Brekzie</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Brèche Inférieure</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Brèche Inférieure</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Untere Brekzie» (der Brekzien-Decke)</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">«Lower Breccia» (of the Breccia Nappe)</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Brèche Inférieure» (de la Nappe de la Brèche)</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Breccia Inferiore» (della Falda della Breccia)</skos:prefLabel>
 	<skos:notation>15255203</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
@@ -16490,11 +16510,12 @@ La Formation de Chumi est datée de l’Eocène précoce sur la base de foramini
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/UntereSchiefer">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The «Lower Schists» (Liassic of the Breccia Nappe) consists of dark sandy shales, occasionally interbedded with spathic limestone. Limestones may predominate locally at the base of the unit («Lower Limestones»), whilst breccias occur in the upper part of the unit.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Untere Schiefer</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Untere Schiefer</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Schistes Inférieurs</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Schistes Inférieurs</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Untere Schiefer» (der Brekzien-Decke)</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">«Lower Schists» (of the Breccia Nappe)</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Schistes Inférieurs» (de la Nappe de la Brèche)</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Scisti Inferiori» (della Falda della Breccia)</skos:prefLabel>
 	<skos:notation>15255204</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/UntereKalke"/>
@@ -16593,11 +16614,7 @@ La Formation de Chumi est datée de l’Eocène précoce sur la base de foramini
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/MattesMelange">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:definition xml:lang="en">Mélange developped at the top of the Breccia Nappe, consisting of dark pelitic rocks (marlstone, siltstone), grey sandstone and lenses of Couches Rouges and ophiolithic material.</skos:definition>
-	<skos:definition xml:lang="fr">Braillard (2015): p.51: Le Mélange des Mattes est constitué de pélites sombres, de siltites et grès gris, qui contiennent des lentilles diverses (calcaires micritiques, calcaires siliceux, grès). Sur la carte, les lentilles de grès ( =Formation de Chumi), souvent assez grandes, ont été distinguées dans le Mélange des Mattes. Il s’agit d’un grès moyen quartzitique très dur, légèrement carbonaté, contenant des fragments dolomitiques et des foraminifères benthiques éocènes.
-Le Mélange des Mattes repose soit sur la Formation de Chumi (Flysch de la nappe de la Brèche), soit sur les Couches Rouges, soit sur la Brèche supérieure, voire sur la Brèche inférieure, par l’intermédiaire d’un contact généralement net. A la coupe de Geisshöri, le contact entre la Formation de Chumi et le Mélange des Mattes est toutefois progressif (voir ci-dessus). Le contact supérieur avec les unités des Préalpes supérieures est toujours tectonique.
-L’âge estimé du Mélange des Mattes, donné notamment par les plus jeunes lentilles datées, est éocène moyen (à tardif?).</skos:definition>
-	<skos:definition xml:lang="fr">Les Mattes (FR-74): 2550600 / 1123440</skos:definition>
+	<skos:definition xml:lang="en">The Mattes Mélange, developped at the top of the Breccia Nappe, consists of dark pelitic rocks (marlstone, siltstone), grey sandstone and lenses of «Couches Rouges» and ophiolithic material.</skos:definition>
 	<skos:example xml:lang="fr">Flysch à lentilles de Couches Rouges p.p. (Badoux 1960, Badoux 1962)</skos:example>
 	<skos:example xml:lang="fr">Flysch gréso-calcaire plaqueté (Chessex 1959)</skos:example>
 	<skos:example xml:lang="fr">Flysch crétacé? (Bl. Monthey)</skos:example>
@@ -16611,8 +16628,8 @@ L’âge estimé du Mélange des Mattes, donné notamment par les plus jeunes le
 	<skos:prefLabel xml:lang="en">Mattes Mélange</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Mélange des Mattes</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Mélange delle Mattes</skos:prefLabel>
-	<skos:altLabel xml:lang="de">Suprabrekzien-Melange</skos:altLabel>
-	<skos:altLabel xml:lang="fr">Mélange Supra-Brèche</skos:altLabel>
+	<skos:altLabel xml:lang="de">«Suprabrekzien-Melange»</skos:altLabel>
+	<skos:altLabel xml:lang="fr">«Mélange Supra-Brèche»</skos:altLabel>
 	<skos:notation>15255197</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
@@ -17798,11 +17815,12 @@ L’âge estimé du Mélange des Mattes, donné notamment par les plus jeunes le
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/UntereKalke">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The «Lower Limestones» of the Breccia Nappe are brown spathic and siliceous limestones with black chert nodules, locally forming massive bars or continuous beds at the base of the «Lower Schists».</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Untere Kalke</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Untere Kalke</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Calcaires Inférieurs</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Calcaires Inférieurs</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Untere Kalke» (der Brekzien-Decke)</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">«Lower Limestones» (of the Breccia Nappe)</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Calcaires Inférieurs» (de la Nappe de la Brèche)</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Calcari Inferiori» (della Falda della Breccia)</skos:prefLabel>
 	<skos:notation>15255205</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/UntereSchiefer"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
@@ -22025,6 +22043,62 @@ L’âge estimé du Mélange des Mattes, donné notamment par les plus jeunes le
 	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
 	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ChaluneFormation"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/OyeLimestone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
+	<skos:definition xml:lang="fr">Ancien terme désignant les calcaires crayeux blancs du Crétacé tardif du Jura franc-comtois (= Formation de Narlay)..</skos:definition>
+	<skos:example xml:lang="fr">calcaire crayeux blanc d'Oye et Pallet (Guillaume 1966 p.186)</skos:example>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Craie d'Oye»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Craie d'Oye»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Craie d'Oye»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Craie d'Oye»</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<dct:isReplacedBy rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/NarlayFormation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/HauteriveLimestone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
+	<skos:definition xml:lang="fr">Ancien terme désignant le calcaire jaune du Jura neuchâtelois (faciès principal du Membre de Neuchâtel de la Formation du Grand Essert).</skos:definition>
+	<skos:example xml:lang="fr">pierre calcaire jaune tendre (Haute-Rive) (de Razoumowsky 1789 p.152)</skos:example>
+	<skos:example xml:lang="fr">Calcaires jaunes de Neuchâtel et Hauterive (Rollier 1917)</skos:example>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Hauterive Limestone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Calcaire d'Hauterive</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Hauterive-Kalk</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Calcare di Hauterive</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<dct:isReplacedBy rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/NeuchatelMember"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/BallaiguesMarlstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
+	<skos:example xml:lang="fr">marne bleue valengienne de Ballaigue (Jaccard 1861 p.79)</skos:example>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Ballaigues Marlstone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Marne de Ballaigues</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Ballaigues-Mergelstein</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Marna di Ballaigues</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<dct:isReplacedBy rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ArzierMarlstone"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/CorraterieBeds">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
+	<skos:definition xml:lang="fr">Marnes et calcaires zoogènes pseudo-oolithiques gréseux du Crétacé précoce du Salève. Présence de niveaux remaniés et de niveaux charbonneux.</skos:definition>
+	<skos:example xml:lang="fr">Couches de la Corraterie (Mouty 1966)</skos:example>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Corraterie Beds</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Couches de la Corraterie</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Corraterie-Schichten</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Strati della Corraterie</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<dct:isReplacedBy rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/VionsFormation"/>
 </rdf:Description>
 
 </rdf:RDF>
