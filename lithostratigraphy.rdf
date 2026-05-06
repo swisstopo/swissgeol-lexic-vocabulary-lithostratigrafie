@@ -11146,6 +11146,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:notation>15251198</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PasswangFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ComptumBed"/>
+	<skos:related rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MurchisonaeoolithFormation"/>
 	<status xmlns="http://www.w3.org/ns/adms#">active</status>
 </rdf:Description>
 
@@ -22099,6 +22100,45 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="it">Strati della Corraterie</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<dct:isReplacedBy rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/VionsFormation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/MurchisonaeSchichten_CHJ">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
+	<skos:example xml:lang="de">Calcaires oolithiques ferrugineux (Greppin 1866), Sand-Kalk = Dogger inférieur à Harpoceras Murchisonae d'Argovie = Aalénien supérieur (Renevier 1897), Murchisonae-Schichten (Mühlberg 1900, Gsell 1968, Lusser 1980), Murchisonaeschichten (Tobler 1905 Tab.7a-b, Disler 1941), Murchisonae-Concava-Schichten (Brändlin 1911, Bläsi 1987)</skos:example>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="fr">«Couches à Murchisonae» du Jura suisse</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">«Murchisonae Beds» of the Swiss Jura Mountains</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Murchisonae-Schichten» des Schweizerischen Juragebirges</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Strati a Murchisonae» del Giura svizzero</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<dct:isReplacedBy rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/SissachMember"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/MurchisonaeSchichten_CHH">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
+	<skos:definition xml:lang="de">Harter, rostroter und grauer, eisenschüssiger Sandkalk mit wulstiger Oberfläche bzw. gelblichem Quarzit (unten) gefolgt von knolligem, sandigem, etwas glimmerhaltigem Tonschiefer mit Einlagerungen von Kieselknollen.</skos:definition>
+	<skos:example xml:lang="de">calcaires spathiques à Harpoceras Murchisonae (Haug 1910), Murchisonae Schichten (Seeber 1911)</skos:example>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Murchisonae Beds» of the Helvetics</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Murchisonae-Schichten» des Helvetikums</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Couches à Murchisonae» de l'Helvétique</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Strati a Murchisonae» del Elvetico</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/MurchisonaeoolithFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="de">Sandiger Kalk bis Kalksandstein, sowie sandige Eisenoolithe mit häufige lateralen und vertikalen Fazieswechel.</skos:definition>
+	<skos:scopeNote xml:lang="de">Formation des Süddeutschen Juragebirges, die als laterales Äquivalent des Sissach-Members (Passwang-Fm.) des Schweizerischen Juragebirges betrachtet wird.</skos:scopeNote>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Murchisonaeoolith-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Murchisonaeoolith-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Murchisonaeoolith-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Murchisonaeoolith-Formation</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<skos:related rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/SissachMember"/>
 </rdf:Description>
 
 </rdf:RDF>
