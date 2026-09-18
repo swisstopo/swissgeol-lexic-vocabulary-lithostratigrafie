@@ -42,7 +42,6 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ChazforaFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ChiassoFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ColdrerioFlysch"/>
-	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ComoConglomerate"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/CornoDiCampoGranodiorite"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/CorvatschGranodiorite"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/CuassoAlMonteGranophyre"/>
@@ -67,7 +66,6 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/IvreaMaficComplex"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/JulierGranodiorite"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LechFormation"/>
-	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LucinoConglomerate"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MacchiaVecchia"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MannoFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MerideFormation"/>
@@ -80,7 +78,6 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MurteretDolomite"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/NairPorphyroid"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ParaitChavaglGranite"/>
-	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ParneglFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PartnachFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PiambelloVolcanicRock"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PietraRossaFormation"/>
@@ -166,6 +163,10 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/RivaDiSoltoClaystone"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PizzellaMarlstone"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/SanSalvatoreDolomite"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ComoFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LucinoFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/GarzirolaMylonite"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/SchwarzhornAmphibolite"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -684,6 +685,7 @@
 	<skos:prefLabel xml:lang="it">Granodiorite del Julier</skos:prefLabel>
 	<skos:notation>15257081</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MaterdellTonalite"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -860,7 +862,7 @@
 	<skos:prefLabel xml:lang="fr">Formation de Parnegl</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Parnegl</skos:prefLabel>
 	<skos:notation>15255066</skos:notation>
-	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -2169,6 +2171,11 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BurgruinenGneiss"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/VignunGneiss"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/GloborotaliaBeds"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BardanSchist"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ChaltebrunneBreccia"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/FoppaGneiss"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/VazzedaMarble"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ScermendoneOphicarbonate"/>
 	<adms:status>active</adms:status>
 	<adms:status rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PrealpsLiSt"/>
 </rdf:Description>
@@ -2618,7 +2625,6 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BifeFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BifertenfirnFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BommersteinFormation"/>
-	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BonaveauLimestone"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BoscoGneiss"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/SpitzmeilenFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BreyaRhyolite"/>
@@ -2986,6 +2992,19 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/DentalientonFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/WedelsandsteinFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LiegendeBankkalkeFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/RossoDiGravGneiss"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ChapellesSandstone"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/DentDeValereFlysch"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ArpilleGneissComplex"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/TeteDesOttansGneiss"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/FinhautMylonite"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/HowaeldlibachFlysch"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PlattenalpBreccia"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/DronnaireClaystone"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/WutachFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/HangendeBankkalkeFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/SaintMauriceFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PrataGneiss"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -3359,6 +3378,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="en">Valaisan Basin</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Bassin valaisan</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Bacino vallese</skos:prefLabel>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ParneglFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/AulMarble"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BruantSandstone"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/CarnusaFormation"/>
@@ -3427,6 +3447,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PeulaBeds"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/DotseLimestone"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/VersoyenBeds"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/StaetzerhornFormation"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -4584,18 +4605,6 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<adms:status>active</adms:status>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/BonaveauLimestone">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Bonaveau-Kalk</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Bonaveau Limestone</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Calcaire de Bonaveau</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Calcare di Bonaveau</skos:prefLabel>
-	<skos:notation>15255096</skos:notation>
-	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
-	<adms:status>active</adms:status>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/BoscoGneiss">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:definition xml:lang="en">Crystalline basement of the Pizzo del Bosco Zone.</skos:definition>
@@ -5045,6 +5054,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:notation>15253134</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PlanplatteOolite"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ChamosonOolite"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -7763,6 +7773,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ArzierMarlstone"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/CalcaireRoux"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/VillersBeds"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MetabiefLimestone"/>
 	<adms:status>active</adms:status>
 	<stratigraphicrank xmlns="http://resource.geosciml.org/classifierscheme/cgi/2016.01/#">formation</stratigraphicrank>
 </rdf:Description>
@@ -8770,10 +8781,12 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:definition xml:lang="en">Crystalline basement of the Leventina-Lucomagno Nappe.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Lukmanier-Augengneis</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Lucomagno Augengneiss</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Gneiss oeillé du Lucomagno</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Gneiss occhiadino del Lucomagno</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Lucomagno-Paragneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Lucomagno Paragneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Paragneiss du Lucomagno</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Paragneiss del Lucomagno</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Lukmanier-Augengneis</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Gneiss oeillé du Lukmanier</skos:altLabel>
 	<skos:notation>15254059</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<adms:status>active</adms:status>
@@ -9180,10 +9193,11 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/LoderioComplex">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Loderio-Ultramafit</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Loderio Ultramafic Complex</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Complexe ultramafique de Loderio</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Complesso ultramafico di Loderio</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Loderio-Ultramafisches Komplex</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Loderio-Ultramafitit</skos:altLabel>
 	<skos:notation>15254058</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<adms:status>active</adms:status>
@@ -9259,8 +9273,10 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="de">«Molasse Rouge de Monthey»</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">«Molasse Rouge de Monthey»</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">«Molasse Rouge de Monthey»</skos:prefLabel>
+	<skos:notation>15252121</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<adms:status>active</adms:status>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/LaufenMember">
@@ -9664,6 +9680,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/UntereBunteMolasse"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MassongexSandstone"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/Albstein"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BenkenSandstone"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -10018,6 +10035,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/CenseauBeds"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EcluseLimestone"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MorteauMarlstone"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/HauteriveMarlstone"/>
 	<adms:status>active</adms:status>
 	<stratigraphicrank xmlns="http://resource.geosciml.org/classifierscheme/cgi/2016.01/#">member</stratigraphicrank>
 </rdf:Description>
@@ -10035,6 +10053,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/UttinsMarlstone"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PierreJauneSuperieure"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PierreJauneInferieure"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/CornauxMarlstone"/>
 	<adms:status>active</adms:status>
 	<stratigraphicrank xmlns="http://resource.geosciml.org/classifierscheme/cgi/2016.01/#">member</stratigraphicrank>
 	<dct:Replaces rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/HauteriveLimestone"/>
@@ -11619,6 +11638,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="it">Membro del Fort de l'Ecluse</skos:prefLabel>
 	<skos:notation>15251028</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/RocherDesHirondellesFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/OolitheCaviar"/>
 	<adms:status>active</adms:status>
 	<stratigraphicrank xmlns="http://resource.geosciml.org/classifierscheme/cgi/2016.01/#">member</stratigraphicrank>
 </rdf:Description>
@@ -12491,6 +12511,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="fr">Membre du Col du Jorat</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Membro del Col del Jorat</skos:prefLabel>
 	<skos:notation>15253173</skos:notation>
+	<skos:editorialNote xml:lang="en">Not officially recognised and hence replaced as a petrographic facies (pelitic facies of the Vieux-Emosson Formation).</skos:editorialNote>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/VieuxEmossonFormation"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
@@ -15616,6 +15637,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="fr">Serpentinite du Breithorn</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Serpentinite del Breithorn</skos:prefLabel>
 	<skos:notation>15255315</skos:notation>
+	<skos:editorialNote xml:lang="en">Not officially recognised (local occurrence) and hence replaced as a petrographic facies (serpentinite of the Zermatt-Saas Nappe).</skos:editorialNote>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
@@ -16392,6 +16414,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="en">Stalden Gneiss Complex</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Complexe gneissique de Stalden</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Complesso gneissico di Stalden</skos:prefLabel>
+	<skos:altLabel xml:lang="fr">Gneiss de Stalden</skos:altLabel>
 	<skos:notation>15255219</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ToerbelGneiss"/>
@@ -18152,6 +18175,8 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/AreuaBruschghornMelange"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/KientalMelange"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PlaineMorteMelange"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ZilistockMelange"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/WilerbruggMelange"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -18835,6 +18860,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="it">Mélange d'Iberg</skos:prefLabel>
 	<skos:notation>15253367</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/RoggenstockFlysch"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -19610,6 +19636,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="it">Arenaria della Vraconne</skos:prefLabel>
 	<skos:notation>15251014</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MusselMember"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/OstreaVesicularisBed"/>
 	<adms:status>active</adms:status>
 	<stratigraphicrank xmlns="http://resource.geosciml.org/classifierscheme/cgi/2016.01/#">bed</stratigraphicrank>
 </rdf:Description>
@@ -19706,6 +19733,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="fr">Serpentinite de la Serra Neire</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Serpentinite della Serra Neire</skos:prefLabel>
 	<skos:notation>15255322</skos:notation>
+	<skos:editorialNote xml:lang="en">Not officially recognised (local occurrence) and hence replaced as a petrographic facies (serpentinite of the Tsaté Nappe).</skos:editorialNote>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
@@ -21002,10 +21030,11 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/AlpisellaBeds">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Alpisella-Schichten</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Alpisella Beds</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Couches de l'Alpisella</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Couches dell'Alpisella</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Alpisella-Member</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Alpisella Member</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Membre de l'Alpisella</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Membro dell'Alpisella</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Alpisella-Schichten</skos:altLabel>
 	<skos:notation>15257109</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/AllgaeuFormation"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ChaschaunaBreccia"/>
@@ -21075,10 +21104,11 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/SchattwaldBeds">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Schattwald-Schichten</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Schattwald Beds</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Couches du Schattwald</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Couches del Schattwald</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Schattwald Member</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Membre du Schattwald</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Membro del Schattwald</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Schattwald-Member</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Schattwald-Schichten</skos:altLabel>
 	<skos:notation>15257111</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/AllgaeuFormation"/>
 	<adms:status>active</adms:status>
@@ -21966,7 +21996,9 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="de">Achdorf-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation d'Achdorf</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Achdorf</skos:prefLabel>
+	<skos:notation>15251205</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<adms:status>active</adms:status>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ObereFelsenkalkeFormation">
@@ -22240,6 +22272,357 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
 	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/GoldbergFormation"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/RossoDiGravGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Rosso di Grav Orthogneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Rosso-di-Grav-Orthogneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Orthogneiss du Rosso di Grav</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Ortogneiss del Rosso di Grav</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ZilistockMelange">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de">Wildflysch von Zilistock-Ochsenboden = Wildflysch vom Zilistock (Hantke 2006)</skos:example>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Zilistock Mélange</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Zilistock-Melange</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Mélange du Zilistock</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Mélange dello Zilistock</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/WilerbruggMelange">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de">Wildflysch von Wilerbrugg-Struss = Wildflysch von der Wiler Brücke (Hantke 2006)</skos:example>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Wilerbrugg Mélange</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wilerbrugg-Melange</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Mélange de Wilerbrugg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Mélange di Wilerbrugg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/Melange"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/BardanSchist">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de">Bardan-Zone (Strohbach 1965)</skos:example>
+	<skos:example xml:lang="fr">zone de Bardan (Mayerat Demarne 1994)</skos:example>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Bardan Schist</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Bardan-Schiefer</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Schiste de Bardan</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Scisto di Bardan</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ChapellesSandstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="fr">Turbidites calcaires de Bonaveau (Wilhelm 2005)</skos:example>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="de">Les-Chapelles-Kalksandstein</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Grès calcaire des Chapelles</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Les Chapelles Calcareous Sandstone</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Arenaria calcarea delle Chapelles</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Bonaveau-Kalk</skos:altLabel>
+	<skos:altLabel xml:lang="en">Bonaveau Limestone</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Calcaire de Bonaveau</skos:altLabel>
+	<skos:altLabel xml:lang="it">Calcare di Bonaveau</skos:altLabel>
+	<skos:notation>15255096</skos:notation>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<adms:status>active</adms:status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/DentDeValereFlysch">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Dent de Valère Flysch</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Flysch de la Dent de Valère</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Flysch della Dent de Valère</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Dent-de-Valère-Flysch</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ArpilleGneissComplex">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Arpille Gneiss Complex</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Arpille-Gneiskomplex</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Complesso gneissico dell'Arpille</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Complexe gneissique de l'Arpille</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/TeteDesOttansGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Tête des Ottans Orthogneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Ortogneiss della Tête des Ottans</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Orthogneiss de la Tête des Ottans</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Tête-des-Ottans-Orthogneis</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/FinhautMylonite">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Finhaut Mylonite</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Mylonite de Finhaut</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Finhaut-Mylonit</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Milonite di Finhaut</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/HowaeldlibachFlysch">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Howäldlibach Flysch</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Howäldlibach-Flysch</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Flysch du Howäldlibach</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Flysch del Howäldlibach</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ChamosonOolite">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Chamoson Iron Oolite</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Chamoson-Eisenoolith</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Oolite ferrugineuse de Chamoson</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Oolite ferruginosa di Chamoson</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ErzeggFormation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/PlattenalpBreccia">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Plattenalp Breccia</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Breccia della Plattenalp</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Brèche de la Plattenalp</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Plattenalp-Brekzie</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/GarzirolaMylonite">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Garzirola Mylonite</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Garzirola-Mylonit</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Mylonite du Monte Garzirola</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Milonite del Monte Garzirola</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/DronnaireClaystone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Dronnaire Claystone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Dronnaire-Tonstein</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Argillite de Dronnaire</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Argillite di Dronnaire</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/WutachFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Wutach Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wutach-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation de la Wutach</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione della Wutach</skos:prefLabel>
+	<skos:notation>15251147</skos:notation>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<adms:status>active</adms:status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/HangendeBankkalkeFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Hangende-Bankkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Hangende-Bankkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Hangende-Bankkalke-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Hangende-Bankkalke-Formation</skos:prefLabel>
+	<skos:notation>15251078</skos:notation>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+	<adms:status>active</adms:status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/StaetzerhornFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Stätzerhorn Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Stätzerhorn-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation du Stätzerhorn</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione del Stätzerhorn</skos:prefLabel>
+	<skos:notation>15255064</skos:notation>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ParneglFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/DanisFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/RaschilFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BleisPintgasFormation"/>
+	<adms:status>active</adms:status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/OstreaVesicularisBed">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="de">«Ostrea-Vesicularis-Bank»</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">«Ostrea vesicularis Bed»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Banc à Ostrea vesicularis»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Strato a Ostrea vesicularis»</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/VraconneSandstone"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/OolitheCaviar">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Oolithe caviar»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Oolithe caviar»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Oolithe caviar»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Oolithe caviar»</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/FortDeLEcluseMember"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/CornauxMarlstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Cornaux Marlstone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Cornaux-Mergel</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Marne de Cornaux</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Marna di Cornaux</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/NeuchatelMember"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/HauteriveMarlstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">«Marnes bleues d'Hauterive»</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">«Marnes bleues d'Hauterive»</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">«Marnes bleues d'Hauterive»</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">«Marnes bleues d'Hauterive»</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/HauteriveMember"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/MetabiefLimestone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Métabief Limestone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Métabief-Kalkstein</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Calcaire de Métabief</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Calcare di Métabief</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/VuacheFormation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/BenkenSandstone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Benken Sandstone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Benken-Sandstein</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Grès de Benken</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Arenaria di Benken</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/RoggenstockFlysch">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Roggenstock Flysch</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Roggenstock-Flysch</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Flysch del Roggenstock</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Flysch du Roggenstock</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/IbergMelange"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/SaintMauriceFormation">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">St-Maurice Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">St-Maurice-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation de St-Maurice</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione di St-Maurice</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/PrataGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Prata Gneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Prata-Gneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss du Pizzo di Prata</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss dello Pizzo di Prata</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ChaltebrunneBreccia">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Chaltebrunne Breccia</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Chaltebrunne-Brekzie</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Brèche de la Chaltebrunne</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Breccia della Chaltebrunne</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/FoppaGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Foppa Orthogneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Foppa-Orthogneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Orthogneiss de Foppa</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Ortogneiss di Foppa</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/VazzedaMarble">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Vazzeda Marble</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Vazzeda-Marmor</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Marbre de Vazzeda</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Marmo di Vazzeda</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/AreuaGneiss">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Areua Gneiss</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Areua-Gneis</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Gneiss d'Areua</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Gneiss di Areua</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/AreuaBruschghornMelange"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ScermendoneOphicarbonate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Scermendone Ophicarbonate</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Scermendone-Ophikarbonat</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Ophicarbonate de Scermendone</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Oficarbonato di Scermendone</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/SchwarzhornAmphibolite">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Schwarzhorn Amphibolite</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Schwarzhorn-Amphibolit</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Amphibolite du Schwarzhorn</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anfibolite del Schwarzhorn</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/MaterdellTonalite">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Materdell Tonalite</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Materdell-Tonalit</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Tonalite du Piz Materdell</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Tonalite del Piz Materdell</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/JulierGranodiorite"/>
 </rdf:Description>
 
 </rdf:RDF>
