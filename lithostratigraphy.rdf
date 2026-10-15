@@ -18,6 +18,7 @@
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/AdriaticPlate">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:definition xml:lang="en">The lithostratigraphic units originally belonging to the Adriatic Plate are nowadays mainly occuring in the Austroalpine and South Alpine tectonic domains.</skos:definition>
+	<skos:example xml:lang="en">Apulian plate (Schmid et al. 2004)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Adriatische Platte</skos:prefLabel>
@@ -2040,6 +2041,7 @@
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/BrianconnaisTerrane">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:definition xml:lang="en">The lithostratigraphic units originally belonging to the Briançonnais Terrane are nowadays mainly occuring in the Middle Penninic tectonic subdomain.</skos:definition>
+	<skos:example xml:lang="en">Briançonnais terrane (Schmid et al. 2004)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Briançonnais-Terrane</skos:prefLabel>
@@ -2326,6 +2328,7 @@
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/CerviniaTerrane">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:definition xml:lang="en">The lithostratigraphic units originally belonging to the Cervinia Terrane are nowadays mainly occuring in the Salassic tectonic domain.</skos:definition>
+	<skos:example xml:lang="en">Margna-Sesia fragment (Schmid et al. 2004)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Cervinia-Terrane</skos:prefLabel>
@@ -2608,6 +2611,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:definition xml:lang="en">
 The lithostratigraphic units originally belonging to the European Plate are nowadays mainly occuring in the North Alpine Foreland, Helvetic and Lepontic tectonic domains.</skos:definition>
+	<skos:example xml:lang="en">European margin (Schmid et al. 2004)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Europäische Platte</skos:prefLabel>
@@ -3372,6 +3376,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ValaisanBasin">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:definition xml:lang="en">The lithostratigraphic units originally belonging to the Valaisan Basin are nowadays mainly occuring in the Lower Penninic tectonic subdomain.</skos:definition>
+	<skos:example xml:lang="en">Valais ocean (Schmid et al. 2004)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Walliser Trog</skos:prefLabel>
@@ -15478,6 +15483,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:definition xml:lang="en">The lithostratigraphic units originally belonging to the Piémont Ocean are nowadays mainly occuring in the Upper Penninic tectonic subdomain.</skos:definition>
+	<skos:example xml:lang="en">Piemont-Liguria ocean (Schmid et al. 2004)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Piémont-Ozean</skos:prefLabel>
@@ -15531,6 +15537,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/FornoAmphibolite"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MalencoSerpentinite"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/UrBreccia"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/GetsComplex"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -16137,6 +16144,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ObereBrekzie">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<rdfs:member rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/collBrecciaNappe"/>
 	<skos:definition xml:lang="en">The «Upper Breccia» (Upper Malm of the Breccia Nappe) consists of finely bedded limestones with intercalations of generally fine-grained calcareous breccia (lacking oolites). Quartzites and crystalline components are also present. The «Upper Breccia» differs from the «Lower Breccia» by its lighter colour and finer bedding, as well as in its stratigraphic position above the «Upper Schists».</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">«Obere Brekzie» (der Brekzien-Decke)</skos:prefLabel>
@@ -16150,6 +16158,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ObereSchiefer">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<rdfs:member rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/collBrecciaNappe"/>
 	<skos:definition xml:lang="en">The «Upper Schists» (Lower Malm of the Breccia Nappe) consists of non-carbonate siliceous shales, dark grey in colour or occasionally red and green (particularly in a layer near the top of the unit). Calcarenite, breccia and radiolarite are locally intercalated.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">«Obere Schiefer» (der Brekzien-Decke)</skos:prefLabel>
@@ -16555,6 +16564,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/UntereBrekzie">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<rdfs:member rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/collBrecciaNappe"/>
 	<skos:definition xml:lang="en">The «Lower Breccia» builds up the largest and most typical part of the Breccia Nappe. It consists of a coarse polymictic breccia containing dolomitic (Triassic) and calcareous (Liassic) components, with almost no matrix. In the frontal part of the nappe (Saint-Jean-d'Aulps, Chalune, etc.), the Lower Breccia is almost monomictic, locally containing very large blocks.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">«Untere Brekzie» (der Brekzien-Decke)</skos:prefLabel>
@@ -22050,7 +22060,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/collBrecciaNappe">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#OrderedCollection"/>
 	<skos:prefLabel xml:lang="en">Breccia Nappe</skos:prefLabel>
-	<skos:memberList rdf:nodeID="node1jlk6catfx103"/>
+	<skos:memberList rdf:nodeID="node1k4dc96l9x71"/>
 </rdf:Description>
 
 <rdf:Description rdf:nodeID="node1jlk6catfx101">
@@ -22623,6 +22633,34 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="fr">Tonalite du Piz Materdell</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Tonalite del Piz Materdell</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/JulierGranodiorite"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1k4dc96l9x71">
+	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ObereBrekzie"/>
+	<rdf:rest rdf:nodeID="node1k4dc96l9x73"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1k4dc96l9x72">
+	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/UntereBrekzie"/>
+	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1k4dc96l9x73">
+	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ObereSchiefer"/>
+	<rdf:rest rdf:nodeID="node1k4dc96l9x72"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/GetsComplex">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Gets Ophiolitic Complex</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Complexe ophiolitique des Gets</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Complesso ofiolitico dei Gets</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Gets-Ophiolitkomplex</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean"/>
 </rdf:Description>
 
 </rdf:RDF>
