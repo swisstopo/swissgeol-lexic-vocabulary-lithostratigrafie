@@ -4626,6 +4626,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/SpitzmeilenFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de"> Spitzmeilen-Serie (Schindler 1959)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Spitzmeilen-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Spitzmeilen Formation</skos:prefLabel>
@@ -6081,6 +6082,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/MelsFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de">Melsergruppe (Schindler 1959)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Mels-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Mels Formation</skos:prefLabel>
@@ -6543,6 +6545,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ProdkammFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de">Prodkamm-Serie (Schindler 1959)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Prodkamm-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Prodkamm Formation</skos:prefLabel>
@@ -6595,6 +6598,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/QuartenFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de">Quartengruppe (Schindler 1959)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Quarten-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Quarten Formation</skos:prefLabel>
@@ -7051,6 +7055,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/SexmorFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de">Sexmor-Serie (Schindler 1959)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Sexmor-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Sexmor Formation</skos:prefLabel>
@@ -8560,6 +8565,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/RoetiFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de">Dolomitgruppe (Schindler 1959)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Röti-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Röti Formation</skos:prefLabel>
@@ -9460,6 +9466,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/BraendBreccia">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de">Breccie von Bränd (Schindler 1959)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Bränd-Brekzie</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Bränd Breccia</skos:prefLabel>
@@ -10255,6 +10262,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/LidernenMember">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de">Lidernenschichten (Schindler 1959)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Lidernen-Member</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Lidernen Member</skos:prefLabel>
@@ -11511,6 +11519,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/GuppenHorizon">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de">Fossilhorizont von Guppen (Schindler 1959)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Guppen-Fossilhorizont</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Guppen Fossiliferous Horizon</skos:prefLabel>
@@ -11535,6 +11544,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/BlegiOolite">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de"> Callovien-Eisenoolith = Blegioolith (Schindler 1959)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Blegi-Eisenoolith</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Blegi Iron Oolite</skos:prefLabel>
@@ -12942,6 +12952,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/GassenLimestone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de">Gassenkalk (Schindler 1959)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Gassen-Kalk</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Gassen Limestone</skos:prefLabel>
@@ -13329,7 +13340,6 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="it">Formazione del Kalter Wangen</skos:prefLabel>
 	<skos:notation>15252005</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
-	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/HeilsbergBentonite"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -13348,10 +13358,11 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/KronbergConglomerate">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Kronberg-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Kronberg Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue du Kronberg</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato del Kronberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Kronberg Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation du Kronberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione del Kronberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Kronberg-Formation</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Kronberg-Nagelfluh</skos:altLabel>
 	<skos:notation>15252199</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/HochalpMember"/>
@@ -13566,6 +13577,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="en">Niedermatt Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation de Niedermatt</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione di Niedermatt</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Niedermatt-Schichten</skos:altLabel>
 	<skos:notation>15252089</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<adms:status>active</adms:status>
@@ -13922,10 +13934,11 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/GaebrisConglomerate">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Gäbris-Nagelfluh</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Gäbris Conglomerate</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Poudingue du Gäbris</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Conglomerato del Gäbris</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Gäbris-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Gäbris Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation du Gäbris</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione del Gäbris</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Gäbris-Nagelfluh</skos:altLabel>
 	<skos:notation>15252207</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EggenMember"/>
@@ -13981,6 +13994,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="en">Hörnli Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation du Hörnli</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione del Hörnli</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Hörnli-Schichten</skos:altLabel>
 	<skos:notation>15252034</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/KrinauBeds"/>
@@ -14132,6 +14146,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="en">Haldenhof Marlstone</skos:prefLabel>
 	<skos:notation>15252064</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/HeilsbergBentonite"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -14215,6 +14230,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="en">Chnebelburg Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation de la Chnebelburg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione della Chnebelburg</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Chnebelburg-Schichten</skos:altLabel>
 	<skos:notation>15252107</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MeinisbergSandstone"/>
@@ -14269,6 +14285,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="en">Jensberg Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation du Jensberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione del Jensberg</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Jensberg-Schichten</skos:altLabel>
 	<skos:notation>15252095</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/RebhubelBeds"/>
@@ -14292,10 +14309,11 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/MeilenFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Meilen-Schichten</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Meilen Beds</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Couches de Meilen</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Strati di Meilen</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Meilen-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Meilen Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation de Meilen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione di Meilen</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Meilen-Schichten</skos:altLabel>
 	<skos:notation>15252055</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/HombrechtikonLimestone"/>
@@ -14324,6 +14342,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="en">Pfänder Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation du Pfänder</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione del Pfänder</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Pfänder-Schichten</skos:altLabel>
 	<skos:notation>15252071</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/GebhardsbergConglomerate"/>
@@ -14339,6 +14358,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="en">Pfannenstiel Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation du Pfannenstiel</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione del Pfannenstiel</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Pfannenstiel-Schichten</skos:altLabel>
 	<skos:notation>15252045</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/FalaetschenMarlstone"/>
@@ -14352,6 +14372,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="en">Üetliberg Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Formation de l'Üetliberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Formazione del Üetliberg</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Üetliberg-Schichten</skos:altLabel>
 	<skos:notation>15252041</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LoorenkopfConglomerate"/>
@@ -14364,10 +14385,11 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ZuerichFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
-	<skos:prefLabel xml:lang="de">Zürich-Schichten</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Zürich Beds</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Couches de Zürich</skos:prefLabel>
-	<skos:prefLabel xml:lang="it">Strati di Zürich</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Zürich-Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Zürich Formation</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Formation de Zürich</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Formazione di Zürich</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Zürich-Schichten</skos:altLabel>
 	<skos:notation>15252047</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/AeugstertalBentonite"/>
@@ -14584,7 +14606,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="fr">Bentonite du Heilsberg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Bentonite del Heilsberg</skos:prefLabel>
 	<skos:notation>15252006</skos:notation>
-	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/KalterWangenFormation"/>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/HaldenhofMarlstone"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -19202,6 +19224,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/GrischMember">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:example xml:lang="de"> «Grischschichten» (Schindler 1959)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Grisch-Member</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Grisch Member</skos:prefLabel>
@@ -21870,6 +21893,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/PlioQuaternaryLithostratigraphy">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:definition xml:lang="en">For younger deposits (Pliocene to Holocene), the lithostratigraphic procedure should be used only for accumulations whose formation is completed. Active landforms, such as alluvial cones, modern fluvial deposits or landslides are not subject of a stratigraphic denomination.</skos:definition>
+	<skos:scopeNote xml:lang="en">Strictly speaking, the lithostratigraphic procedure should only be applied to deposits whose formation and development have been completed within the context of their underlying processes (Remane et al. 2005). However, in geological mapping or modelling, it can be useful to assign informal names to active debris cones, river deposits or landslides in order to refer concisely to specific, spatially defined features.</skos:scopeNote>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:topConceptOf rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Pliozäne und Quartäre Lithostratigraphie</skos:prefLabel>
@@ -22051,18 +22075,6 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node1jlk6catfx99">
-	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/collBrecciaNappe"/>
-	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/collBrecciaNappe">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#OrderedCollection"/>
-	<skos:prefLabel xml:lang="en">Breccia Nappe</skos:prefLabel>
-	<skos:memberList rdf:nodeID="node1k4dc96l9x71"/>
-</rdf:Description>
-
 <rdf:Description rdf:nodeID="node1jlk6catfx101">
 	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
 	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BonaveFormation"/>
@@ -22210,78 +22222,6 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="it">Murchisonaeoolith-Formation</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EuropeanPlate"/>
 	<skos:related rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/SissachMember"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/JuraLiSt">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#OrderedCollection"/>
-	<skos:prefLabel xml:lang="en">lithostratigraphic units of the Jura Mountains</skos:prefLabel>
-	<skos:memberList rdf:nodeID="node1jvpjm70px339"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/PrealpsLiSt">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#OrderedCollection"/>
-	<skos:prefLabel xml:lang="en">lithostratigraphic units of the Prealps</skos:prefLabel>
-	<skos:memberList rdf:nodeID="node1jlk6catfx99"/>
-</rdf:Description>
-
-<rdf:Description rdf:nodeID="node1jvpjm70px339">
-	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/NarlayFormation"/>
-	<rdf:rest rdf:nodeID="node1jvpjm70px340"/>
-</rdf:Description>
-
-<rdf:Description rdf:nodeID="node1jvpjm70px340">
-	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PerteDuRhoneFormation"/>
-	<rdf:rest rdf:nodeID="node1jvpjm70px341"/>
-</rdf:Description>
-
-<rdf:Description rdf:nodeID="node1jvpjm70px341">
-	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/RocherDesHirondellesFormation"/>
-	<rdf:rest rdf:nodeID="node1jvpjm70px342"/>
-</rdf:Description>
-
-<rdf:Description rdf:nodeID="node1jvpjm70px342">
-	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/GorgesDeLOrbeFormation"/>
-	<rdf:rest rdf:nodeID="node1jvpjm70px343"/>
-</rdf:Description>
-
-<rdf:Description rdf:nodeID="node1jvpjm70px343">
-	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/GrandEssertFormation"/>
-	<rdf:rest rdf:nodeID="node1jvpjm70px344"/>
-</rdf:Description>
-
-<rdf:Description rdf:nodeID="node1jvpjm70px344">
-	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/VuacheFormation"/>
-	<rdf:rest rdf:nodeID="node1jvpjm70px345"/>
-</rdf:Description>
-
-<rdf:Description rdf:nodeID="node1jvpjm70px345">
-	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ChambotteFormation"/>
-	<rdf:rest rdf:nodeID="node1jvpjm70px346"/>
-</rdf:Description>
-
-<rdf:Description rdf:nodeID="node1jvpjm70px346">
-	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/VionsFormation"/>
-	<rdf:rest rdf:nodeID="node1jvpjm70px347"/>
-</rdf:Description>
-
-<rdf:Description rdf:nodeID="node1jvpjm70px347">
-	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PierreChatelFormation"/>
-	<rdf:rest rdf:nodeID="node1jvpjm70px348"/>
-</rdf:Description>
-
-<rdf:Description rdf:nodeID="node1jvpjm70px348">
-	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/GoldbergFormation"/>
-	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/RossoDiGravGneiss">
@@ -22633,24 +22573,6 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="fr">Tonalite du Piz Materdell</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Tonalite del Piz Materdell</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/JulierGranodiorite"/>
-</rdf:Description>
-
-<rdf:Description rdf:nodeID="node1k4dc96l9x71">
-	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ObereBrekzie"/>
-	<rdf:rest rdf:nodeID="node1k4dc96l9x73"/>
-</rdf:Description>
-
-<rdf:Description rdf:nodeID="node1k4dc96l9x72">
-	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/UntereBrekzie"/>
-	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-</rdf:Description>
-
-<rdf:Description rdf:nodeID="node1k4dc96l9x73">
-	<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-	<rdf:first rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ObereSchiefer"/>
-	<rdf:rest rdf:nodeID="node1k4dc96l9x72"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/GetsComplex">
