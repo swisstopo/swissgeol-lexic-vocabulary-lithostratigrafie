@@ -13677,11 +13677,9 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="it">Formazione del Rigi</skos:prefLabel>
 	<skos:notation>15252184</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/RigiScheideggConglomerate"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/RadiolaritreicheNagelfluh"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BunteRigiNagelfluh"/>
-	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PfiffeggConglomerate"/>
-	<skos:related rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BunteRigiNagelfluh"/>
-	<skos:related rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PfiffeggConglomerate"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -13693,7 +13691,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="fr">Poudingue de la Rigi-Scheidegg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato della Rigi-Scheidegg</skos:prefLabel>
 	<skos:notation>15252185</skos:notation>
-	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/MolasseBasin"/>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/RigiFormation"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -14863,6 +14861,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="it">Bunte Rigi-Nagelfluh</skos:prefLabel>
 	<skos:notation>15252186</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/RigiFormation"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PfiffeggConglomerate"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -14874,7 +14873,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="fr">Poudingue de la Pfiffegg</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Conglomerato della Pfiffegg</skos:prefLabel>
 	<skos:notation>15252187</skos:notation>
-	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/RigiFormation"/>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BunteRigiNagelfluh"/>
 	<adms:status>active</adms:status>
 </rdf:Description>
 
@@ -15491,6 +15490,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/BiotFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Biot Formation represents the main body of the Dranses Formation. It is made of a calcareous sandy flysch with a very regular and monotonous stratigraphy. A characteristic feature is the presence of pale-coloured limestone beds («calcaires blonds»), the surfaces of which are often covered with traces of helminthoids and fucoids. Conglomeratic levels containing rounded carbonate and siliceous pebbles are found locally (Colerin Conglomerate).</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Biot-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Biot Formation</skos:prefLabel>
@@ -15500,6 +15500,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ColerinConglomerate"/>
 	<adms:status>active</adms:status>
+	<skos:scope rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/DransesNappe"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean">
@@ -15565,6 +15566,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ColerinConglomerate">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Colerin Conglomerate designates a locally occuring coarse bed in the mostly sandy Biot Formation (Dranses Nappe). The pebbles are well-rounded carbonate and siliceous (radiolarite) rocks of South Alpine origin.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Colerin-Konglomerat</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Colerin Conglomerate</skos:prefLabel>
@@ -15573,6 +15575,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:notation>15255306</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BiotFormation"/>
 	<adms:status>active</adms:status>
+	<skos:scope rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/DransesNappe"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/GeissbachConglomerate">
@@ -18041,6 +18044,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ChetillonFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Chétillon Formation represents the «basal complex» of the Dranses Nappe. It is made of variegated pelites (red, green or beige claystones and siltstones), with thin intercalated sandstone beds. Helminthoids occur sporadically at the top of the unit.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Chétillon-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Chétillon Formation</skos:prefLabel>
@@ -18049,6 +18053,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:notation>15255307</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean"/>
 	<adms:status>active</adms:status>
+	<skos:scope rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/DransesNappe"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/MeinisbergSandstone">
@@ -18274,6 +18279,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/EstavannensFlysch">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Estavannens Flysch represents the upper part of the Sarine Nappe. It is mainly made of sandstone, either alternating with marlstone and claystone, or almost entirely formed of sandstone in beds 50 to 200 cm thick or more, sometimes conglomeratic (including fragments of pink granite).</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Estavannens-Flysch</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Estavannens Flysch</skos:prefLabel>
@@ -18282,6 +18288,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:notation>15255308</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean"/>
 	<adms:status>active</adms:status>
+	<skos:scope rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SarineNappe"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/LandaizeLimestone">
@@ -19709,6 +19716,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/ReidigenFormation">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Reidigen Formation represents the lower part of the Sarine Nappe. It is made of mica-bearing sandy flysch, with dark brown to black pelite, light-coloured fucoid limestone and polymictic conglomerate. Helminthoids are rather rare.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
 	<skos:prefLabel xml:lang="de">Reidigen-Formation</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Reidigen Formation</skos:prefLabel>
@@ -19717,6 +19725,7 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:notation>15255309</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean"/>
 	<adms:status>active</adms:status>
+	<skos:scope rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SarineNappe"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/RodomontsFormation">
@@ -22583,6 +22592,33 @@ The lithostratigraphic units originally belonging to the European Plate are nowa
 	<skos:prefLabel xml:lang="it">Complesso ofiolitico dei Gets</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Gets-Ophiolitkomplex</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/PiemontOcean"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/NebelbergLimestone">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LithostratigraphicUnits"/>
+	<skos:prefLabel xml:lang="en">Nebelberg Freshwater Limestone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Nebelberg-Süsswasserkalk</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Calcaire lacustre du Nebelberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Calcare d'aqua dolce del Nebelberg</skos:prefLabel>
+	<skos:notation>XXX</skos:notation>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/LaufenJuranagelfluh"/>
+	<adms:status>active</adms:status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/LiSt_Sarine">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:prefLabel xml:lang="en">Lithostratigraphy of the Sarine Nappe</skos:prefLabel>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/EstavannensFlysch"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ReidigenFormation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/Lithostratigraphy/LiSt_Dranses">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:prefLabel xml:lang="en">Lithostratigraphy of the Dranses Nappe</skos:prefLabel>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/BiotFormation"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ColerinConglomerate"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/Lithostratigraphy/ChetillonFormation"/>
 </rdf:Description>
 
 </rdf:RDF>
